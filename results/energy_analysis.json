@@ -1,0 +1,189 @@
+{
+  "inputs": [
+    "data/sources/commodities_monthly.csv (Pink Sheet, frozen)",
+    "data/sources/tgju_monthly.csv (free-market FX, frozen)",
+    "data/sources/worldbank_annual_multi.csv"
+  ],
+  "assumptions": {
+    "gasoline_price_irr_per_l": {
+      "value": 20000.0,
+      "range": [
+        15000.0,
+        30000.0
+      ],
+      "source": "NIOPDC two-tier rationing in force since Aban 1398: 15,000 IRR/l quota, 30,000 IRR/l above; blended by usage shares"
+    },
+    "gasoline_consumption_ml_per_day": {
+      "value": 105.0,
+      "range": [
+        90.0,
+        120.0
+      ],
+      "source": "NIOPDC statements on 1402-03 average daily gasoline burn"
+    },
+    "natgas_price_irr_per_m3": {
+      "value": 3000.0,
+      "range": [
+        1500.0,
+        7000.0
+      ],
+      "source": "Ministry of Petroleum tariff schedule 1402, blended across household tiers and industry"
+    },
+    "natgas_consumption_bcm": {
+      "value": 240.0,
+      "range": [
+        215.0,
+        265.0
+      ],
+      "source": "IEA and NIGC figures for 1402 domestic gas burn"
+    },
+    "natgas_border_usd_per_mmbtu": {
+      "value": 6.0,
+      "range": [
+        4.0,
+        8.0
+      ],
+      "source": "Iran's pipeline export contracts (Turkiye, Iraq) trade far below the European hub price carried in the Pink Sheet; the hub price is reported alongside, not used in the band"
+    },
+    "electricity_price_irr_per_kwh": {
+      "value": 1500.0,
+      "range": [
+        800.0,
+        3000.0
+      ],
+      "source": "Tavanir blended tariff estimate, 1402"
+    },
+    "electricity_consumption_twh": {
+      "value": 330.0,
+      "range": [
+        300.0,
+        360.0
+      ],
+      "source": "Tavanir consumption reports for 1402"
+    },
+    "electricity_border_usd_per_kwh": {
+      "value": 0.05,
+      "range": [
+        0.035,
+        0.065
+      ],
+      "source": "regional export price band (Iraq, Pakistan, Afghanistan contracts)"
+    },
+    "m3_per_mmbtu": {
+      "value": 26.8,
+      "source": "energy-content conversion"
+    },
+    "litres_per_barrel": {
+      "value": 159.0,
+      "source": "unit conversion"
+    },
+    "gasoline_crack_ratio": {
+      "value": 1.15,
+      "range": [
+        1.05,
+        1.25
+      ],
+      "source": "product-over-crude price ratio; gasoline trades at a margin over Brent"
+    }
+  },
+  "reference": {
+    "jalali_year": 1403,
+    "brent_usd_per_bbl": 78.84166666666667,
+    "natgas_europe_usd_per_mmbtu_hub": 12.3775,
+    "usd_free_market_irr": 687229.1729515049
+  },
+  "implicit_subsidy_usd_bn": {
+    "by_carrier_central": {
+      "gasoline": 20.73904088707471,
+      "natgas": 52.683657841318706,
+      "electricity": 15.779716258443921
+    },
+    "total_central": 89.20241498683734,
+    "band": [
+      53.52601256782579,
+      128.02487334851773
+    ],
+    "pct_gdp_central": 24.59520643311859,
+    "pct_gdp_band": [
+      14.758382145165408,
+      35.29947243071044
+    ],
+    "gdp_reference": {
+      "year": 2025,
+      "usd_bn": 362.682115433364
+    }
+  },
+  "domestic_price_in_usd": {
+    "gasoline_usd_per_l": 0.02910237339620523,
+    "natgas_usd_per_m3": 0.004365356009430784,
+    "electricity_usd_per_kwh": 0.002182678004715392
+  },
+  "comparators": {
+    "irn": {
+      "intensity_mj_per_ppp_usd": [
+        2021,
+        9.32
+      ],
+      "energy_use_kgoe_per_capita": [
+        2023,
+        3399.10476404644
+      ],
+      "electricity_losses_pct": [
+        2023,
+        10.0485672530559
+      ],
+      "fossil_share_pct": [
+        2023,
+        0.0
+      ],
+      "renewables_share_pct": [
+        2021,
+        0.9
+      ]
+    },
+    "egy": {
+      "intensity_mj_per_ppp_usd": [
+        2021,
+        3.06
+      ],
+      "energy_use_kgoe_per_capita": [
+        2023,
+        928.39494742708
+      ],
+      "electricity_losses_pct": [
+        2023,
+        19.8703109747594
+      ],
+      "fossil_share_pct": [
+        2023,
+        0.0
+      ],
+      "renewables_share_pct": [
+        2021,
+        6.1
+      ]
+    },
+    "tur": {
+      "intensity_mj_per_ppp_usd": [
+        2022,
+        2.27
+      ],
+      "energy_use_kgoe_per_capita": [
+        2024,
+        1924.93815098993
+      ],
+      "electricity_losses_pct": [
+        2024,
+        8.27302560869004
+      ],
+      "fossil_share_pct": [
+        2024,
+        0.0
+      ],
+      "renewables_share_pct": [
+        2021,
+        12.0
+      ]
+    }
+  }
+}

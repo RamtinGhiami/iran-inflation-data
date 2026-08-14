@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.chrome-profile/
+.ipynb_checkpoints/
+
+# the paper build workshop stays local; only the built PDF ships
+paper/
+
+# LaTeX source bundle for co-authors stays local
+iran-inflation-latex.zip
+
+# code and build tooling stay local; the repo ships only the paper and the data
+scripts/
+notebooks/
+build.ps1
+requirements.txt

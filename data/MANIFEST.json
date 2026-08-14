@@ -1,0 +1,569 @@
+{
+  "frozen_on": "2026-08-12",
+  "collected_on": "2026-08-08 (core) / 2026-08-12 (labor, multi-country, PPP, energy expansion)",
+  "n_files": 140,
+  "total_bytes": 27964890,
+  "note": "Fixed snapshot. Scripts 08-14 rebuild every published number from it, with no network access and no dependence on the current date. Provenance for each source is in data/PROVENANCE.md.",
+  "files": {
+    "sources/commodities_monthly.csv": {
+      "sha256": "f1910933a69a15a043508775950ea45d276445c525ba182b60e0711716403879",
+      "bytes": 1842851
+    },
+    "sources/ilostat_annual.csv": {
+      "sha256": "a878ebd147e1432f4e0a2b4f4aee98ef90a3c5e725f413c8732b0868f921f2ac",
+      "bytes": 92014
+    },
+    "sources/iran_annual_inflation_idp.csv": {
+      "sha256": "3828ebfdae1a1f9fccba6cc7ddbaff2c05cb6714bbe471e1955e65d70711bbad",
+      "bytes": 8172
+    },
+    "sources/tgju_daily.csv": {
+      "sha256": "063011276deb00254478b89d4b506abce2c6ce920c29b395082effa43982982f",
+      "bytes": 5610826
+    },
+    "sources/tgju_monthly.csv": {
+      "sha256": "b4c15f50e9fb00bce2b3d38e4ef0176417d6bbdc0bb0f2025a8a96840877559a",
+      "bytes": 276034
+    },
+    "sources/wb_inflation_monthly.csv": {
+      "sha256": "b97685db656d9067d1f6468eadbe450cbff30ecdf3f26c09a4c972cdcefce6a9",
+      "bytes": 91230
+    },
+    "sources/worldbank_annual.csv": {
+      "sha256": "b15bf464c8187ba29c11917334ddb6c5c9a3dcd5fbb0da301ae9532c48c40199",
+      "bytes": 183297
+    },
+    "sources/worldbank_annual_multi.csv": {
+      "sha256": "ba249872ef89e8467b98ff879738c9144f773a506dd5587b1d0c1c670153687f",
+      "bytes": 505095
+    },
+    "raw/ilostat_EAP_DWAP_SEX_AGE_RT_A_EGY.csv": {
+      "sha256": "56f811b1fd3e72b8404f5bb8111be9273edd71f4bf3ba87c167518825c4ded40",
+      "bytes": 198933
+    },
+    "raw/ilostat_EAP_DWAP_SEX_AGE_RT_A_IRN.csv": {
+      "sha256": "76c301db412ba3cffc869665a4a27dd3f91395e2972bda869d1fd7f84286f25a",
+      "bytes": 175003
+    },
+    "raw/ilostat_EAP_DWAP_SEX_AGE_RT_A_TUR.csv": {
+      "sha256": "bbf033dc9f00c885f1d254991a15819f51c38cdaf80463cb21a4b7fedb23ebc5",
+      "bytes": 213356
+    },
+    "raw/ilostat_EAR_EMTA_SEX_CUR_NB_A_EGY.csv": {
+      "sha256": "34152a3c3cb631f7928e623fd18cc16ca735bca357e36b2e68c70f34bf40a109",
+      "bytes": 35988
+    },
+    "raw/ilostat_EAR_EMTA_SEX_CUR_NB_A_TUR.csv": {
+      "sha256": "146d4457252a614e37ad1f1ac8c4cc66498896264e8676b5c7bacf1119d26fcd",
+      "bytes": 16216
+    },
+    "raw/ilostat_EMP_DWAP_SEX_AGE_RT_A_EGY.csv": {
+      "sha256": "6f79f06b7b9a4f46be9149b5cd4e2f6bc199b6901236865a78e5ad1b7f337e61",
+      "bytes": 166387
+    },
+    "raw/ilostat_EMP_DWAP_SEX_AGE_RT_A_IRN.csv": {
+      "sha256": "fa8047a6b774383e7f3e7a434745fb7455c05ebd5bdb1853fd0e04e967c4b26e",
+      "bytes": 160422
+    },
+    "raw/ilostat_EMP_DWAP_SEX_AGE_RT_A_TUR.csv": {
+      "sha256": "68e24c137cd4417fb093720b3beed14500bfda9de172ccb950a6120fc955e5cb",
+      "bytes": 213327
+    },
+    "raw/ilostat_EMP_TEMP_SEX_AGE_NB_A_EGY.csv": {
+      "sha256": "779659ce117f6a11bd7e719af9d4302b5398b6e2ec6b9af45e34c7002746eb69",
+      "bytes": 169354
+    },
+    "raw/ilostat_EMP_TEMP_SEX_AGE_NB_A_IRN.csv": {
+      "sha256": "115ad11392f07306fda09bb93fce446522fa7f35f77b5173e446eed312456161",
+      "bytes": 163662
+    },
+    "raw/ilostat_EMP_TEMP_SEX_AGE_NB_A_TUR.csv": {
+      "sha256": "eceb215f8b689224cf4765ba27f9f0ce96de8afbdc770cda87081c998bab5d6c",
+      "bytes": 219643
+    },
+    "raw/ilostat_EMP_XTRU_SEX_AGE_RT_A_EGY.csv": {
+      "sha256": "51a3893be0b22786c0fe3f5d8ec392354ac86ed8352579fc98bd262155f84f7c",
+      "bytes": 36536
+    },
+    "raw/ilostat_EMP_XTRU_SEX_AGE_RT_A_IRN.csv": {
+      "sha256": "d68d8c362a61ada3fc713c7a44c60d3cd6afa54e116b3713d4868f1f7e549e96",
+      "bytes": 85386
+    },
+    "raw/ilostat_EMP_XTRU_SEX_AGE_RT_A_TUR.csv": {
+      "sha256": "10b94bd96ba28613aab0d80212f1d50effc4c858483b543f22e09c295da9de8f",
+      "bytes": 92361
+    },
+    "raw/ilostat_SDG_0831_SEX_ECO_RT_A_EGY.csv": {
+      "sha256": "8bd75296bb6d3f2514b5351e0041f8ed8b91c7fc3fe9fd426daf9e44501bbd80",
+      "bytes": 45667
+    },
+    "raw/ilostat_SDG_0831_SEX_ECO_RT_A_TUR.csv": {
+      "sha256": "b4ffe9fc42abc5f24e42f76e0b10270bb27d546df75e06b6e7e5dd62a964bebb",
+      "bytes": 86106
+    },
+    "raw/ilostat_UNE_DEAP_SEX_AGE_RT_A_EGY.csv": {
+      "sha256": "ca62a30c8a50d1cc699f4ac1d015c4ad7020154eea8246d4fdc36f820536d5b5",
+      "bytes": 151855
+    },
+    "raw/ilostat_UNE_DEAP_SEX_AGE_RT_A_IRN.csv": {
+      "sha256": "c0411d21364ab47eaeaa602ce888a28431bbad3e4833c88de7b031afaa2dad2c",
+      "bytes": 159823
+    },
+    "raw/ilostat_UNE_DEAP_SEX_AGE_RT_A_TUR.csv": {
+      "sha256": "0071034e47ccc17ecbae36d2e959b8be321339d64da95eb64c55909eb1fba919",
+      "bytes": 214076
+    },
+    "raw/irandataportal_inflation.xlsx": {
+      "sha256": "fb4875ba50f1737959a62533d8e69699818fa0cf08095a04916e7654bea97b5e",
+      "bytes": 42918
+    },
+    "raw/tgju_geram18.json": {
+      "sha256": "3b15fab0d0a741a525dd4bbeb744b28f64b9cbbe54ec09b383ed390438aee80e",
+      "bytes": 610229
+    },
+    "raw/tgju_geram24.json": {
+      "sha256": "644c067a7abc42b667e4c8b547c72a579cc7c030be5a5f70a62762ef4f862170",
+      "bytes": 594095
+    },
+    "raw/tgju_mesghal.json": {
+      "sha256": "230ecca3903db0b2c8b2428aa4c31261cd039c243b788b553fb5ecce399970ee",
+      "bytes": 623046
+    },
+    "raw/tgju_nim.json": {
+      "sha256": "bfeb1a86a946af08b5b039e1bb4505518cb309009d230ad0addcb55f16c9ab47",
+      "bytes": 599965
+    },
+    "raw/tgju_ons.json": {
+      "sha256": "fc8c53fb2d7b1a8ac616db67eec9b62bb903284771cb9ff885eb0f3f40f4cc57",
+      "bytes": 2097986
+    },
+    "raw/tgju_price_aed.json": {
+      "sha256": "f1293fec6d6fbfd76a7607085eae24c4588e7b9053fec4d9e932f7ac78eed0bb",
+      "bytes": 579017
+    },
+    "raw/tgju_price_dollar_rl.json": {
+      "sha256": "d99814e9f3d397a3570455714dd3cb2c6ccffdf27654b91459c80bc6baa4778e",
+      "bytes": 650119
+    },
+    "raw/tgju_price_eur.json": {
+      "sha256": "c7d8f5d48da3d5165dc4b0c6f042e89620a20e526903f9fc26896d54f8c10bad",
+      "bytes": 607965
+    },
+    "raw/tgju_price_gbp.json": {
+      "sha256": "c66c2fbf3a6aadc80c8eb89750143fbc35d17e1b0ca294acd8ba0fd90326726b",
+      "bytes": 609821
+    },
+    "raw/tgju_rob.json": {
+      "sha256": "b9da53575067e8447f3cd350132ac7bf9196c2b9a19858cf72aef2f8a05ae86f",
+      "bytes": 594672
+    },
+    "raw/tgju_sekeb.json": {
+      "sha256": "79cbd9b80f72f0095e3dedcac25ad3999281c8c1b1fdcd0b0887fa7755298b9a",
+      "bytes": 622448
+    },
+    "raw/tgju_sekee.json": {
+      "sha256": "231d01bdb5cfba91e2e8ce21ab5df5e3b3b719e4ec9ab4fe11a3dc7c09bb6d6d",
+      "bytes": 769039
+    },
+    "raw/wb_inflation_database.xlsx": {
+      "sha256": "03627f4c9063c79f252bad3ae3d6b851627977be690e9db0c220b08b2e139260",
+      "bytes": 5591789
+    },
+    "raw/worldbank_FM.AST.CGOV.ZG.M3.json": {
+      "sha256": "72f3a36a96d006f8f95a3efd141701cada90ff18e5599b482aac12845582136a",
+      "bytes": 19077
+    },
+    "raw/worldbank_FM.AST.DOMS.CN.json": {
+      "sha256": "9c62f57728f2d958e60f418408affe145d318d3977cd8ce2c301aceaeda23135",
+      "bytes": 16737
+    },
+    "raw/worldbank_FM.AST.NFRG.CN.json": {
+      "sha256": "bbf99f180137196231bafb8a5ed0b6089b94e1e00c774d936b79c051a40816b6",
+      "bytes": 16722
+    },
+    "raw/worldbank_FM.LBL.BMNY.CN.json": {
+      "sha256": "8580227df602bdd13fd18db3c23ec3c845e0df08b6f0766a4fa735bafd5ded14",
+      "bytes": 16216
+    },
+    "raw/worldbank_FM.LBL.BMNY.GD.ZS.json": {
+      "sha256": "c0c040c17f6b3884bf15e3ff2726406c31d7f9051a86851c09f06597529d9c01",
+      "bytes": 16335
+    },
+    "raw/worldbank_FM.LBL.BMNY.ZG.json": {
+      "sha256": "88b51ecc9a24e12cfce3711ab445f46d3ff85801c01927ec8af0ddfdabdfeebe",
+      "bytes": 16574
+    },
+    "raw/worldbank_FP.CPI.TOTL.ZG.json": {
+      "sha256": "70b1412a5c82050b492984783f0448889621de205d15379399962dcdd9913f85",
+      "bytes": 17266
+    },
+    "raw/worldbank_FP.CPI.TOTL.json": {
+      "sha256": "7eaa10482808de83a49689cde2ac001f53afe4a2359cc131b51572a0276e305d",
+      "bytes": 16806
+    },
+    "raw/worldbank_FR.INR.RINR.json": {
+      "sha256": "e35d8c1215a5bfbafc8731b761253ea6d6bfaa1703a3074840f583a21d0f4dd3",
+      "bytes": 15447
+    },
+    "raw/worldbank_FS.AST.CGOV.GD.ZS.json": {
+      "sha256": "1d3e03c8e6af4cc074993c1db4dff1f8ac030a0176ca4ee06e07daa9dc337665",
+      "bytes": 17657
+    },
+    "raw/worldbank_GC.NLD.TOTL.GD.ZS.json": {
+      "sha256": "bebbfacdb3ef47aac40c846fc70892c820d1ad8db37f4f74e755afaf6bd0185e",
+      "bytes": 17750
+    },
+    "raw/worldbank_GC.REV.XGRT.GD.ZS.json": {
+      "sha256": "b0120671fe43355d14f13582d30c58a900bd2910093ceefc16925cca11a40821",
+      "bytes": 17055
+    },
+    "raw/worldbank_GC.TAX.TOTL.GD.ZS.json": {
+      "sha256": "5550d8b260b45027f92efcfacf4347d2c9b5e2e7f8be77238e38c16be0153235",
+      "bytes": 16134
+    },
+    "raw/worldbank_GC.XPN.INTP.RV.ZS.json": {
+      "sha256": "ebd6dab4882663cd6c1bd3ccb3f3d6032426b296ba48f3f61f6fd159b70fb57a",
+      "bytes": 16839
+    },
+    "raw/worldbank_GC.XPN.TOTL.GD.ZS.json": {
+      "sha256": "04db4350d722acef72e9c4645b55763f6760cca79165bcc248ff7c6b40b433a4",
+      "bytes": 15867
+    },
+    "raw/worldbank_NE.CON.GOVT.ZS.json": {
+      "sha256": "62339b68c68f8a153a3aabf0d177e227ab309bae9717747223bc31596396f4c0",
+      "bytes": 18709
+    },
+    "raw/worldbank_NE.EXP.GNFS.ZS.json": {
+      "sha256": "51785581cc98109ecd45cf54dbbeaec8fdf62736412c98df30422d680b019bff",
+      "bytes": 17453
+    },
+    "raw/worldbank_NE.IMP.GNFS.ZS.json": {
+      "sha256": "b4a483919acbaa558fce4a2ac892a10381b44e2fe174ddc3adf9805089b1b7aa",
+      "bytes": 17450
+    },
+    "raw/worldbank_NY.GDP.DEFL.KD.ZG.json": {
+      "sha256": "06446d3a20e9a6597a4186498a3de860d8734f2d75a3bbdd0b98c3443d92c888",
+      "bytes": 17253
+    },
+    "raw/worldbank_NY.GDP.MKTP.KD.ZG.json": {
+      "sha256": "432e79c2c800232d6d9e4b02eac388501e90353ca549a094d722c1967ad9402c",
+      "bytes": 16408
+    },
+    "raw/worldbank_NY.GDP.PCAP.KD.json": {
+      "sha256": "cb792f1b5e3c4bb997fb3d38f0b34db2c98ea67b8c28ea53184c3de4cee0f48e",
+      "bytes": 17061
+    },
+    "raw/worldbank_NY.GDP.PETR.RT.ZS.json": {
+      "sha256": "d16196f6a792fb0185898b6a3afa3462659d937b061ed04fe4fa80dcf5c8fe13",
+      "bytes": 16143
+    },
+    "raw/worldbank_PA.NUS.FCRF.json": {
+      "sha256": "71c6b91efe5bd517f86115dff9219937c8f084834582ae21b8db0c83a8a40434",
+      "bytes": 17943
+    },
+    "raw/worldbank_SL.UEM.TOTL.ZS.json": {
+      "sha256": "fb1f5e5e1833aac9a2c486dba88974494beda501791c76da80a3dfd1fdb712fd",
+      "bytes": 18500
+    },
+    "raw/worldbank_SP.POP.TOTL.json": {
+      "sha256": "39541e96a0e6ab6e15e9cd3b90f4ea1093af32f224799c8f1222f23be706d21c",
+      "bytes": 15217
+    },
+    "raw/worldbank_TX.VAL.FUEL.ZS.UN.json": {
+      "sha256": "3f9b6127633e635c507c41960fda3a43e5a4ee17430722c7d65865e51a16a172",
+      "bytes": 17242
+    },
+    "raw/worldbank_multi_EGY_EG.EGY.PRIM.PP.KD.json": {
+      "sha256": "12d948a1eb6b17c2ee73479d2b2dd13235f70d2d6a26c71b2bcdf65c52668d1b",
+      "bytes": 16588
+    },
+    "raw/worldbank_multi_EGY_EG.ELC.LOSS.ZS.json": {
+      "sha256": "36e5123d346beb31d160b3e4138888e44b8bb1f85ccb8bc5f4e4eb9308c1d7b2",
+      "bytes": 17129
+    },
+    "raw/worldbank_multi_EGY_EG.FEC.RNEW.ZS.json": {
+      "sha256": "c5fa24eb12243ca8a30f0a24a402c66344afc18cf5e2d30aff934e6a866405f8",
+      "bytes": 16749
+    },
+    "raw/worldbank_multi_EGY_EG.USE.COMM.FO.ZS.json": {
+      "sha256": "3a2e958c75c6525161e2419e8b56514924a0c96e069853b096a0334a705f4a18",
+      "bytes": 15754
+    },
+    "raw/worldbank_multi_EGY_EG.USE.PCAP.KG.OE.json": {
+      "sha256": "200c8df1462adee956869f251a5c572d480b363635db6615bfdb7db9ecc77263",
+      "bytes": 15938
+    },
+    "raw/worldbank_multi_EGY_FP.CPI.TOTL.ZG.json": {
+      "sha256": "dfe5188201367b022a5e2eaab98bf24b86951829fbc3487d0ed2b0acc5c0c603",
+      "bytes": 15660
+    },
+    "raw/worldbank_multi_EGY_NE.GDI.FTOT.ZS.json": {
+      "sha256": "6cf85d3a63c8025a39f363cd5786364e0f0158823d289f8ec93eab4b6fe7a6da",
+      "bytes": 15845
+    },
+    "raw/worldbank_multi_EGY_NE.GDI.TOTL.ZS.json": {
+      "sha256": "da48336cface15e7bba277bc7a68d656671e291fc25fcc6a691057eff49ff74c",
+      "bytes": 15466
+    },
+    "raw/worldbank_multi_EGY_NY.GDP.MKTP.CD.json": {
+      "sha256": "e4d8273adf668aab1e6b2f68cc76d20ccd5399dcce2a6e74374af813efbc5911",
+      "bytes": 14342
+    },
+    "raw/worldbank_multi_EGY_NY.GDP.MKTP.KD.ZG.json": {
+      "sha256": "b1deb81097a77e81f2034b9c40c8b13e7ea0469d8ad78f4993e31114682df683",
+      "bytes": 14795
+    },
+    "raw/worldbank_multi_EGY_NY.GDP.MKTP.KD.json": {
+      "sha256": "003f59255e5f0a2b97c28d069117c48857ff1f0d871e0b8a42be32bf7d311a6e",
+      "bytes": 14741
+    },
+    "raw/worldbank_multi_EGY_NY.GDP.NGAS.RT.ZS.json": {
+      "sha256": "7cc25455f6bb314b6181516c830c20437d79c07c0d7fd6181e92477b7b8fae4d",
+      "bytes": 15145
+    },
+    "raw/worldbank_multi_EGY_NY.GDP.PCAP.KD.json": {
+      "sha256": "598728e53b43273fd6ab6bceeb407962d5e8402041b9c5d9003d2f6553560529",
+      "bytes": 15459
+    },
+    "raw/worldbank_multi_EGY_NY.GDP.PCAP.PP.KD.json": {
+      "sha256": "33bb34508e695946bfd1e0864db356fe85938ec404f8e4d5877e542d0094b4e0",
+      "bytes": 16424
+    },
+    "raw/worldbank_multi_EGY_NY.GDP.PETR.RT.ZS.json": {
+      "sha256": "38cb12609b95928d15a92fb9aa1258b51cbfff0ac3a3a93f26156950a52f7c1a",
+      "bytes": 14575
+    },
+    "raw/worldbank_multi_EGY_PA.NUS.FCRF.json": {
+      "sha256": "b226fe6a5506cd69057b251bae3e4ebae50c5778a3b40879b3198be62c406309",
+      "bytes": 16378
+    },
+    "raw/worldbank_multi_EGY_PA.NUS.PPP.json": {
+      "sha256": "b8b3bd281500895537a602338eefef949cfcc333ceb6af6a9d51e0c44dda5911",
+      "bytes": 16043
+    },
+    "raw/worldbank_multi_EGY_SL.EMP.TOTL.SP.ZS.json": {
+      "sha256": "d9098d34e4ffe2be434d3677fc8274136056228260b26a5e306896f1391c79a3",
+      "bytes": 17254
+    },
+    "raw/worldbank_multi_EGY_SL.EMP.VULN.ZS.json": {
+      "sha256": "a8d3da87cb3872a4b0e0daef6aefcef0b2b5b2ebec47bb7c1f886d30e9937a2e",
+      "bytes": 17803
+    },
+    "raw/worldbank_multi_EGY_SL.GDP.PCAP.EM.KD.json": {
+      "sha256": "55ff5670cd85de8122afb5650467eadf3a755fa5a2ab09ba8f5e69d19bb64249",
+      "bytes": 16016
+    },
+    "raw/worldbank_multi_EGY_SL.TLF.CACT.ZS.json": {
+      "sha256": "8d06cbf01899c96afecea07effd40658b614b8b9bbadbc557eb5b20189499a05",
+      "bytes": 18626
+    },
+    "raw/worldbank_multi_EGY_SL.UEM.TOTL.ZS.json": {
+      "sha256": "0b0c55a3b0613b300403fda0d388cd3b721657f4bde586b9e55bacd730d170d2",
+      "bytes": 16885
+    },
+    "raw/worldbank_multi_EGY_SP.POP.TOTL.json": {
+      "sha256": "948d517ab286cdcd089486fbc53996cc71b1596326b33a5a0e3b507d06050df3",
+      "bytes": 13632
+    },
+    "raw/worldbank_multi_IRN_EG.EGY.PRIM.PP.KD.json": {
+      "sha256": "c2d7ee366703f2a52c5d0f8703f69985c0b791afc716a9f4b0dc6daedf1b766f",
+      "bytes": 16723
+    },
+    "raw/worldbank_multi_IRN_EG.ELC.LOSS.ZS.json": {
+      "sha256": "fdb25c4c7b14092e3907f8a0ff4c21b7d5d52719c66f897bff5eedc5b9431fe0",
+      "bytes": 17261
+    },
+    "raw/worldbank_multi_IRN_EG.FEC.RNEW.ZS.json": {
+      "sha256": "28a7e3e7ec816d91bd330f2cc0de496d5b1da791e1501ec00d1058a0e3efa277",
+      "bytes": 16876
+    },
+    "raw/worldbank_multi_IRN_EG.USE.COMM.FO.ZS.json": {
+      "sha256": "c0feb269e7e62ac31ec09b5562df5cecbfb20973fd539512b1bbdc66a4b76e71",
+      "bytes": 15888
+    },
+    "raw/worldbank_multi_IRN_EG.USE.PCAP.KG.OE.json": {
+      "sha256": "abf4648fa313b6ccd0cabaff1b497f99973b0dbb1fa3893ce758be32389e7b56",
+      "bytes": 16075
+    },
+    "raw/worldbank_multi_IRN_FP.CPI.TOTL.ZG.json": {
+      "sha256": "40eed9910406038ed71feb36485ead029abe51e5c9f5bc3775f708aea53d7742",
+      "bytes": 15803
+    },
+    "raw/worldbank_multi_IRN_NE.GDI.FTOT.ZS.json": {
+      "sha256": "9793959b3fb75e8639b7ba535352adc9f5f187617cc6b57fba6c689c5b1b7b89",
+      "bytes": 15996
+    },
+    "raw/worldbank_multi_IRN_NE.GDI.TOTL.ZS.json": {
+      "sha256": "47da0ffbb40424a1b88bd5f48d934266d1eacf56ee60d312c262e71c5736427b",
+      "bytes": 15596
+    },
+    "raw/worldbank_multi_IRN_NE.IMP.GNFS.CD.json": {
+      "sha256": "3c05fba25de4c44c45764291b931c778238b71450fd20fbd01f9a3092aa93287",
+      "bytes": 16163
+    },
+    "raw/worldbank_multi_IRN_NY.GDP.MKTP.CD.json": {
+      "sha256": "4922654c7c756697afa86a6bee690c97ef84ce8117dc2ba03e2f260ede4ac691",
+      "bytes": 14470
+    },
+    "raw/worldbank_multi_IRN_NY.GDP.MKTP.KD.ZG.json": {
+      "sha256": "b0ce91f3db3abf0528e572543f13539196d1c47c08c4e1a3f2625be17861af5f",
+      "bytes": 14945
+    },
+    "raw/worldbank_multi_IRN_NY.GDP.MKTP.KD.json": {
+      "sha256": "ef05a6e27a99eb513bf45ee128de47dd9a6908ce8c6b7f7d91e93a5b70eef389",
+      "bytes": 14868
+    },
+    "raw/worldbank_multi_IRN_NY.GDP.NGAS.RT.ZS.json": {
+      "sha256": "d91781d798a99ca4860945e591aaf746e0214c11b5b0740c87ed664c19773a99",
+      "bytes": 15230
+    },
+    "raw/worldbank_multi_IRN_NY.GDP.PCAP.KD.json": {
+      "sha256": "7ada0027a9e7c87507a28cb2e22ee50cc6b2da797553901a1d391b1d6c120016",
+      "bytes": 15598
+    },
+    "raw/worldbank_multi_IRN_NY.GDP.PCAP.PP.KD.json": {
+      "sha256": "228154904f2e4e173dae626d09db34af7487a1682527c73e9c745fe85cb78203",
+      "bytes": 16558
+    },
+    "raw/worldbank_multi_IRN_NY.GDP.PETR.RT.ZS.json": {
+      "sha256": "be842904faadcce3b1f3857b6602bf950becb7c43ee0964b8b948f56f553c5df",
+      "bytes": 14680
+    },
+    "raw/worldbank_multi_IRN_PA.NUS.FCRF.json": {
+      "sha256": "86fa1f75ba40cd2061fbbe21d8f8f5bc41b835a61ecd3571b45b15bb9bb34874",
+      "bytes": 16480
+    },
+    "raw/worldbank_multi_IRN_PA.NUS.PPP.json": {
+      "sha256": "8ff7aeecf6ebb3e9af78af0b553bfef36900ea9a90e1f5717637bb7223397c73",
+      "bytes": 16141
+    },
+    "raw/worldbank_multi_IRN_SL.EMP.TOTL.SP.ZS.json": {
+      "sha256": "5ffb0088804682d2b516a2ad448a2dea271054c6a2138abed37a1df366954ef8",
+      "bytes": 17385
+    },
+    "raw/worldbank_multi_IRN_SL.EMP.VULN.ZS.json": {
+      "sha256": "1a875e621c16739f64f5c1530e19edb243336b7a00ca3fa60159eb3065ee85a9",
+      "bytes": 17932
+    },
+    "raw/worldbank_multi_IRN_SL.GDP.PCAP.EM.KD.json": {
+      "sha256": "2a2d4aee7f06f1b59c8d552749e6d34a37025850260d870d120ec1adbb2ab832",
+      "bytes": 16150
+    },
+    "raw/worldbank_multi_IRN_SL.TLF.CACT.ZS.json": {
+      "sha256": "c7f162801a06032efba80d11d5d9bf16ef20596035deccfa7dd20330c8f89786",
+      "bytes": 18773
+    },
+    "raw/worldbank_multi_IRN_SL.UEM.TOTL.ZS.json": {
+      "sha256": "7f58dc179f4525d2c6003d2b3965e24e76b9558791358ca67de9e3ad16fb66ee",
+      "bytes": 17037
+    },
+    "raw/worldbank_multi_IRN_SP.POP.TOTL.json": {
+      "sha256": "47f30d9bfc12ada1efa1e6fe951b754a97102dd880f9c7f80257ac9c2be77e0a",
+      "bytes": 13754
+    },
+    "raw/worldbank_multi_IRN_TM.VAL.FOOD.ZS.UN.json": {
+      "sha256": "4e3331817880b5f5094f0bc30ed9619842d4b3e512ff520e3dd0291da458bc6c",
+      "bytes": 15777
+    },
+    "raw/worldbank_multi_IRN_TM.VAL.MRCH.CD.WT.json": {
+      "sha256": "82e05896c1ce72fa32128af84f13c072e606cda87083625aa0efe4f0d0537ff1",
+      "bytes": 15379
+    },
+    "raw/worldbank_multi_TUR_EG.EGY.PRIM.PP.KD.json": {
+      "sha256": "b5e1a40ac1f2537253cfa5b6b53022fc72030a53acd74d42252c4b17df0bc4a2",
+      "bytes": 15995
+    },
+    "raw/worldbank_multi_TUR_EG.ELC.LOSS.ZS.json": {
+      "sha256": "802352833905af23c5c78e0d496cb88cf3c2c4cb148caaf09c42e7dc391b1bb8",
+      "bytes": 16548
+    },
+    "raw/worldbank_multi_TUR_EG.FEC.RNEW.ZS.json": {
+      "sha256": "45b9345e7a5124ff94a3f84cfd5ff10e6521a182f359bd553f73cd0d9fa2afe4",
+      "bytes": 16184
+    },
+    "raw/worldbank_multi_TUR_EG.USE.COMM.FO.ZS.json": {
+      "sha256": "8a16e9462332465df5a388f3584a79414fa7532ea3ec08320168fc1c7aaccc60",
+      "bytes": 15157
+    },
+    "raw/worldbank_multi_TUR_EG.USE.PCAP.KG.OE.json": {
+      "sha256": "ac5c044afa2e42eef704e68b6a9944a7c03205ea78f54a9b8df17f05b9cfe2a1",
+      "bytes": 15362
+    },
+    "raw/worldbank_multi_TUR_FP.CPI.TOTL.ZG.json": {
+      "sha256": "1d32a84bac22863aed303ee211ce7b14acb7ddc242b9f7272655580e4b79d008",
+      "bytes": 15069
+    },
+    "raw/worldbank_multi_TUR_NE.GDI.FTOT.ZS.json": {
+      "sha256": "70de2a457ef7520eb623073dacac756cd0ccd9a1fd950673ba491c766d584475",
+      "bytes": 15170
+    },
+    "raw/worldbank_multi_TUR_NE.GDI.TOTL.ZS.json": {
+      "sha256": "fe790c03d9c44446c4ae6bde1b2ec9fab221ff6e2ee711db922e47d1f4d42c6b",
+      "bytes": 14864
+    },
+    "raw/worldbank_multi_TUR_NY.GDP.MKTP.CD.json": {
+      "sha256": "5b69474b7a3090e6f72c4a7d96f32d81d881b0644b91518359bb3f04b953696d",
+      "bytes": 13716
+    },
+    "raw/worldbank_multi_TUR_NY.GDP.MKTP.KD.ZG.json": {
+      "sha256": "3ee7888b573e53e4a0c87c9ba2e2f4548a37d58644d5fcb7bb96d657976119f6",
+      "bytes": 14206
+    },
+    "raw/worldbank_multi_TUR_NY.GDP.MKTP.KD.json": {
+      "sha256": "fb2e7c50eea0cb9bca790ccefab551c669341444966a4211e91b97739aa527c0",
+      "bytes": 14145
+    },
+    "raw/worldbank_multi_TUR_NY.GDP.NGAS.RT.ZS.json": {
+      "sha256": "c94126ed28697597327b9e865ea86fa1a75be43d059d25e72715ab7dd1ce1dd7",
+      "bytes": 14655
+    },
+    "raw/worldbank_multi_TUR_NY.GDP.PCAP.KD.json": {
+      "sha256": "5e36543d6bdb49d85a9636540d1ae535d72cd3ea1a63f4e04745de33639cc046",
+      "bytes": 14870
+    },
+    "raw/worldbank_multi_TUR_NY.GDP.PCAP.PP.KD.json": {
+      "sha256": "36ccc9e042f3260323e9bd3a271808dfda4fffa7ae1d78d49fc5b5a97d609ee7",
+      "bytes": 15830
+    },
+    "raw/worldbank_multi_TUR_NY.GDP.PETR.RT.ZS.json": {
+      "sha256": "ee687cdcab1406e21d5ec727e6ce3dff8e7ed3a148e5bc9b7425b339a20f18ff",
+      "bytes": 14049
+    },
+    "raw/worldbank_multi_TUR_PA.NUS.FCRF.json": {
+      "sha256": "1d532da1edac86a66195d9bf35cefc8c1a10e8b5eea52a4bf777cfec2a36a093",
+      "bytes": 15905
+    },
+    "raw/worldbank_multi_TUR_PA.NUS.PPP.json": {
+      "sha256": "84ad943ef6090bfb97087a08f117566974fda9b8351690d1f62ee89d01b702ff",
+      "bytes": 15150
+    },
+    "raw/worldbank_multi_TUR_SL.EMP.TOTL.SP.ZS.json": {
+      "sha256": "6abeae9ab20b49a46c899638a9d27e5ecb77e352873004ae9a3649c0bb7a5799",
+      "bytes": 16660
+    },
+    "raw/worldbank_multi_TUR_SL.EMP.VULN.ZS.json": {
+      "sha256": "0cf01fc602de5ea861031ddbf10698d67ac422eabacd9c48da25db742b558583",
+      "bytes": 17206
+    },
+    "raw/worldbank_multi_TUR_SL.GDP.PCAP.EM.KD.json": {
+      "sha256": "546158e71781a7b512577ce2d00a505209ece24896f326ba2484ef8a9b9924fe",
+      "bytes": 15423
+    },
+    "raw/worldbank_multi_TUR_SL.TLF.CACT.ZS.json": {
+      "sha256": "94c7bbaf6a6cbec50b83c5f18ee220f2d28031a5fca438db93dd853f88dcfaa4",
+      "bytes": 18036
+    },
+    "raw/worldbank_multi_TUR_SL.UEM.TOTL.ZS.json": {
+      "sha256": "efb62de98512f1c810d8fe2740c53fbcb240e1f8689d1a2098b2588426af8eea",
+      "bytes": 16308
+    },
+    "raw/worldbank_multi_TUR_SP.POP.TOTL.json": {
+      "sha256": "d3880810abd7169a583419bb0ed34dcf9039e94795d46ca38686152babc33897",
+      "bytes": 13028
+    },
+    "raw/worldbank_pinksheet_monthly.xlsx": {
+      "sha256": "7902a77505ebdc5d202ce65f666c2ee1b04b626f042d7738ed3e6f7d112c8433",
+      "bytes": 577979
+    }
+  }
+}

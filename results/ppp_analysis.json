@@ -1,0 +1,89 @@
+{
+  "inputs": [
+    "data/sources/worldbank_annual_multi.csv",
+    "data/sources/tgju_monthly.csv",
+    "data/sources/ilostat_annual.csv"
+  ],
+  "notes": {
+    "price_level_ratio": "PA.NUS.PPP / PA.NUS.FCRF, recomputed (the World Bank archived PA.NUS.PPPC.RF)",
+    "iran_free_market": "official_exchange_rate ends 2023 and is a managed rate; the free-market column uses TGJU annual means"
+  },
+  "countries": {
+    "irn": {
+      "gdp_per_capita_ppp": {
+        "latest": [
+          2025,
+          16833.7821677117
+        ],
+        "index_2008_100": 111.54663424344868
+      },
+      "price_level_ratio_official": {
+        "latest": [
+          2023,
+          2.2447682636167836
+        ]
+      },
+      "price_level_ratio_free_market": {
+        "latest": [
+          2025,
+          0.14734671783468795
+        ]
+      },
+      "free_market_undervaluation_x": 6.786713777513019,
+      "official_vs_free_gap_x": 11.946028615277744,
+      "earnings_ppp_monthly": null
+    },
+    "egy": {
+      "gdp_per_capita_ppp": {
+        "latest": [
+          2025,
+          17265.1488604617
+        ],
+        "index_2008_100": 139.3296272541261
+      },
+      "price_level_ratio_official": {
+        "latest": [
+          2025,
+          0.15405353381623213
+        ]
+      },
+      "earnings_ppp_monthly": {
+        "latest": [
+          2024,
+          712.555
+        ]
+      }
+    },
+    "tur": {
+      "gdp_per_capita_ppp": {
+        "latest": [
+          2025,
+          37300.7485739354
+        ],
+        "index_2008_100": 188.0117423176045
+      },
+      "price_level_ratio_official": {
+        "latest": [
+          2025,
+          0.41068819562863956
+        ]
+      },
+      "earnings_ppp_monthly": {
+        "latest": [
+          2025,
+          2225.313
+        ]
+      }
+    }
+  },
+  "ppp_per_capita_ratio_vs": {
+    "egy": {
+      "year": 2025,
+      "irn_over_cmp": 0.9750151767449942
+    },
+    "tur": {
+      "year": 2025,
+      "irn_over_cmp": 0.45129877579654315
+    }
+  }
+}

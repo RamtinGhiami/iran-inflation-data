@@ -1,0 +1,41 @@
+{
+  "n_years": 35,
+  "first_year": 1991,
+  "last_year": 2025,
+  "mean": 34.27418477227687,
+  "median": 30.2091183371874,
+  "latest_year": 2025,
+  "latest": 50.4722244965444,
+  "latest_inflation": 42.1712244965444,
+  "latest_unemployment": 8.301,
+  "peak_year": 1995,
+  "peak": 59.5599858462746,
+  "inflation_r": 0.9961955561174973,
+  "unemployment_r": -0.6562485354971315,
+  "components_r": -0.7195073870571467,
+  "inflation_mean_share": 68.33610214437226,
+  "inflation_variance_share": 118.0441828869108,
+  "unemployment_variance_share": 1.574594727178235,
+  "covariance_variance_share": -19.618777614089073,
+  "pre2018_mean": 30.71970748092165,
+  "post2018_mean": 46.270545630600715,
+  "pre2018_unemployment": 11.269407407407407,
+  "post2018_unemployment": 9.445625,
+  "currency_link": {
+    "misery_okun_vs_usd": {
+      "r": 0.12816636386383723,
+      "n": 14
+    },
+    "inflation_vs_usd": {
+      "r": 0.11423478595322366,
+      "n": 14
+    },
+    "unemployment_vs_usd": {
+      "r": 0.02191534594716983,
+      "n": 14
+    }
+  },
+  "extended_mean": 32.609834024697115,
+  "extended_peak": 58.28651788357604,
+  "extended_peak_year": 1995
+}

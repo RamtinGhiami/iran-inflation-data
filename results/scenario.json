@@ -1,0 +1,170 @@
+{
+  "label": "COUNTERFACTUAL -- an accounting exercise with stated assumptions, not a forecast",
+  "inputs": [
+    "data/sources/worldbank_annual_multi.csv",
+    "data/sources/worldbank_annual.csv",
+    "data/sources/wb_inflation_monthly.csv",
+    "data/sources/tgju_monthly.csv",
+    "results/model/rolling_passthrough.csv"
+  ],
+  "assumptions": {
+    "non_oil_exports_usd_bn": {
+      "value": 49.0,
+      "range": [
+        40.0,
+        55.0
+      ],
+      "source": "IRICA customs statistics, non-oil exports 1402 (~USD 49 bn)"
+    },
+    "essentials_markup_over_food": {
+      "value": 0.35,
+      "source": "medicine and agricultural inputs added on top of the food import bill, per trade-composition reports"
+    },
+    "services_import_share": {
+      "value": 0.18,
+      "range": [
+        0.12,
+        0.25
+      ],
+      "source": "services imports on top of the customs goods bill, per pre-sanctions balance-of-payments composition"
+    },
+    "capital_outflow_usd_bn": {
+      "value": 15.0,
+      "range": [
+        10.0,
+        20.0
+      ],
+      "source": "central-bank and press estimates of annual capital flight, 1397-1403 (~USD 10-20 bn/yr); FX demand the market must clear on top of imports"
+    },
+    "usd_inflation_factor_since_2010": {
+      "value": 1.4,
+      "range": [
+        1.3,
+        1.5
+      ],
+      "source": "US CPI averaged ~2.4%/yr 2010-2025; converts the 2010 import norm into today's dollars"
+    },
+    "export_capacity_mbpd": {
+      "value": 2.5,
+      "source": "pre-2018 peak crude+condensate exports (~2.5 mbpd, 1396)"
+    },
+    "investment_window_jalali": {
+      "value": [
+        1397,
+        1403
+      ],
+      "source": "the post-2018 sanctions regime, matching the inflation regime break estimated in results/growth_regimes.json"
+    }
+  },
+  "thresholds": {
+    "floor_usd_bn": {
+      "value": 23.379119565649336,
+      "detail": "food 29.5% of merchandise imports (58.8 bn, 2022) x (1 + essentials markup)"
+    },
+    "stability_usd_bn": {
+      "value": 43.44576000000001,
+      "detail": "customs imports 65.6 bn (2025) x (1 + services) + capital outflow 15 bn - non-oil exports 49 bn"
+    },
+    "recovery_usd_bn": {
+      "value": 79.97677973356122,
+      "detail": "2010 imports (65.4 bn) x 1.4 dollar inflation x 1.19 population growth x (1 + services) = 129 bn, minus non-oil exports"
+    }
+  },
+  "grid": [
+    {
+      "price_usd": 50.0,
+      "discount": 0.05,
+      "floor_q_mbpd": 1.3484712078240426,
+      "stability_q_mbpd": 2.505883777937996,
+      "recovery_q_mbpd": 4.612936105756956,
+      "capacity_ok": false
+    },
+    {
+      "price_usd": 50.0,
+      "discount": 0.15,
+      "floor_q_mbpd": 1.5071148793327533,
+      "stability_q_mbpd": 2.8006936341659956,
+      "recovery_q_mbpd": 5.155634471140127,
+      "capacity_ok": false
+    },
+    {
+      "price_usd": 70.0,
+      "discount": 0.05,
+      "floor_q_mbpd": 0.9631937198743161,
+      "stability_q_mbpd": 1.7899169842414258,
+      "recovery_q_mbpd": 3.2949543612549683,
+      "capacity_ok": false
+    },
+    {
+      "price_usd": 70.0,
+      "discount": 0.15,
+      "floor_q_mbpd": 1.0765106280948238,
+      "stability_q_mbpd": 2.000495452975711,
+      "recovery_q_mbpd": 3.6825960508143765,
+      "capacity_ok": false
+    },
+    {
+      "price_usd": 90.0,
+      "discount": 0.05,
+      "floor_q_mbpd": 0.749150671013357,
+      "stability_q_mbpd": 1.3921576544099978,
+      "recovery_q_mbpd": 2.5627422809760865,
+      "capacity_ok": false
+    },
+    {
+      "price_usd": 90.0,
+      "discount": 0.15,
+      "floor_q_mbpd": 0.837286044073752,
+      "stability_q_mbpd": 1.5559409078699975,
+      "recovery_q_mbpd": 2.864241372855626,
+      "capacity_ok": false
+    }
+  ],
+  "passthrough": {
+    "latest_beta": 0.0964760529803032,
+    "meaning": "percentage points of monthly CPI inflation per 1% monthly rial depreciation (48-month rolling window, from this paper's own model outputs)"
+  },
+  "budget": {
+    "revenue_share_norm_pct_gdp": 24.22585365080429,
+    "revenue_share_window": [
+      1972,
+      2009
+    ],
+    "implied_budget_usd_bn": 87.86283850252784,
+    "note": "the WDI fiscal series end in 2009; the norm is that era's mean, converted at today's GDP -- an anchor, not a budget plan"
+  },
+  "invested_capital": {
+    "window_jalali": [
+      1397,
+      1403
+    ],
+    "cpi_multiple": 7.083979275509143,
+    "cpi_annualised_pct": 38.583932335221064,
+    "assets": {
+      "usd_free_market": {
+        "label": "US dollar",
+        "nominal_multiple": 6.726625801155388,
+        "real_multiple": 0.9495546979380355,
+        "real_annualised_pct": -0.8589917892991017
+      },
+      "gold_18k": {
+        "label": "gold, 18k gram",
+        "nominal_multiple": 13.991452849370463,
+        "real_multiple": 1.975083820154861,
+        "real_annualised_pct": 12.011923523621926
+      },
+      "coin_emami": {
+        "label": "Emami coin",
+        "nominal_multiple": 14.47360657734351,
+        "real_multiple": 2.043146375001677,
+        "real_annualised_pct": 12.64620892222641
+      },
+      "rial_cash": {
+        "label": "rial held as cash",
+        "nominal_multiple": 1.0,
+        "real_multiple": 0.14116359762050934,
+        "real_annualised_pct": -27.84156264370553
+      }
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "inputs": [
+    "data/sources/ilostat_annual.csv",
+    "data/sources/worldbank_annual_multi.csv"
+  ],
+  "countries": {
+    "irn": {
+      "emp_pop_ratio": {
+        "latest": [
+          2024,
+          37.601
+        ],
+        "change_10y": 1.6700000000000017
+      },
+      "unemployment_rate": {
+        "latest": [
+          2024,
+          7.631
+        ],
+        "change_10y": -3.0489999999999995
+      },
+      "participation_rate": {
+        "latest": [
+          2024,
+          40.707
+        ],
+        "change_10y": 0.480000000000004
+      },
+      "employment_thousands": {
+        "latest": [
+          2024,
+          24567.799
+        ],
+        "change_10y": 3570.762999999999
+      },
+      "underemployment_rate": {
+        "latest": [
+          2024,
+          6.276
+        ],
+        "change_10y": -1.697
+      },
+      "informal_rate": {
+        "latest": null,
+        "change_10y": null
+      },
+      "vulnerable_employment_pct": {
+        "latest": [
+          2024,
+          39.7632072666364
+        ],
+        "change_10y": -1.168576223225699
+      }
+    },
+    "egy": {
+      "emp_pop_ratio": {
+        "latest": [
+          2024,
+          45.104
+        ],
+        "change_10y": 3.2929999999999993
+      },
+      "unemployment_rate": {
+        "latest": [
+          2024,
+          5.945
+        ],
+        "change_10y": -7.16
+      },
+      "participation_rate": {
+        "latest": [
+          2024,
+          47.955
+        ],
+        "change_10y": -0.16199999999999903
+      },
+      "employment_thousands": {
+        "latest": [
+          2024,
+          32677.758
+        ],
+        "change_10y": 8346.509000000002
+      },
+      "underemployment_rate": {
+        "latest": [
+          2024,
+          0.687
+        ],
+        "change_10y": -6.633
+      },
+      "informal_rate": {
+        "latest": [
+          2024,
+          68.613
+        ],
+        "change_10y": 11.003
+      },
+      "vulnerable_employment_pct": {
+        "latest": [
+          2024,
+          24.0777322521347
+        ],
+        "change_10y": 4.4301970557463015
+      }
+    },
+    "tur": {
+      "emp_pop_ratio": {
+        "latest": [
+          2025,
+          49.049
+        ],
+        "change_10y": 3.0360000000000014
+      },
+      "unemployment_rate": {
+        "latest": [
+          2025,
+          8.348
+        ],
+        "change_10y": -1.9539999999999988
+      },
+      "participation_rate": {
+        "latest": [
+          2025,
+          53.517
+        ],
+        "change_10y": 2.219000000000001
+      },
+      "employment_thousands": {
+        "latest": [
+          2025,
+          32566.338
+        ],
+        "change_10y": 5945.787
+      },
+      "underemployment_rate": {
+        "latest": [
+          2025,
+          8.753
+        ],
+        "change_10y": 7.131
+      },
+      "informal_rate": {
+        "latest": [
+          2025,
+          26.591
+        ],
+        "change_10y": -8.192
+      },
+      "vulnerable_employment_pct": {
+        "latest": [
+          2025,
+          23.9069908746299
+        ],
+        "change_10y": -4.9072388058472995
+      }
+    }
+  },
+  "jobs_gap_vs": {
+    "tur": {
+      "year": 2024,
+      "irn_emp_pop_ratio": 37.601,
+      "cmp_emp_pop_ratio": 49.481,
+      "irn_working_age_millions": 65.3381532406053,
+      "jobs_gap_millions": 7.7621726049839115
+    },
+    "egy": {
+      "year": 2024,
+      "irn_emp_pop_ratio": 37.601,
+      "cmp_emp_pop_ratio": 45.104,
+      "irn_working_age_millions": 65.3381532406053,
+      "jobs_gap_millions": 4.902321637642616
+    }
+  },
+  "irn_employment_change_10y_thousands": 3570.762999999999,
+  "irn_employment_window": [
+    2014,
+    2024
+  ],
+  "irn_outside_labor_force_pct": 59.293,
+  "irn_participation_latest": [
+    2024,
+    40.707
+  ]
+}

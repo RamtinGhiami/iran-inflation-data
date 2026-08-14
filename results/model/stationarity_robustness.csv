@@ -1,0 +1,3 @@
+﻿specification,n_features,dropped,RMSE,RMSE_vs_RW,currency_share_pct,persistence_share_pct,imported_share_pct
+all features,51,,1.2254540525982391,0.762113402201037,63.10804920650841,23.110196452410886,8.358108961879987
+I(1) levels dropped,49,"coin_gold_ratio, gold_rial_premium",1.2454271037179274,0.774534700175357,56.30351102410146,29.977821048306375,8.593730932088997

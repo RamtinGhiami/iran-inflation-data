@@ -1,0 +1,1358 @@
+﻿date_gregorian,date_jalali,year_jalali,month_jalali,series_id,value,unit,source,year_gregorian,indicator_code,description
+1961-01-01,,1340,,broad_money_growth_pct,9.736892644517,percent,World Bank WDI API,1961,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1962-01-01,,1341,,broad_money_growth_pct,25.6737836891845,percent,World Bank WDI API,1962,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1963-01-01,,1342,,broad_money_growth_pct,19.3427099289793,percent,World Bank WDI API,1963,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1964-01-01,,1343,,broad_money_growth_pct,16.0326721120187,percent,World Bank WDI API,1964,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1965-01-01,,1344,,broad_money_growth_pct,14.9537409493162,percent,World Bank WDI API,1965,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1966-01-01,,1345,,broad_money_growth_pct,14.2594698626542,percent,World Bank WDI API,1966,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1967-01-01,,1346,,broad_money_growth_pct,19.1486103667407,percent,World Bank WDI API,1967,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1968-01-01,,1347,,broad_money_growth_pct,15.5185708777792,percent,World Bank WDI API,1968,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1969-01-01,,1348,,broad_money_growth_pct,17.7393335929243,percent,World Bank WDI API,1969,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1970-01-01,,1349,,broad_money_growth_pct,17.96277048096,percent,World Bank WDI API,1970,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1971-01-01,,1350,,broad_money_growth_pct,24.0067286126242,percent,World Bank WDI API,1971,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1972-01-01,,1351,,broad_money_growth_pct,35.2528906401395,percent,World Bank WDI API,1972,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1973-01-01,,1352,,broad_money_growth_pct,30.2910905747785,percent,World Bank WDI API,1973,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1974-01-01,,1353,,broad_money_growth_pct,42.7990176313185,percent,World Bank WDI API,1974,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1975-01-01,,1354,,broad_money_growth_pct,34.7485689349796,percent,World Bank WDI API,1975,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1976-01-01,,1355,,broad_money_growth_pct,43.8973977978436,percent,World Bank WDI API,1976,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1977-01-01,,1356,,broad_money_growth_pct,26.0877047823929,percent,World Bank WDI API,1977,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1978-01-01,,1357,,broad_money_growth_pct,23.4115713933234,percent,World Bank WDI API,1978,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1979-01-01,,1358,,broad_money_growth_pct,35.5440418915872,percent,World Bank WDI API,1979,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1980-01-01,,1359,,broad_money_growth_pct,26.3108011837774,percent,World Bank WDI API,1980,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1981-01-01,,1360,,broad_money_growth_pct,16.3591550345609,percent,World Bank WDI API,1981,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1982-01-01,,1361,,broad_money_growth_pct,25.6384523402801,percent,World Bank WDI API,1982,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1983-01-01,,1362,,broad_money_growth_pct,18.6814867689798,percent,World Bank WDI API,1983,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1987-01-01,,1366,,broad_money_growth_pct,19.2648253452478,percent,World Bank WDI API,1987,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1988-01-01,,1367,,broad_money_growth_pct,20.0992745972823,percent,World Bank WDI API,1988,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1989-01-01,,1368,,broad_money_growth_pct,22.5239084354774,percent,World Bank WDI API,1989,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1990-01-01,,1369,,broad_money_growth_pct,17.9880924139767,percent,World Bank WDI API,1990,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1991-01-01,,1370,,broad_money_growth_pct,25.5752255786583,percent,World Bank WDI API,1991,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1992-01-01,,1371,,broad_money_growth_pct,24.3817192753629,percent,World Bank WDI API,1992,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1993-01-01,,1372,,broad_money_growth_pct,30.2513594634986,percent,World Bank WDI API,1993,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1994-01-01,,1373,,broad_money_growth_pct,33.2957303771625,percent,World Bank WDI API,1994,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1995-01-01,,1374,,broad_money_growth_pct,30.0937445749667,percent,World Bank WDI API,1995,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1996-01-01,,1375,,broad_money_growth_pct,32.4576596312524,percent,World Bank WDI API,1996,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1997-01-01,,1376,,broad_money_growth_pct,23.6821696884599,percent,World Bank WDI API,1997,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1998-01-01,,1377,,broad_money_growth_pct,20.384428393127,percent,World Bank WDI API,1998,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1999-01-01,,1378,,broad_money_growth_pct,21.4992937833198,percent,World Bank WDI API,1999,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+2000-01-01,,1379,,broad_money_growth_pct,35.3701697231687,percent,World Bank WDI API,2000,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+2001-01-01,,1380,,broad_money_growth_pct,29.3118175038997,percent,World Bank WDI API,2001,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+2002-01-01,,1381,,broad_money_growth_pct,28.4132434126088,percent,World Bank WDI API,2002,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+2003-01-01,,1382,,broad_money_growth_pct,27.2630757220921,percent,World Bank WDI API,2003,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+2004-01-01,,1383,,broad_money_growth_pct,28.6814130292837,percent,World Bank WDI API,2004,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+2005-01-01,,1384,,broad_money_growth_pct,32.8478907539097,percent,World Bank WDI API,2005,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+2006-01-01,,1385,,broad_money_growth_pct,36.3507004721611,percent,World Bank WDI API,2006,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+2007-01-01,,1386,,broad_money_growth_pct,33.8961602848014,percent,World Bank WDI API,2007,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+2008-01-01,,1387,,broad_money_growth_pct,11.8769180990585,percent,World Bank WDI API,2008,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+2009-01-01,,1388,,broad_money_growth_pct,27.0335927586022,percent,World Bank WDI API,2009,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+2010-01-01,,1389,,broad_money_growth_pct,24.5812622090235,percent,World Bank WDI API,2010,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+2011-01-01,,1390,,broad_money_growth_pct,20.1654888444675,percent,World Bank WDI API,2011,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+2012-01-01,,1391,,broad_money_growth_pct,33.9789194975165,percent,World Bank WDI API,2012,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+2013-01-01,,1392,,broad_money_growth_pct,26.0394302110046,percent,World Bank WDI API,2013,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+2014-01-01,,1393,,broad_money_growth_pct,35.0985423671399,percent,World Bank WDI API,2014,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+2015-01-01,,1394,,broad_money_growth_pct,24.3681300934198,percent,World Bank WDI API,2015,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+2016-01-01,,1395,,broad_money_growth_pct,27.9590145407971,percent,World Bank WDI API,2016,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+1960-01-01,,1339,,broad_money_lcu,52070000000.0,current LCU (rial),World Bank WDI API,1960,FM.LBL.BMNY.CN,Broad money (M2)
+1961-01-01,,1340,,broad_money_lcu,57140000000.0,current LCU (rial),World Bank WDI API,1961,FM.LBL.BMNY.CN,Broad money (M2)
+1962-01-01,,1341,,broad_money_lcu,71810000000.0,current LCU (rial),World Bank WDI API,1962,FM.LBL.BMNY.CN,Broad money (M2)
+1963-01-01,,1342,,broad_money_lcu,85700000000.0,current LCU (rial),World Bank WDI API,1963,FM.LBL.BMNY.CN,Broad money (M2)
+1964-01-01,,1343,,broad_money_lcu,99440000000.0,current LCU (rial),World Bank WDI API,1964,FM.LBL.BMNY.CN,Broad money (M2)
+1965-01-01,,1344,,broad_money_lcu,114310000000.0,current LCU (rial),World Bank WDI API,1965,FM.LBL.BMNY.CN,Broad money (M2)
+1966-01-01,,1345,,broad_money_lcu,130610000000.0,current LCU (rial),World Bank WDI API,1966,FM.LBL.BMNY.CN,Broad money (M2)
+1967-01-01,,1346,,broad_money_lcu,155620000000.0,current LCU (rial),World Bank WDI API,1967,FM.LBL.BMNY.CN,Broad money (M2)
+1968-01-01,,1347,,broad_money_lcu,179770000000.0,current LCU (rial),World Bank WDI API,1968,FM.LBL.BMNY.CN,Broad money (M2)
+1969-01-01,,1348,,broad_money_lcu,211660000000.0,current LCU (rial),World Bank WDI API,1969,FM.LBL.BMNY.CN,Broad money (M2)
+1970-01-01,,1349,,broad_money_lcu,249680000000.0,current LCU (rial),World Bank WDI API,1970,FM.LBL.BMNY.CN,Broad money (M2)
+1971-01-01,,1350,,broad_money_lcu,309620000000.0,current LCU (rial),World Bank WDI API,1971,FM.LBL.BMNY.CN,Broad money (M2)
+1972-01-01,,1351,,broad_money_lcu,418770000000.0,current LCU (rial),World Bank WDI API,1972,FM.LBL.BMNY.CN,Broad money (M2)
+1973-01-01,,1352,,broad_money_lcu,545620000000.0,current LCU (rial),World Bank WDI API,1973,FM.LBL.BMNY.CN,Broad money (M2)
+1974-01-01,,1353,,broad_money_lcu,779140000000.0,current LCU (rial),World Bank WDI API,1974,FM.LBL.BMNY.CN,Broad money (M2)
+1975-01-01,,1354,,broad_money_lcu,1049880000000.0,current LCU (rial),World Bank WDI API,1975,FM.LBL.BMNY.CN,Broad money (M2)
+1976-01-01,,1355,,broad_money_lcu,1510750000000.0,current LCU (rial),World Bank WDI API,1976,FM.LBL.BMNY.CN,Broad money (M2)
+1977-01-01,,1356,,broad_money_lcu,1904870000000.0,current LCU (rial),World Bank WDI API,1977,FM.LBL.BMNY.CN,Broad money (M2)
+1978-01-01,,1357,,broad_money_lcu,2350830000000.0,current LCU (rial),World Bank WDI API,1978,FM.LBL.BMNY.CN,Broad money (M2)
+1979-01-01,,1358,,broad_money_lcu,3186410000000.0,current LCU (rial),World Bank WDI API,1979,FM.LBL.BMNY.CN,Broad money (M2)
+1980-01-01,,1359,,broad_money_lcu,4024780000000.0,current LCU (rial),World Bank WDI API,1980,FM.LBL.BMNY.CN,Broad money (M2)
+1981-01-01,,1360,,broad_money_lcu,4683200000000.0,current LCU (rial),World Bank WDI API,1981,FM.LBL.BMNY.CN,Broad money (M2)
+1982-01-01,,1361,,broad_money_lcu,5883900000000.0,current LCU (rial),World Bank WDI API,1982,FM.LBL.BMNY.CN,Broad money (M2)
+1983-01-01,,1362,,broad_money_lcu,6983100000000.0,current LCU (rial),World Bank WDI API,1983,FM.LBL.BMNY.CN,Broad money (M2)
+1986-01-01,,1365,,broad_money_lcu,9848000000000.0,current LCU (rial),World Bank WDI API,1986,FM.LBL.BMNY.CN,Broad money (M2)
+1987-01-01,,1366,,broad_money_lcu,11745200000000.0,current LCU (rial),World Bank WDI API,1987,FM.LBL.BMNY.CN,Broad money (M2)
+1988-01-01,,1367,,broad_money_lcu,14105900000000.0,current LCU (rial),World Bank WDI API,1988,FM.LBL.BMNY.CN,Broad money (M2)
+1989-01-01,,1368,,broad_money_lcu,17283100000000.0,current LCU (rial),World Bank WDI API,1989,FM.LBL.BMNY.CN,Broad money (M2)
+1990-01-01,,1369,,broad_money_lcu,20392000000000.0,current LCU (rial),World Bank WDI API,1990,FM.LBL.BMNY.CN,Broad money (M2)
+1991-01-01,,1370,,broad_money_lcu,25607300000000.0,current LCU (rial),World Bank WDI API,1991,FM.LBL.BMNY.CN,Broad money (M2)
+1992-01-01,,1371,,broad_money_lcu,31850800000000.0,current LCU (rial),World Bank WDI API,1992,FM.LBL.BMNY.CN,Broad money (M2)
+1993-01-01,,1372,,broad_money_lcu,41486100000000.0,current LCU (rial),World Bank WDI API,1993,FM.LBL.BMNY.CN,Broad money (M2)
+1994-01-01,,1373,,broad_money_lcu,55299200000000.0,current LCU (rial),World Bank WDI API,1994,FM.LBL.BMNY.CN,Broad money (M2)
+1995-01-01,,1374,,broad_money_lcu,71940800000000.0,current LCU (rial),World Bank WDI API,1995,FM.LBL.BMNY.CN,Broad money (M2)
+1996-01-01,,1375,,broad_money_lcu,95291100000000.0,current LCU (rial),World Bank WDI API,1996,FM.LBL.BMNY.CN,Broad money (M2)
+1997-01-01,,1376,,broad_money_lcu,117858100000000.0,current LCU (rial),World Bank WDI API,1997,FM.LBL.BMNY.CN,Broad money (M2)
+1998-01-01,,1377,,broad_money_lcu,141882800000000.0,current LCU (rial),World Bank WDI API,1998,FM.LBL.BMNY.CN,Broad money (M2)
+1999-01-01,,1378,,broad_money_lcu,172386600000000.0,current LCU (rial),World Bank WDI API,1999,FM.LBL.BMNY.CN,Broad money (M2)
+2000-01-01,,1379,,broad_money_lcu,233360033000000.0,current LCU (rial),World Bank WDI API,2000,FM.LBL.BMNY.CN,Broad money (M2)
+2001-01-01,,1380,,broad_money_lcu,301762100000000.0,current LCU (rial),World Bank WDI API,2001,FM.LBL.BMNY.CN,Broad money (M2)
+2002-01-01,,1381,,broad_money_lcu,387502500000000.0,current LCU (rial),World Bank WDI API,2002,FM.LBL.BMNY.CN,Broad money (M2)
+2003-01-01,,1382,,broad_money_lcu,493147600000000.0,current LCU (rial),World Bank WDI API,2003,FM.LBL.BMNY.CN,Broad money (M2)
+2004-01-01,,1383,,broad_money_lcu,634589300000000.0,current LCU (rial),World Bank WDI API,2004,FM.LBL.BMNY.CN,Broad money (M2)
+2005-01-01,,1384,,broad_money_lcu,843038500000000.0,current LCU (rial),World Bank WDI API,2005,FM.LBL.BMNY.CN,Broad money (M2)
+2006-01-01,,1385,,broad_money_lcu,1149488900000000.0,current LCU (rial),World Bank WDI API,2006,FM.LBL.BMNY.CN,Broad money (M2)
+2007-01-01,,1386,,broad_money_lcu,1539121500000000.0,current LCU (rial),World Bank WDI API,2007,FM.LBL.BMNY.CN,Broad money (M2)
+2008-01-01,,1387,,broad_money_lcu,1721921700000000.0,current LCU (rial),World Bank WDI API,2008,FM.LBL.BMNY.CN,Broad money (M2)
+2009-01-01,,1388,,broad_money_lcu,2187419000000000.0,current LCU (rial),World Bank WDI API,2009,FM.LBL.BMNY.CN,Broad money (M2)
+2010-01-01,,1389,,broad_money_lcu,2725114200000000.0,current LCU (rial),World Bank WDI API,2010,FM.LBL.BMNY.CN,Broad money (M2)
+2011-01-01,,1390,,broad_money_lcu,3274646800000000.0,current LCU (rial),World Bank WDI API,2011,FM.LBL.BMNY.CN,Broad money (M2)
+2012-01-01,,1391,,broad_money_lcu,4387336400000000.0,current LCU (rial),World Bank WDI API,2012,FM.LBL.BMNY.CN,Broad money (M2)
+2013-01-01,,1392,,broad_money_lcu,5529773800000000.0,current LCU (rial),World Bank WDI API,2013,FM.LBL.BMNY.CN,Broad money (M2)
+2014-01-01,,1393,,broad_money_lcu,7470643800000000.0,current LCU (rial),World Bank WDI API,2014,FM.LBL.BMNY.CN,Broad money (M2)
+2015-01-01,,1394,,broad_money_lcu,9291100000000000.0,current LCU (rial),World Bank WDI API,2015,FM.LBL.BMNY.CN,Broad money (M2)
+2016-01-01,,1395,,broad_money_lcu,1.18888e+16,current LCU (rial),World Bank WDI API,2016,FM.LBL.BMNY.CN,Broad money (M2)
+1960-01-01,,1339,,broad_money_pct_gdp,16.3698675833448,percent of GDP,World Bank WDI API,1960,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1961-01-01,,1340,,broad_money_pct_gdp,17.0393518466795,percent of GDP,World Bank WDI API,1961,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1962-01-01,,1341,,broad_money_pct_gdp,20.1975792938736,percent of GDP,World Bank WDI API,1962,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1963-01-01,,1342,,broad_money_pct_gdp,22.9547275852978,percent of GDP,World Bank WDI API,1963,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1964-01-01,,1343,,broad_money_pct_gdp,24.4010583182489,percent of GDP,World Bank WDI API,1964,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1965-01-01,,1344,,broad_money_pct_gdp,24.3499274132858,percent of GDP,World Bank WDI API,1965,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1966-01-01,,1345,,broad_money_pct_gdp,25.3938143744325,percent of GDP,World Bank WDI API,1966,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1967-01-01,,1346,,broad_money_pct_gdp,27.1910669688357,percent of GDP,World Bank WDI API,1967,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1968-01-01,,1347,,broad_money_pct_gdp,27.521207462364,percent of GDP,World Bank WDI API,1968,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1969-01-01,,1348,,broad_money_pct_gdp,28.6786997934638,percent of GDP,World Bank WDI API,1969,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1970-01-01,,1349,,broad_money_pct_gdp,30.0294459939534,percent of GDP,World Bank WDI API,1970,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1971-01-01,,1350,,broad_money_pct_gdp,29.7658884757162,percent of GDP,World Bank WDI API,1971,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1972-01-01,,1351,,broad_money_pct_gdp,32.2285753429905,percent of GDP,World Bank WDI API,1972,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1973-01-01,,1352,,broad_money_pct_gdp,29.2488394111974,percent of GDP,World Bank WDI API,1973,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1974-01-01,,1353,,broad_money_pct_gdp,24.933358840035,percent of GDP,World Bank WDI API,1974,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1975-01-01,,1354,,broad_money_pct_gdp,29.7468848086033,percent of GDP,World Bank WDI API,1975,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1976-01-01,,1355,,broad_money_pct_gdp,31.4721208957059,percent of GDP,World Bank WDI API,1976,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1977-01-01,,1356,,broad_money_pct_gdp,33.4852956970642,percent of GDP,World Bank WDI API,1977,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1978-01-01,,1357,,broad_money_pct_gdp,42.7684176595191,percent of GDP,World Bank WDI API,1978,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1979-01-01,,1358,,broad_money_pct_gdp,50.0192488536508,percent of GDP,World Bank WDI API,1979,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1980-01-01,,1359,,broad_money_pct_gdp,59.5912347194319,percent of GDP,World Bank WDI API,1980,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1981-01-01,,1360,,broad_money_pct_gdp,58.229502087682,percent of GDP,World Bank WDI API,1981,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1982-01-01,,1361,,broad_money_pct_gdp,55.3173618851496,percent of GDP,World Bank WDI API,1982,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1983-01-01,,1362,,broad_money_pct_gdp,51.1979252832719,percent of GDP,World Bank WDI API,1983,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1986-01-01,,1365,,broad_money_pct_gdp,61.5262020174783,percent of GDP,World Bank WDI API,1986,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1987-01-01,,1366,,broad_money_pct_gdp,60.4818220430561,percent of GDP,World Bank WDI API,1987,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1988-01-01,,1367,,broad_money_pct_gdp,64.4087153630114,percent of GDP,World Bank WDI API,1988,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1989-01-01,,1368,,broad_money_pct_gdp,63.4657278896034,percent of GDP,World Bank WDI API,1989,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1990-01-01,,1369,,broad_money_pct_gdp,53.6821692426298,percent of GDP,World Bank WDI API,1990,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1991-01-01,,1370,,broad_money_pct_gdp,47.6100979386483,percent of GDP,World Bank WDI API,1991,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1992-01-01,,1371,,broad_money_pct_gdp,44.3226573885109,percent of GDP,World Bank WDI API,1992,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1993-01-01,,1372,,broad_money_pct_gdp,39.0887359601226,percent of GDP,World Bank WDI API,1993,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1994-01-01,,1373,,broad_money_pct_gdp,39.5752881853618,percent of GDP,World Bank WDI API,1994,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1995-01-01,,1374,,broad_money_pct_gdp,36.4496850927307,percent of GDP,World Bank WDI API,1995,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1996-01-01,,1375,,broad_money_pct_gdp,35.2372428037102,percent of GDP,World Bank WDI API,1996,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1997-01-01,,1376,,broad_money_pct_gdp,37.2216799160372,percent of GDP,World Bank WDI API,1997,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1998-01-01,,1377,,broad_money_pct_gdp,40.1311523716424,percent of GDP,World Bank WDI API,1998,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1999-01-01,,1378,,broad_money_pct_gdp,36.2937699221459,percent of GDP,World Bank WDI API,1999,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+2000-01-01,,1379,,broad_money_pct_gdp,37.1550948519383,percent of GDP,World Bank WDI API,2000,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+2001-01-01,,1380,,broad_money_pct_gdp,40.8721462622172,percent of GDP,World Bank WDI API,2001,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+2002-01-01,,1381,,broad_money_pct_gdp,37.8563477022753,percent of GDP,World Bank WDI API,2002,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+2003-01-01,,1382,,broad_money_pct_gdp,39.1969107529773,percent of GDP,World Bank WDI API,2003,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+2004-01-01,,1383,,broad_money_pct_gdp,38.7646215000619,percent of GDP,World Bank WDI API,2004,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+2005-01-01,,1384,,broad_money_pct_gdp,41.5308792818645,percent of GDP,World Bank WDI API,2005,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+2006-01-01,,1385,,broad_money_pct_gdp,47.0675292206663,percent of GDP,World Bank WDI API,2006,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+2007-01-01,,1386,,broad_money_pct_gdp,47.3968984443766,percent of GDP,World Bank WDI API,2007,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+2008-01-01,,1387,,broad_money_pct_gdp,44.2912620049814,percent of GDP,World Bank WDI API,2008,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+2009-01-01,,1388,,broad_money_pct_gdp,53.2547045266019,percent of GDP,World Bank WDI API,2009,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+2010-01-01,,1389,,broad_money_pct_gdp,54.1146898175522,percent of GDP,World Bank WDI API,2010,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+2011-01-01,,1390,,broad_money_pct_gdp,47.4861795158596,percent of GDP,World Bank WDI API,2011,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+2012-01-01,,1391,,broad_money_pct_gdp,55.5663119204692,percent of GDP,World Bank WDI API,2012,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+2013-01-01,,1392,,broad_money_pct_gdp,51.996003252761,percent of GDP,World Bank WDI API,2013,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+2014-01-01,,1393,,broad_money_pct_gdp,60.9614203205843,percent of GDP,World Bank WDI API,2014,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+2015-01-01,,1394,,broad_money_pct_gdp,76.7612720666369,percent of GDP,World Bank WDI API,2015,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+2016-01-01,,1395,,broad_money_pct_gdp,79.1355189357989,percent of GDP,World Bank WDI API,2016,FM.LBL.BMNY.GD.ZS,Broad money to GDP
+1960-01-01,,1339,,claims_on_govt_pct_gdp,7.72122043109175,percent of GDP,World Bank WDI API,1960,FS.AST.CGOV.GD.ZS,Claims on central government
+1961-01-01,,1340,,claims_on_govt_pct_gdp,3.44723324024528,percent of GDP,World Bank WDI API,1961,FS.AST.CGOV.GD.ZS,Claims on central government
+1962-01-01,,1341,,claims_on_govt_pct_gdp,4.10926937033134,percent of GDP,World Bank WDI API,1962,FS.AST.CGOV.GD.ZS,Claims on central government
+1963-01-01,,1342,,claims_on_govt_pct_gdp,4.84808132198238,percent of GDP,World Bank WDI API,1963,FS.AST.CGOV.GD.ZS,Claims on central government
+1964-01-01,,1343,,claims_on_govt_pct_gdp,6.6572879341723,percent of GDP,World Bank WDI API,1964,FS.AST.CGOV.GD.ZS,Claims on central government
+1965-01-01,,1344,,claims_on_govt_pct_gdp,7.09132257535023,percent of GDP,World Bank WDI API,1965,FS.AST.CGOV.GD.ZS,Claims on central government
+1966-01-01,,1345,,claims_on_govt_pct_gdp,6.98956915060753,percent of GDP,World Bank WDI API,1966,FS.AST.CGOV.GD.ZS,Claims on central government
+1967-01-01,,1346,,claims_on_govt_pct_gdp,8.35196633537043,percent of GDP,World Bank WDI API,1967,FS.AST.CGOV.GD.ZS,Claims on central government
+1968-01-01,,1347,,claims_on_govt_pct_gdp,8.16741624362864,percent of GDP,World Bank WDI API,1968,FS.AST.CGOV.GD.ZS,Claims on central government
+1969-01-01,,1348,,claims_on_govt_pct_gdp,10.7406242682976,percent of GDP,World Bank WDI API,1969,FS.AST.CGOV.GD.ZS,Claims on central government
+1970-01-01,,1349,,claims_on_govt_pct_gdp,13.7915594846469,percent of GDP,World Bank WDI API,1970,FS.AST.CGOV.GD.ZS,Claims on central government
+1971-01-01,,1350,,claims_on_govt_pct_gdp,12.9438641701777,percent of GDP,World Bank WDI API,1971,FS.AST.CGOV.GD.ZS,Claims on central government
+1972-01-01,,1351,,claims_on_govt_pct_gdp,11.2061581672346,percent of GDP,World Bank WDI API,1972,FS.AST.CGOV.GD.ZS,Claims on central government
+1973-01-01,,1352,,claims_on_govt_pct_gdp,10.3299940517901,percent of GDP,World Bank WDI API,1973,FS.AST.CGOV.GD.ZS,Claims on central government
+1974-01-01,,1353,,claims_on_govt_pct_gdp,-2.83049976820738,percent of GDP,World Bank WDI API,1974,FS.AST.CGOV.GD.ZS,Claims on central government
+1975-01-01,,1354,,claims_on_govt_pct_gdp,-4.77279569665984,percent of GDP,World Bank WDI API,1975,FS.AST.CGOV.GD.ZS,Claims on central government
+1976-01-01,,1355,,claims_on_govt_pct_gdp,-2.57547463599942,percent of GDP,World Bank WDI API,1976,FS.AST.CGOV.GD.ZS,Claims on central government
+1977-01-01,,1356,,claims_on_govt_pct_gdp,-0.768895952894208,percent of GDP,World Bank WDI API,1977,FS.AST.CGOV.GD.ZS,Claims on central government
+1979-01-01,,1358,,claims_on_govt_pct_gdp,5.52778151315261,percent of GDP,World Bank WDI API,1979,FS.AST.CGOV.GD.ZS,Claims on central government
+1980-01-01,,1359,,claims_on_govt_pct_gdp,22.2636138678177,percent of GDP,World Bank WDI API,1980,FS.AST.CGOV.GD.ZS,Claims on central government
+1981-01-01,,1360,,claims_on_govt_pct_gdp,33.4155677444152,percent of GDP,World Bank WDI API,1981,FS.AST.CGOV.GD.ZS,Claims on central government
+1982-01-01,,1361,,claims_on_govt_pct_gdp,36.8161914958184,percent of GDP,World Bank WDI API,1982,FS.AST.CGOV.GD.ZS,Claims on central government
+1983-01-01,,1362,,claims_on_govt_pct_gdp,25.0311232417721,percent of GDP,World Bank WDI API,1983,FS.AST.CGOV.GD.ZS,Claims on central government
+1986-01-01,,1365,,claims_on_govt_pct_gdp,39.0905050165678,percent of GDP,World Bank WDI API,1986,FS.AST.CGOV.GD.ZS,Claims on central government
+1987-01-01,,1366,,claims_on_govt_pct_gdp,41.0502112165506,percent of GDP,World Bank WDI API,1987,FS.AST.CGOV.GD.ZS,Claims on central government
+1988-01-01,,1367,,claims_on_govt_pct_gdp,44.5015051006632,percent of GDP,World Bank WDI API,1988,FS.AST.CGOV.GD.ZS,Claims on central government
+1989-01-01,,1368,,claims_on_govt_pct_gdp,41.7414280710006,percent of GDP,World Bank WDI API,1989,FS.AST.CGOV.GD.ZS,Claims on central government
+1990-01-01,,1369,,claims_on_govt_pct_gdp,30.6324273117442,percent of GDP,World Bank WDI API,1990,FS.AST.CGOV.GD.ZS,Claims on central government
+1991-01-01,,1370,,claims_on_govt_pct_gdp,23.6630960505231,percent of GDP,World Bank WDI API,1991,FS.AST.CGOV.GD.ZS,Claims on central government
+1992-01-01,,1371,,claims_on_govt_pct_gdp,17.8345162242987,percent of GDP,World Bank WDI API,1992,FS.AST.CGOV.GD.ZS,Claims on central government
+1993-01-01,,1372,,claims_on_govt_pct_gdp,11.505643611471,percent of GDP,World Bank WDI API,1993,FS.AST.CGOV.GD.ZS,Claims on central government
+1994-01-01,,1373,,claims_on_govt_pct_gdp,16.1420846991231,percent of GDP,World Bank WDI API,1994,FS.AST.CGOV.GD.ZS,Claims on central government
+1995-01-01,,1374,,claims_on_govt_pct_gdp,12.5014341645707,percent of GDP,World Bank WDI API,1995,FS.AST.CGOV.GD.ZS,Claims on central government
+1996-01-01,,1375,,claims_on_govt_pct_gdp,11.4727721330377,percent of GDP,World Bank WDI API,1996,FS.AST.CGOV.GD.ZS,Claims on central government
+1997-01-01,,1376,,claims_on_govt_pct_gdp,9.59122714696818,percent of GDP,World Bank WDI API,1997,FS.AST.CGOV.GD.ZS,Claims on central government
+1998-01-01,,1377,,claims_on_govt_pct_gdp,12.2933877505144,percent of GDP,World Bank WDI API,1998,FS.AST.CGOV.GD.ZS,Claims on central government
+1999-01-01,,1378,,claims_on_govt_pct_gdp,10.1177589892229,percent of GDP,World Bank WDI API,1999,FS.AST.CGOV.GD.ZS,Claims on central government
+2000-01-01,,1379,,claims_on_govt_pct_gdp,5.70363296838904,percent of GDP,World Bank WDI API,2000,FS.AST.CGOV.GD.ZS,Claims on central government
+2001-01-01,,1380,,claims_on_govt_pct_gdp,4.45448574172352,percent of GDP,World Bank WDI API,2001,FS.AST.CGOV.GD.ZS,Claims on central government
+2002-01-01,,1381,,claims_on_govt_pct_gdp,4.15693231771342,percent of GDP,World Bank WDI API,2002,FS.AST.CGOV.GD.ZS,Claims on central government
+2003-01-01,,1382,,claims_on_govt_pct_gdp,3.91326407006951,percent of GDP,World Bank WDI API,2003,FS.AST.CGOV.GD.ZS,Claims on central government
+2004-01-01,,1383,,claims_on_govt_pct_gdp,1.2980686153265,percent of GDP,World Bank WDI API,2004,FS.AST.CGOV.GD.ZS,Claims on central government
+2005-01-01,,1384,,claims_on_govt_pct_gdp,-0.820475745000405,percent of GDP,World Bank WDI API,2005,FS.AST.CGOV.GD.ZS,Claims on central government
+2006-01-01,,1385,,claims_on_govt_pct_gdp,-2.91240468492671,percent of GDP,World Bank WDI API,2006,FS.AST.CGOV.GD.ZS,Claims on central government
+2007-01-01,,1386,,claims_on_govt_pct_gdp,-3.02611003707865,percent of GDP,World Bank WDI API,2007,FS.AST.CGOV.GD.ZS,Claims on central government
+2008-01-01,,1387,,claims_on_govt_pct_gdp,-4.58949846892737,percent of GDP,World Bank WDI API,2008,FS.AST.CGOV.GD.ZS,Claims on central government
+2009-01-01,,1388,,claims_on_govt_pct_gdp,-3.45188231236622,percent of GDP,World Bank WDI API,2009,FS.AST.CGOV.GD.ZS,Claims on central government
+2010-01-01,,1389,,claims_on_govt_pct_gdp,0.592744492582742,percent of GDP,World Bank WDI API,2010,FS.AST.CGOV.GD.ZS,Claims on central government
+2011-01-01,,1390,,claims_on_govt_pct_gdp,0.498423745117631,percent of GDP,World Bank WDI API,2011,FS.AST.CGOV.GD.ZS,Claims on central government
+2012-01-01,,1391,,claims_on_govt_pct_gdp,3.40321174156802,percent of GDP,World Bank WDI API,2012,FS.AST.CGOV.GD.ZS,Claims on central government
+2013-01-01,,1392,,claims_on_govt_pct_gdp,1.94415931214855,percent of GDP,World Bank WDI API,2013,FS.AST.CGOV.GD.ZS,Claims on central government
+2014-01-01,,1393,,claims_on_govt_pct_gdp,2.11592727284384,percent of GDP,World Bank WDI API,2014,FS.AST.CGOV.GD.ZS,Claims on central government
+2015-01-01,,1394,,claims_on_govt_pct_gdp,5.78574321966891,percent of GDP,World Bank WDI API,2015,FS.AST.CGOV.GD.ZS,Claims on central government
+2016-01-01,,1395,,claims_on_govt_pct_gdp,8.16329658357982,percent of GDP,World Bank WDI API,2016,FS.AST.CGOV.GD.ZS,Claims on central government
+1961-01-01,,1340,,claims_on_govt_pct_m3,-24.9663913961974,percent of broad money,World Bank WDI API,1961,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1962-01-01,,1341,,claims_on_govt_pct_m3,5.33776688834442,percent of broad money,World Bank WDI API,1962,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1963-01-01,,1342,,claims_on_govt_pct_m3,4.86004734716613,percent of broad money,World Bank WDI API,1963,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1964-01-01,,1343,,claims_on_govt_pct_m3,10.536756126021,percent of broad money,World Bank WDI API,1964,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1965-01-01,,1344,,claims_on_govt_pct_m3,6.19469026548673,percent of broad money,World Bank WDI API,1965,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1966-01-01,,1345,,claims_on_govt_pct_m3,2.32700551132884,percent of broad money,World Bank WDI API,1966,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1967-01-01,,1346,,claims_on_govt_pct_m3,9.0728121889595,percent of broad money,World Bank WDI API,1967,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1968-01-01,,1347,,claims_on_govt_pct_m3,3.56637964271944,percent of broad money,World Bank WDI API,1968,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1969-01-01,,1348,,claims_on_govt_pct_m3,14.4184235411915,percent of broad money,World Bank WDI API,1969,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1970-01-01,,1349,,claims_on_govt_pct_m3,16.7249362184636,percent of broad money,World Bank WDI API,1970,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1971-01-01,,1350,,claims_on_govt_pct_m3,7.99823774431272,percent of broad money,World Bank WDI API,1971,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1972-01-01,,1351,,claims_on_govt_pct_m3,3.54305277436858,percent of broad money,World Bank WDI API,1972,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1973-01-01,,1352,,claims_on_govt_pct_m3,11.2448360675311,percent of broad money,World Bank WDI API,1973,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1974-01-01,,1353,,claims_on_govt_pct_m3,-51.5285363439757,percent of broad money,World Bank WDI API,1974,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1975-01-01,,1354,,claims_on_govt_pct_m3,-10.2677310881228,percent of broad money,World Bank WDI API,1975,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1976-01-01,,1355,,claims_on_govt_pct_m3,4.26905932106526,percent of broad money,World Bank WDI API,1976,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1977-01-01,,1356,,claims_on_govt_pct_m3,5.28810193612444,percent of broad money,World Bank WDI API,1977,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1980-01-01,,1359,,claims_on_govt_pct_m3,36.1391032541324,percent of broad money,World Bank WDI API,1980,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1981-01-01,,1360,,claims_on_govt_pct_m3,29.4132847012756,percent of broad money,World Bank WDI API,1981,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1982-01-01,,1361,,claims_on_govt_pct_m3,26.2320635462931,percent of broad money,World Bank WDI API,1982,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1983-01-01,,1362,,claims_on_govt_pct_m3,-8.53005659511548,percent of broad money,World Bank WDI API,1983,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1987-01-01,,1366,,claims_on_govt_pct_m3,17.412672623883,percent of broad money,World Bank WDI API,1987,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1988-01-01,,1367,,claims_on_govt_pct_m3,15.1074481490311,percent of broad money,World Bank WDI API,1988,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1989-01-01,,1368,,claims_on_govt_pct_m3,11.4916453398932,percent of broad money,World Bank WDI API,1989,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1990-01-01,,1369,,claims_on_govt_pct_m3,1.55701234153595,percent of broad money,World Bank WDI API,1990,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1991-01-01,,1370,,claims_on_govt_pct_m3,5.35062769713613,percent of broad money,World Bank WDI API,1991,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1992-01-01,,1371,,claims_on_govt_pct_m3,0.346776114623564,percent of broad money,World Bank WDI API,1992,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1993-01-01,,1372,,claims_on_govt_pct_m3,-1.89885340399613,percent of broad money,World Bank WDI API,1993,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1994-01-01,,1373,,claims_on_govt_pct_m3,24.9343756101441,percent of broad money,World Bank WDI API,1994,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1995-01-01,,1374,,claims_on_govt_pct_m3,3.83097766332967,percent of broad money,World Bank WDI API,1995,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1996-01-01,,1375,,claims_on_govt_pct_m3,8.82864799946623,percent of broad money,World Bank WDI API,1996,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1997-01-01,,1376,,claims_on_govt_pct_m3,-0.688416861595679,percent of broad money,World Bank WDI API,1997,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1998-01-01,,1377,,claims_on_govt_pct_m3,11.1095461406556,percent of broad money,World Bank WDI API,1998,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1999-01-01,,1378,,claims_on_govt_pct_m3,3.23781318101983,percent of broad money,World Bank WDI API,1999,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+2000-01-01,,1379,,claims_on_govt_pct_m3,-7.09689036154782,percent of broad money,World Bank WDI API,2000,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+2001-01-01,,1380,,claims_on_govt_pct_m3,-1.25771836859485,percent of broad money,World Bank WDI API,2001,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+2002-01-01,,1381,,claims_on_govt_pct_m3,3.2022245338298,percent of broad money,World Bank WDI API,2002,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+2003-01-01,,1382,,claims_on_govt_pct_m3,1.72463403461913,percent of broad money,World Bank WDI API,2003,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+2004-01-01,,1383,,claims_on_govt_pct_m3,-5.67458910881854,percent of broad money,World Bank WDI API,2004,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+2005-01-01,,1384,,claims_on_govt_pct_m3,-5.97310733099345,percent of broad money,World Bank WDI API,2005,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+2006-01-01,,1385,,claims_on_govt_pct_m3,-6.46141309086121,percent of broad money,World Bank WDI API,2006,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+2007-01-01,,1386,,claims_on_govt_pct_m3,-2.36104063292825,percent of broad money,World Bank WDI API,2007,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+2008-01-01,,1387,,claims_on_govt_pct_m3,-5.20816582706434,percent of broad money,World Bank WDI API,2008,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+2009-01-01,,1388,,claims_on_govt_pct_m3,2.12797713159663,percent of broad money,World Bank WDI API,2009,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+2010-01-01,,1389,,claims_on_govt_pct_m3,7.84643454226191,percent of broad money,World Bank WDI API,2010,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+2011-01-01,,1390,,claims_on_govt_pct_m3,0.165930660814141,percent of broad money,World Bank WDI API,2011,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+2012-01-01,,1391,,claims_on_govt_pct_m3,7.15604809654586,percent of broad money,World Bank WDI API,2012,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+2013-01-01,,1392,,claims_on_govt_pct_m3,-1.41191133645462,percent of broad money,World Bank WDI API,2013,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+2014-01-01,,1393,,claims_on_govt_pct_m3,0.950118429799063,percent of broad money,World Bank WDI API,2014,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+2015-01-01,,1394,,claims_on_govt_pct_m3,5.90309633019848,percent of broad money,World Bank WDI API,2015,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+2016-01-01,,1395,,claims_on_govt_pct_m3,5.66240811098793,percent of broad money,World Bank WDI API,2016,FM.AST.CGOV.ZG.M3,Central-bank claims on central government
+1960-01-01,,1339,,cpi_index_2010,0.141434222242228,"index, 2010=100",World Bank WDI API,1960,FP.CPI.TOTL,Consumer price index
+1961-01-01,,1340,,cpi_index_2010,0.145907170598419,"index, 2010=100",World Bank WDI API,1961,FP.CPI.TOTL,Consumer price index
+1962-01-01,,1341,,cpi_index_2010,0.146959629035467,"index, 2010=100",World Bank WDI API,1962,FP.CPI.TOTL,Consumer price index
+1963-01-01,,1342,,cpi_index_2010,0.147506097838809,"index, 2010=100",World Bank WDI API,1963,FP.CPI.TOTL,Consumer price index
+1964-01-01,,1343,,cpi_index_2010,0.153132702559275,"index, 2010=100",World Bank WDI API,1964,FP.CPI.TOTL,Consumer price index
+1965-01-01,,1344,,cpi_index_2010,0.156431754967688,"index, 2010=100",World Bank WDI API,1965,FP.CPI.TOTL,Consumer price index
+1966-01-01,,1345,,cpi_index_2010,0.155824567406958,"index, 2010=100",World Bank WDI API,1966,FP.CPI.TOTL,Consumer price index
+1967-01-01,,1346,,cpi_index_2010,0.158314036402412,"index, 2010=100",World Bank WDI API,1967,FP.CPI.TOTL,Consumer price index
+1968-01-01,,1347,,cpi_index_2010,0.159406974010513,"index, 2010=100",World Bank WDI API,1968,FP.CPI.TOTL,Consumer price index
+1969-01-01,,1348,,cpi_index_2010,0.165134776658004,"index, 2010=100",World Bank WDI API,1969,FP.CPI.TOTL,Consumer price index
+1970-01-01,,1349,,cpi_index_2010,0.167887360261456,"index, 2010=100",World Bank WDI API,1970,FP.CPI.TOTL,Consumer price index
+1971-01-01,,1350,,cpi_index_2010,0.174930735954397,"index, 2010=100",World Bank WDI API,1971,FP.CPI.TOTL,Consumer price index
+1972-01-01,,1351,,cpi_index_2010,0.186123226638345,"index, 2010=100",World Bank WDI API,1972,FP.CPI.TOTL,Consumer price index
+1973-01-01,,1352,,cpi_index_2010,0.204399572185478,"index, 2010=100",World Bank WDI API,1973,FP.CPI.TOTL,Consumer price index
+1974-01-01,,1353,,cpi_index_2010,0.233524335466659,"index, 2010=100",World Bank WDI API,1974,FP.CPI.TOTL,Consumer price index
+1975-01-01,,1354,,cpi_index_2010,0.263600359257663,"index, 2010=100",World Bank WDI API,1975,FP.CPI.TOTL,Consumer price index
+1976-01-01,,1355,,cpi_index_2010,0.29327159134259,"index, 2010=100",World Bank WDI API,1976,FP.CPI.TOTL,Consumer price index
+1977-01-01,,1356,,cpi_index_2010,0.37329891171374,"index, 2010=100",World Bank WDI API,1977,FP.CPI.TOTL,Consumer price index
+1978-01-01,,1357,,cpi_index_2010,0.417056895184144,"index, 2010=100",World Bank WDI API,1978,FP.CPI.TOTL,Consumer price index
+1979-01-01,,1358,,cpi_index_2010,0.460794639069835,"index, 2010=100",World Bank WDI API,1979,FP.CPI.TOTL,Consumer price index
+1980-01-01,,1359,,cpi_index_2010,0.555920690091445,"index, 2010=100",World Bank WDI API,1980,FP.CPI.TOTL,Consumer price index
+1981-01-01,,1360,,cpi_index_2010,0.690473453325752,"index, 2010=100",World Bank WDI API,1981,FP.CPI.TOTL,Consumer price index
+1982-01-01,,1361,,cpi_index_2010,0.819521049350726,"index, 2010=100",World Bank WDI API,1982,FP.CPI.TOTL,Consumer price index
+1983-01-01,,1362,,cpi_index_2010,0.981296054844951,"index, 2010=100",World Bank WDI API,1983,FP.CPI.TOTL,Consumer price index
+1984-01-01,,1363,,cpi_index_2010,1.10435273361484,"index, 2010=100",World Bank WDI API,1984,FP.CPI.TOTL,Consumer price index
+1985-01-01,,1364,,cpi_index_2010,1.15282654046573,"index, 2010=100",World Bank WDI API,1985,FP.CPI.TOTL,Consumer price index
+1986-01-01,,1365,,cpi_index_2010,1.36528097843675,"index, 2010=100",World Bank WDI API,1986,FP.CPI.TOTL,Consumer price index
+1987-01-01,,1366,,cpi_index_2010,1.75536125799012,"index, 2010=100",World Bank WDI API,1987,FP.CPI.TOTL,Consumer price index
+1988-01-01,,1367,,cpi_index_2010,2.25863447580672,"index, 2010=100",World Bank WDI API,1988,FP.CPI.TOTL,Consumer price index
+1989-01-01,,1368,,cpi_index_2010,2.76343144471534,"index, 2010=100",World Bank WDI API,1989,FP.CPI.TOTL,Consumer price index
+1990-01-01,,1369,,cpi_index_2010,2.97421701244274,"index, 2010=100",World Bank WDI API,1990,FP.CPI.TOTL,Consumer price index
+1991-01-01,,1370,,cpi_index_2010,3.48365779420319,"index, 2010=100",World Bank WDI API,1991,FP.CPI.TOTL,Consumer price index
+1992-01-01,,1371,,cpi_index_2010,4.38271053462994,"index, 2010=100",World Bank WDI API,1992,FP.CPI.TOTL,Consumer price index
+1993-01-01,,1372,,cpi_index_2010,5.31196046633819,"index, 2010=100",World Bank WDI API,1993,FP.CPI.TOTL,Consumer price index
+1994-01-01,,1373,,cpi_index_2010,6.98241418404714,"index, 2010=100",World Bank WDI API,1994,FP.CPI.TOTL,Consumer price index
+1995-01-01,,1374,,cpi_index_2010,10.4496007830059,"index, 2010=100",World Bank WDI API,1995,FP.CPI.TOTL,Consumer price index
+1996-01-01,,1375,,cpi_index_2010,13.4734377099679,"index, 2010=100",World Bank WDI API,1996,FP.CPI.TOTL,Consumer price index
+1997-01-01,,1376,,cpi_index_2010,15.8109748350774,"index, 2010=100",World Bank WDI API,1997,FP.CPI.TOTL,Consumer price index
+1998-01-01,,1377,,cpi_index_2010,18.6357848195023,"index, 2010=100",World Bank WDI API,1998,FP.CPI.TOTL,Consumer price index
+1999-01-01,,1378,,cpi_index_2010,22.3761187395983,"index, 2010=100",World Bank WDI API,1999,FP.CPI.TOTL,Consumer price index
+2000-01-01,,1379,,cpi_index_2010,25.615453804342,"index, 2010=100",World Bank WDI API,2000,FP.CPI.TOTL,Consumer price index
+2001-01-01,,1380,,cpi_index_2010,28.5034033705372,"index, 2010=100",World Bank WDI API,2001,FP.CPI.TOTL,Consumer price index
+2002-01-01,,1381,,cpi_index_2010,32.5896323907668,"index, 2010=100",World Bank WDI API,2002,FP.CPI.TOTL,Consumer price index
+2003-01-01,,1382,,cpi_index_2010,37.9564968412533,"index, 2010=100",World Bank WDI API,2003,FP.CPI.TOTL,Consumer price index
+2004-01-01,,1383,,cpi_index_2010,43.559448423577,"index, 2010=100",World Bank WDI API,2004,FP.CPI.TOTL,Consumer price index
+2005-01-01,,1384,,cpi_index_2010,49.4108405341712,"index, 2010=100",World Bank WDI API,2005,FP.CPI.TOTL,Consumer price index
+2006-01-01,,1385,,cpi_index_2010,54.3597800471328,"index, 2010=100",World Bank WDI API,2006,FP.CPI.TOTL,Consumer price index
+2007-01-01,,1386,,cpi_index_2010,63.7863315003927,"index, 2010=100",World Bank WDI API,2007,FP.CPI.TOTL,Consumer price index
+2008-01-01,,1387,,cpi_index_2010,79.9947630269704,"index, 2010=100",World Bank WDI API,2008,FP.CPI.TOTL,Consumer price index
+2009-01-01,,1388,,cpi_index_2010,90.8352971982194,"index, 2010=100",World Bank WDI API,2009,FP.CPI.TOTL,Consumer price index
+2010-01-01,,1389,,cpi_index_2010,100.0,"index, 2010=100",World Bank WDI API,2010,FP.CPI.TOTL,Consumer price index
+2011-01-01,,1390,,cpi_index_2010,126.293385673861,"index, 2010=100",World Bank WDI API,2011,FP.CPI.TOTL,Consumer price index
+2012-01-01,,1391,,cpi_index_2010,160.716937290151,"index, 2010=100",World Bank WDI API,2012,FP.CPI.TOTL,Consumer price index
+2013-01-01,,1392,,cpi_index_2010,219.54421493168,"index, 2010=100",World Bank WDI API,2013,FP.CPI.TOTL,Consumer price index
+2014-01-01,,1393,,cpi_index_2010,256.002941860307,"index, 2010=100",World Bank WDI API,2014,FP.CPI.TOTL,Consumer price index
+2015-01-01,,1394,,cpi_index_2010,287.964093938751,"index, 2010=100",World Bank WDI API,2015,FP.CPI.TOTL,Consumer price index
+2016-01-01,,1395,,cpi_index_2010,308.828317801683,"index, 2010=100",World Bank WDI API,2016,FP.CPI.TOTL,Consumer price index
+2017-01-01,,1396,,cpi_index_2010,333.673322422363,"index, 2010=100",World Bank WDI API,2017,FP.CPI.TOTL,Consumer price index
+2018-01-01,,1397,,cpi_index_2010,393.781629583152,"index, 2010=100",World Bank WDI API,2018,FP.CPI.TOTL,Consumer price index
+2019-01-01,,1398,,cpi_index_2010,550.929425291206,"index, 2010=100",World Bank WDI API,2019,FP.CPI.TOTL,Consumer price index
+2020-01-01,,1399,,cpi_index_2010,719.481539670071,"index, 2010=100",World Bank WDI API,2020,FP.CPI.TOTL,Consumer price index
+2021-01-01,,1400,,cpi_index_2010,1031.65750196386,"index, 2010=100",World Bank WDI API,2021,FP.CPI.TOTL,Consumer price index
+2022-01-01,,1401,,cpi_index_2010,1480.30950510605,"index, 2010=100",World Bank WDI API,2022,FP.CPI.TOTL,Consumer price index
+2023-01-01,,1402,,cpi_index_2010,2140.21942916994,"index, 2010=100",World Bank WDI API,2023,FP.CPI.TOTL,Consumer price index
+2024-01-01,,1403,,cpi_index_2010,2834.84629484158,"index, 2010=100",World Bank WDI API,2024,FP.CPI.TOTL,Consumer price index
+2025-01-01,,1404,,cpi_index_2010,4030.3356899712,"index, 2010=100",World Bank WDI API,2025,FP.CPI.TOTL,Consumer price index
+1960-01-01,,1339,,exports_pct_gdp,13.8490784602709,percent of GDP,World Bank WDI API,1960,NE.EXP.GNFS.ZS,Exports of goods and services
+1961-01-01,,1340,,exports_pct_gdp,13.7321474375069,percent of GDP,World Bank WDI API,1961,NE.EXP.GNFS.ZS,Exports of goods and services
+1962-01-01,,1341,,exports_pct_gdp,14.4973556852967,percent of GDP,World Bank WDI API,1962,NE.EXP.GNFS.ZS,Exports of goods and services
+1963-01-01,,1342,,exports_pct_gdp,15.3310055451196,percent of GDP,World Bank WDI API,1963,NE.EXP.GNFS.ZS,Exports of goods and services
+1964-01-01,,1343,,exports_pct_gdp,16.3982824485537,percent of GDP,World Bank WDI API,1964,NE.EXP.GNFS.ZS,Exports of goods and services
+1965-01-01,,1344,,exports_pct_gdp,16.1502749214561,percent of GDP,World Bank WDI API,1965,NE.EXP.GNFS.ZS,Exports of goods and services
+1966-01-01,,1345,,exports_pct_gdp,16.2943923545687,percent of GDP,World Bank WDI API,1966,NE.EXP.GNFS.ZS,Exports of goods and services
+1967-01-01,,1346,,exports_pct_gdp,17.2965382072638,percent of GDP,World Bank WDI API,1967,NE.EXP.GNFS.ZS,Exports of goods and services
+1968-01-01,,1347,,exports_pct_gdp,17.4791855915173,percent of GDP,World Bank WDI API,1968,NE.EXP.GNFS.ZS,Exports of goods and services
+1969-01-01,,1348,,exports_pct_gdp,18.02808464112,percent of GDP,World Bank WDI API,1969,NE.EXP.GNFS.ZS,Exports of goods and services
+1970-01-01,,1349,,exports_pct_gdp,18.4655449709926,percent of GDP,World Bank WDI API,1970,NE.EXP.GNFS.ZS,Exports of goods and services
+1971-01-01,,1350,,exports_pct_gdp,23.1052230002677,percent of GDP,World Bank WDI API,1971,NE.EXP.GNFS.ZS,Exports of goods and services
+1972-01-01,,1351,,exports_pct_gdp,22.9474577574865,percent of GDP,World Bank WDI API,1972,NE.EXP.GNFS.ZS,Exports of goods and services
+1973-01-01,,1352,,exports_pct_gdp,33.440076025627,percent of GDP,World Bank WDI API,1973,NE.EXP.GNFS.ZS,Exports of goods and services
+1974-01-01,,1353,,exports_pct_gdp,47.3709309039233,percent of GDP,World Bank WDI API,1974,NE.EXP.GNFS.ZS,Exports of goods and services
+1975-01-01,,1354,,exports_pct_gdp,40.7357359295888,percent of GDP,World Bank WDI API,1975,NE.EXP.GNFS.ZS,Exports of goods and services
+1976-01-01,,1355,,exports_pct_gdp,37.2050049388261,percent of GDP,World Bank WDI API,1976,NE.EXP.GNFS.ZS,Exports of goods and services
+1977-01-01,,1356,,exports_pct_gdp,30.7953035113143,percent of GDP,World Bank WDI API,1977,NE.EXP.GNFS.ZS,Exports of goods and services
+1978-01-01,,1357,,exports_pct_gdp,23.4745372685569,percent of GDP,World Bank WDI API,1978,NE.EXP.GNFS.ZS,Exports of goods and services
+1979-01-01,,1358,,exports_pct_gdp,26.7463359168872,percent of GDP,World Bank WDI API,1979,NE.EXP.GNFS.ZS,Exports of goods and services
+1980-01-01,,1359,,exports_pct_gdp,13.7360257627531,percent of GDP,World Bank WDI API,1980,NE.EXP.GNFS.ZS,Exports of goods and services
+1981-01-01,,1360,,exports_pct_gdp,12.3697234024447,percent of GDP,World Bank WDI API,1981,NE.EXP.GNFS.ZS,Exports of goods and services
+1982-01-01,,1361,,exports_pct_gdp,17.0902700995608,percent of GDP,World Bank WDI API,1982,NE.EXP.GNFS.ZS,Exports of goods and services
+1983-01-01,,1362,,exports_pct_gdp,14.5338241660556,percent of GDP,World Bank WDI API,1983,NE.EXP.GNFS.ZS,Exports of goods and services
+1984-01-01,,1363,,exports_pct_gdp,11.3134389053871,percent of GDP,World Bank WDI API,1984,NE.EXP.GNFS.ZS,Exports of goods and services
+1985-01-01,,1364,,exports_pct_gdp,8.88359538145449,percent of GDP,World Bank WDI API,1985,NE.EXP.GNFS.ZS,Exports of goods and services
+1986-01-01,,1365,,exports_pct_gdp,3.73161572002006,percent of GDP,World Bank WDI API,1986,NE.EXP.GNFS.ZS,Exports of goods and services
+1987-01-01,,1366,,exports_pct_gdp,9.15740321103242,percent of GDP,World Bank WDI API,1987,NE.EXP.GNFS.ZS,Exports of goods and services
+1988-01-01,,1367,,exports_pct_gdp,7.28516040724546,percent of GDP,World Bank WDI API,1988,NE.EXP.GNFS.ZS,Exports of goods and services
+1989-01-01,,1368,,exports_pct_gdp,9.82726963320096,percent of GDP,World Bank WDI API,1989,NE.EXP.GNFS.ZS,Exports of goods and services
+1990-01-01,,1369,,exports_pct_gdp,13.2787418004901,percent of GDP,World Bank WDI API,1990,NE.EXP.GNFS.ZS,Exports of goods and services
+1991-01-01,,1370,,exports_pct_gdp,13.8243202860364,percent of GDP,World Bank WDI API,1991,NE.EXP.GNFS.ZS,Exports of goods and services
+1992-01-01,,1371,,exports_pct_gdp,13.1645906691731,percent of GDP,World Bank WDI API,1992,NE.EXP.GNFS.ZS,Exports of goods and services
+1993-01-01,,1372,,exports_pct_gdp,25.4101116466448,percent of GDP,World Bank WDI API,1993,NE.EXP.GNFS.ZS,Exports of goods and services
+1994-01-01,,1373,,exports_pct_gdp,28.2861924143561,percent of GDP,World Bank WDI API,1994,NE.EXP.GNFS.ZS,Exports of goods and services
+1995-01-01,,1374,,exports_pct_gdp,21.6762407043299,percent of GDP,World Bank WDI API,1995,NE.EXP.GNFS.ZS,Exports of goods and services
+1996-01-01,,1375,,exports_pct_gdp,20.1951302398727,percent of GDP,World Bank WDI API,1996,NE.EXP.GNFS.ZS,Exports of goods and services
+1997-01-01,,1376,,exports_pct_gdp,17.2779308650647,percent of GDP,World Bank WDI API,1997,NE.EXP.GNFS.ZS,Exports of goods and services
+1998-01-01,,1377,,exports_pct_gdp,12.6833809123619,percent of GDP,World Bank WDI API,1998,NE.EXP.GNFS.ZS,Exports of goods and services
+1999-01-01,,1378,,exports_pct_gdp,19.292023195998,percent of GDP,World Bank WDI API,1999,NE.EXP.GNFS.ZS,Exports of goods and services
+2000-01-01,,1379,,exports_pct_gdp,21.4670575678483,percent of GDP,World Bank WDI API,2000,NE.EXP.GNFS.ZS,Exports of goods and services
+2001-01-01,,1380,,exports_pct_gdp,19.3033203562353,percent of GDP,World Bank WDI API,2001,NE.EXP.GNFS.ZS,Exports of goods and services
+2002-01-01,,1381,,exports_pct_gdp,24.4139021536457,percent of GDP,World Bank WDI API,2002,NE.EXP.GNFS.ZS,Exports of goods and services
+2003-01-01,,1382,,exports_pct_gdp,24.6274728309232,percent of GDP,World Bank WDI API,2003,NE.EXP.GNFS.ZS,Exports of goods and services
+2004-01-01,,1383,,exports_pct_gdp,25.266928255823,percent of GDP,World Bank WDI API,2004,NE.EXP.GNFS.ZS,Exports of goods and services
+2005-01-01,,1384,,exports_pct_gdp,30.3308191865397,percent of GDP,World Bank WDI API,2005,NE.EXP.GNFS.ZS,Exports of goods and services
+2006-01-01,,1385,,exports_pct_gdp,29.8690352505831,percent of GDP,World Bank WDI API,2006,NE.EXP.GNFS.ZS,Exports of goods and services
+2007-01-01,,1386,,exports_pct_gdp,28.8436124054165,percent of GDP,World Bank WDI API,2007,NE.EXP.GNFS.ZS,Exports of goods and services
+2008-01-01,,1387,,exports_pct_gdp,26.5771274521598,percent of GDP,World Bank WDI API,2008,NE.EXP.GNFS.ZS,Exports of goods and services
+2009-01-01,,1388,,exports_pct_gdp,22.7114891378215,percent of GDP,World Bank WDI API,2009,NE.EXP.GNFS.ZS,Exports of goods and services
+2010-01-01,,1389,,exports_pct_gdp,24.399653282909,percent of GDP,World Bank WDI API,2010,NE.EXP.GNFS.ZS,Exports of goods and services
+2011-01-01,,1390,,exports_pct_gdp,24.9333131264674,percent of GDP,World Bank WDI API,2011,NE.EXP.GNFS.ZS,Exports of goods and services
+2012-01-01,,1391,,exports_pct_gdp,22.4753001992586,percent of GDP,World Bank WDI API,2012,NE.EXP.GNFS.ZS,Exports of goods and services
+2013-01-01,,1392,,exports_pct_gdp,25.1829067419072,percent of GDP,World Bank WDI API,2013,NE.EXP.GNFS.ZS,Exports of goods and services
+2014-01-01,,1393,,exports_pct_gdp,22.8306723891643,percent of GDP,World Bank WDI API,2014,NE.EXP.GNFS.ZS,Exports of goods and services
+2015-01-01,,1394,,exports_pct_gdp,18.7208345068656,percent of GDP,World Bank WDI API,2015,NE.EXP.GNFS.ZS,Exports of goods and services
+2016-01-01,,1395,,exports_pct_gdp,20.3097816144481,percent of GDP,World Bank WDI API,2016,NE.EXP.GNFS.ZS,Exports of goods and services
+2017-01-01,,1396,,exports_pct_gdp,21.8329309946109,percent of GDP,World Bank WDI API,2017,NE.EXP.GNFS.ZS,Exports of goods and services
+2018-01-01,,1397,,exports_pct_gdp,29.639694129412,percent of GDP,World Bank WDI API,2018,NE.EXP.GNFS.ZS,Exports of goods and services
+2019-01-01,,1398,,exports_pct_gdp,22.3147082096412,percent of GDP,World Bank WDI API,2019,NE.EXP.GNFS.ZS,Exports of goods and services
+2020-01-01,,1399,,exports_pct_gdp,18.3903748639131,percent of GDP,World Bank WDI API,2020,NE.EXP.GNFS.ZS,Exports of goods and services
+2021-01-01,,1400,,exports_pct_gdp,22.0192078360416,percent of GDP,World Bank WDI API,2021,NE.EXP.GNFS.ZS,Exports of goods and services
+2022-01-01,,1401,,exports_pct_gdp,25.5666185174995,percent of GDP,World Bank WDI API,2022,NE.EXP.GNFS.ZS,Exports of goods and services
+2023-01-01,,1402,,exports_pct_gdp,23.9216475542357,percent of GDP,World Bank WDI API,2023,NE.EXP.GNFS.ZS,Exports of goods and services
+2024-01-01,,1403,,exports_pct_gdp,23.5514720983508,percent of GDP,World Bank WDI API,2024,NE.EXP.GNFS.ZS,Exports of goods and services
+2025-01-01,,1404,,exports_pct_gdp,25.754375261588,percent of GDP,World Bank WDI API,2025,NE.EXP.GNFS.ZS,Exports of goods and services
+1963-01-01,,1342,,fuel_exports_pct,86.5867115400809,percent of merchandise exports,World Bank WDI API,1963,TX.VAL.FUEL.ZS.UN,Fuel exports
+1964-01-01,,1343,,fuel_exports_pct,87.9988673755134,percent of merchandise exports,World Bank WDI API,1964,TX.VAL.FUEL.ZS.UN,Fuel exports
+1965-01-01,,1344,,fuel_exports_pct,86.7239267371574,percent of merchandise exports,World Bank WDI API,1965,TX.VAL.FUEL.ZS.UN,Fuel exports
+1966-01-01,,1345,,fuel_exports_pct,87.27069374635,percent of merchandise exports,World Bank WDI API,1966,TX.VAL.FUEL.ZS.UN,Fuel exports
+1967-01-01,,1346,,fuel_exports_pct,90.3725278548899,percent of merchandise exports,World Bank WDI API,1967,TX.VAL.FUEL.ZS.UN,Fuel exports
+1968-01-01,,1347,,fuel_exports_pct,89.2544094588038,percent of merchandise exports,World Bank WDI API,1968,TX.VAL.FUEL.ZS.UN,Fuel exports
+1969-01-01,,1348,,fuel_exports_pct,88.8959668870012,percent of merchandise exports,World Bank WDI API,1969,TX.VAL.FUEL.ZS.UN,Fuel exports
+1970-01-01,,1349,,fuel_exports_pct,88.6182710635488,percent of merchandise exports,World Bank WDI API,1970,TX.VAL.FUEL.ZS.UN,Fuel exports
+1971-01-01,,1350,,fuel_exports_pct,87.3118715622128,percent of merchandise exports,World Bank WDI API,1971,TX.VAL.FUEL.ZS.UN,Fuel exports
+1972-01-01,,1351,,fuel_exports_pct,88.2551302679952,percent of merchandise exports,World Bank WDI API,1972,TX.VAL.FUEL.ZS.UN,Fuel exports
+1973-01-01,,1352,,fuel_exports_pct,89.7693198842196,percent of merchandise exports,World Bank WDI API,1973,TX.VAL.FUEL.ZS.UN,Fuel exports
+1974-01-01,,1353,,fuel_exports_pct,97.3317584618177,percent of merchandise exports,World Bank WDI API,1974,TX.VAL.FUEL.ZS.UN,Fuel exports
+1975-01-01,,1354,,fuel_exports_pct,97.0425755372024,percent of merchandise exports,World Bank WDI API,1975,TX.VAL.FUEL.ZS.UN,Fuel exports
+1976-01-01,,1355,,fuel_exports_pct,97.6144646109757,percent of merchandise exports,World Bank WDI API,1976,TX.VAL.FUEL.ZS.UN,Fuel exports
+1977-01-01,,1356,,fuel_exports_pct,99.1510576827239,percent of merchandise exports,World Bank WDI API,1977,TX.VAL.FUEL.ZS.UN,Fuel exports
+1997-01-01,,1376,,fuel_exports_pct,85.8003950430061,percent of merchandise exports,World Bank WDI API,1997,TX.VAL.FUEL.ZS.UN,Fuel exports
+1998-01-01,,1377,,fuel_exports_pct,81.2977718272111,percent of merchandise exports,World Bank WDI API,1998,TX.VAL.FUEL.ZS.UN,Fuel exports
+1999-01-01,,1378,,fuel_exports_pct,86.0700264270086,percent of merchandise exports,World Bank WDI API,1999,TX.VAL.FUEL.ZS.UN,Fuel exports
+2000-01-01,,1379,,fuel_exports_pct,88.8675310777915,percent of merchandise exports,World Bank WDI API,2000,TX.VAL.FUEL.ZS.UN,Fuel exports
+2001-01-01,,1380,,fuel_exports_pct,85.2051131777108,percent of merchandise exports,World Bank WDI API,2001,TX.VAL.FUEL.ZS.UN,Fuel exports
+2002-01-01,,1381,,fuel_exports_pct,70.3079897892571,percent of merchandise exports,World Bank WDI API,2002,TX.VAL.FUEL.ZS.UN,Fuel exports
+2003-01-01,,1382,,fuel_exports_pct,79.4780554871552,percent of merchandise exports,World Bank WDI API,2003,TX.VAL.FUEL.ZS.UN,Fuel exports
+2004-01-01,,1383,,fuel_exports_pct,78.9586877543246,percent of merchandise exports,World Bank WDI API,2004,TX.VAL.FUEL.ZS.UN,Fuel exports
+2005-01-01,,1384,,fuel_exports_pct,83.0809475304939,percent of merchandise exports,World Bank WDI API,2005,TX.VAL.FUEL.ZS.UN,Fuel exports
+2006-01-01,,1385,,fuel_exports_pct,83.2838200199219,percent of merchandise exports,World Bank WDI API,2006,TX.VAL.FUEL.ZS.UN,Fuel exports
+2010-01-01,,1389,,fuel_exports_pct,70.8018189413379,percent of merchandise exports,World Bank WDI API,2010,TX.VAL.FUEL.ZS.UN,Fuel exports
+2011-01-01,,1390,,fuel_exports_pct,70.5041242804763,percent of merchandise exports,World Bank WDI API,2011,TX.VAL.FUEL.ZS.UN,Fuel exports
+2013-01-01,,1392,,fuel_exports_pct,71.7172687320017,percent of merchandise exports,World Bank WDI API,2013,TX.VAL.FUEL.ZS.UN,Fuel exports
+2014-01-01,,1393,,fuel_exports_pct,67.7953155547417,percent of merchandise exports,World Bank WDI API,2014,TX.VAL.FUEL.ZS.UN,Fuel exports
+2015-01-01,,1394,,fuel_exports_pct,57.7930861182423,percent of merchandise exports,World Bank WDI API,2015,TX.VAL.FUEL.ZS.UN,Fuel exports
+2016-01-01,,1395,,fuel_exports_pct,67.5862230701503,percent of merchandise exports,World Bank WDI API,2016,TX.VAL.FUEL.ZS.UN,Fuel exports
+2017-01-01,,1396,,fuel_exports_pct,71.0578843095261,percent of merchandise exports,World Bank WDI API,2017,TX.VAL.FUEL.ZS.UN,Fuel exports
+2018-01-01,,1397,,fuel_exports_pct,68.6777337315966,percent of merchandise exports,World Bank WDI API,2018,TX.VAL.FUEL.ZS.UN,Fuel exports
+2019-01-01,,1398,,fuel_exports_pct,38.5316504652718,percent of merchandise exports,World Bank WDI API,2019,TX.VAL.FUEL.ZS.UN,Fuel exports
+2020-01-01,,1399,,fuel_exports_pct,29.1637868954392,percent of merchandise exports,World Bank WDI API,2020,TX.VAL.FUEL.ZS.UN,Fuel exports
+2021-01-01,,1400,,fuel_exports_pct,47.9119531286438,percent of merchandise exports,World Bank WDI API,2021,TX.VAL.FUEL.ZS.UN,Fuel exports
+2022-01-01,,1401,,fuel_exports_pct,56.361512409332,percent of merchandise exports,World Bank WDI API,2022,TX.VAL.FUEL.ZS.UN,Fuel exports
+1961-01-01,,1340,,gdp_deflator_pct,-4.49823287158488,percent,World Bank WDI API,1961,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1962-01-01,,1341,,gdp_deflator_pct,-1.74838598504724,percent,World Bank WDI API,1962,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1963-01-01,,1342,,gdp_deflator_pct,-1.90010248777531,percent,World Bank WDI API,1963,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1964-01-01,,1343,,gdp_deflator_pct,0.626693254366756,percent,World Bank WDI API,1964,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1965-01-01,,1344,,gdp_deflator_pct,-1.5726706863673,percent,World Bank WDI API,1965,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1966-01-01,,1345,,gdp_deflator_pct,-1.73978924473283,percent,World Bank WDI API,1966,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1967-01-01,,1346,,gdp_deflator_pct,0.0183557037140076,percent,World Bank WDI API,1967,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1968-01-01,,1347,,gdp_deflator_pct,-0.23719076577261,percent,World Bank WDI API,1968,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1969-01-01,,1348,,gdp_deflator_pct,-2.18961228853523,percent,World Bank WDI API,1969,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1970-01-01,,1349,,gdp_deflator_pct,1.55878076296581,percent,World Bank WDI API,1970,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1971-01-01,,1350,,gdp_deflator_pct,10.029011010837,percent,World Bank WDI API,1971,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1972-01-01,,1351,,gdp_deflator_pct,9.0994456950316,percent,World Bank WDI API,1972,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1973-01-01,,1352,,gdp_deflator_pct,33.62089989217,percent,World Bank WDI API,1973,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1974-01-01,,1353,,gdp_deflator_pct,58.3299552849667,percent,World Bank WDI API,1974,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1975-01-01,,1354,,gdp_deflator_pct,13.3137238998417,percent,World Bank WDI API,1975,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1976-01-01,,1355,,gdp_deflator_pct,15.0082371809431,percent,World Bank WDI API,1976,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1977-01-01,,1356,,gdp_deflator_pct,21.8878191407851,percent,World Bank WDI API,1977,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1978-01-01,,1357,,gdp_deflator_pct,10.8597474859579,percent,World Bank WDI API,1978,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1979-01-01,,1358,,gdp_deflator_pct,31.7304708879383,percent,World Bank WDI API,1979,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1980-01-01,,1359,,gdp_deflator_pct,35.2313134939685,percent,World Bank WDI API,1980,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1981-01-01,,1360,,gdp_deflator_pct,26.2738370953371,percent,World Bank WDI API,1981,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1982-01-01,,1361,,gdp_deflator_pct,7.3729440536558,percent,World Bank WDI API,1982,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1983-01-01,,1362,,gdp_deflator_pct,15.4329899143106,percent,World Bank WDI API,1983,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1984-01-01,,1363,,gdp_deflator_pct,17.7486479901714,percent,World Bank WDI API,1984,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1985-01-01,,1364,,gdp_deflator_pct,4.0544881480061,percent,World Bank WDI API,1985,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1986-01-01,,1365,,gdp_deflator_pct,12.2355433967134,percent,World Bank WDI API,1986,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1987-01-01,,1366,,gdp_deflator_pct,21.5334190145833,percent,World Bank WDI API,1987,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1988-01-01,,1367,,gdp_deflator_pct,20.0802993273962,percent,World Bank WDI API,1988,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1989-01-01,,1368,,gdp_deflator_pct,17.1600078824838,percent,World Bank WDI API,1989,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1990-01-01,,1369,,gdp_deflator_pct,22.7971969560271,percent,World Bank WDI API,1990,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1991-01-01,,1370,,gdp_deflator_pct,25.6171132068911,percent,World Bank WDI API,1991,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1992-01-01,,1371,,gdp_deflator_pct,29.3415325625632,percent,World Bank WDI API,1992,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1993-01-01,,1372,,gdp_deflator_pct,49.8968148667589,percent,World Bank WDI API,1993,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1994-01-01,,1373,,gdp_deflator_pct,33.9314865982276,percent,World Bank WDI API,1994,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1995-01-01,,1374,,gdp_deflator_pct,37.9374945055073,percent,World Bank WDI API,1995,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1996-01-01,,1375,,gdp_deflator_pct,28.833645728935,percent,World Bank WDI API,1996,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1997-01-01,,1376,,gdp_deflator_pct,15.5280864927188,percent,World Bank WDI API,1997,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1998-01-01,,1377,,gdp_deflator_pct,9.38151715819222,percent,World Bank WDI API,1998,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1999-01-01,,1378,,gdp_deflator_pct,31.707847145119,percent,World Bank WDI API,1999,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2000-01-01,,1379,,gdp_deflator_pct,24.9292605186771,percent,World Bank WDI API,2000,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2001-01-01,,1380,,gdp_deflator_pct,14.8054189518948,percent,World Bank WDI API,2001,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2002-01-01,,1381,,gdp_deflator_pct,28.2796940877293,percent,World Bank WDI API,2002,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2003-01-01,,1382,,gdp_deflator_pct,13.1363946141701,percent,World Bank WDI API,2003,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2004-01-01,,1383,,gdp_deflator_pct,24.7082423969632,percent,World Bank WDI API,2004,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2005-01-01,,1384,,gdp_deflator_pct,20.1661915986707,percent,World Bank WDI API,2005,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2006-01-01,,1385,,gdp_deflator_pct,14.5825930336829,percent,World Bank WDI API,2006,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2007-01-01,,1386,,gdp_deflator_pct,22.9390613526636,percent,World Bank WDI API,2007,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2008-01-01,,1387,,gdp_deflator_pct,19.4219808659436,percent,World Bank WDI API,2008,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2009-01-01,,1388,,gdp_deflator_pct,4.59851691743872,percent,World Bank WDI API,2009,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2010-01-01,,1389,,gdp_deflator_pct,15.8826259725109,percent,World Bank WDI API,2010,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2011-01-01,,1390,,gdp_deflator_pct,33.4095331560984,percent,World Bank WDI API,2011,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2012-01-01,,1391,,gdp_deflator_pct,18.9538841448278,percent,World Bank WDI API,2012,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2013-01-01,,1392,,gdp_deflator_pct,36.7756318862083,percent,World Bank WDI API,2013,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2014-01-01,,1393,,gdp_deflator_pct,9.75876873256342,percent,World Bank WDI API,2014,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2015-01-01,,1394,,gdp_deflator_pct,0.197001678736953,percent,World Bank WDI API,2015,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2016-01-01,,1395,,gdp_deflator_pct,14.0650205569588,percent,World Bank WDI API,2016,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2017-01-01,,1396,,gdp_deflator_pct,12.7875737214138,percent,World Bank WDI API,2017,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2018-01-01,,1397,,gdp_deflator_pct,32.9114031837064,percent,World Bank WDI API,2018,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2019-01-01,,1398,,gdp_deflator_pct,30.9338554764076,percent,World Bank WDI API,2019,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2020-01-01,,1399,,gdp_deflator_pct,46.5767903520112,percent,World Bank WDI API,2020,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2021-01-01,,1400,,gdp_deflator_pct,55.8629923089886,percent,World Bank WDI API,2021,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2022-01-01,,1401,,gdp_deflator_pct,51.0776555189838,percent,World Bank WDI API,2022,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2023-01-01,,1402,,gdp_deflator_pct,37.2937420752896,percent,World Bank WDI API,2023,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2024-01-01,,1403,,gdp_deflator_pct,28.3706105011951,percent,World Bank WDI API,2024,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+2025-01-01,,1404,,gdp_deflator_pct,28.7775822983826,percent,World Bank WDI API,2025,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+1961-01-01,,1340,,gdp_growth_pct,10.3909183549937,percent,World Bank WDI API,1961,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1962-01-01,,1341,,gdp_growth_pct,7.90926792965325,percent,World Bank WDI API,1962,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1963-01-01,,1342,,gdp_growth_pct,7.04207522912871,percent,World Bank WDI API,1963,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1964-01-01,,1343,,gdp_growth_pct,8.4752282487856,percent,World Bank WDI API,1964,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1965-01-01,,1344,,gdp_growth_pct,17.0357115203008,percent,World Bank WDI API,1965,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1966-01-01,,1345,,gdp_growth_pct,11.5024072848285,percent,World Bank WDI API,1966,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1967-01-01,,1346,,gdp_growth_pct,11.2528030961675,percent,World Bank WDI API,1967,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1968-01-01,,1347,,gdp_growth_pct,14.4041826754728,percent,World Bank WDI API,1968,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1969-01-01,,1348,,gdp_growth_pct,15.5166589080891,percent,World Bank WDI API,1969,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1970-01-01,,1349,,gdp_growth_pct,10.9276016296547,percent,World Bank WDI API,1970,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1971-01-01,,1350,,gdp_growth_pct,13.7015829939225,percent,World Bank WDI API,1971,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1972-01-01,,1351,,gdp_growth_pct,14.4990158486367,percent,World Bank WDI API,1972,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1973-01-01,,1352,,gdp_growth_pct,7.44168161210852,percent,World Bank WDI API,1973,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1974-01-01,,1353,,gdp_growth_pct,5.80105084782068,percent,World Bank WDI API,1974,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1975-01-01,,1354,,gdp_growth_pct,-0.326216240773292,percent,World Bank WDI API,1975,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1976-01-01,,1355,,gdp_growth_pct,18.2604356281607,percent,World Bank WDI API,1976,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1977-01-01,,1356,,gdp_growth_pct,-2.77357769163513,percent,World Bank WDI API,1977,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1978-01-01,,1357,,gdp_growth_pct,-12.8408566742286,percent,World Bank WDI API,1978,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1979-01-01,,1358,,gdp_growth_pct,-12.0207602547921,percent,World Bank WDI API,1979,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1980-01-01,,1359,,gdp_growth_pct,-21.5996493516924,percent,World Bank WDI API,1980,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1981-01-01,,1360,,gdp_growth_pct,-5.69678723333881,percent,World Bank WDI API,1981,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1982-01-01,,1361,,gdp_growth_pct,23.1712455355796,percent,World Bank WDI API,1982,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1983-01-01,,1362,,gdp_growth_pct,11.0867168468735,percent,World Bank WDI API,1983,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1984-01-01,,1363,,gdp_growth_pct,-7.13985049890006,percent,World Bank WDI API,1984,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1985-01-01,,1364,,gdp_growth_pct,1.86764993250704,percent,World Bank WDI API,1985,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1986-01-01,,1365,,gdp_growth_pct,-9.78490557801793,percent,World Bank WDI API,1986,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1987-01-01,,1366,,gdp_growth_pct,-0.172107687605632,percent,World Bank WDI API,1987,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1988-01-01,,1367,,gdp_growth_pct,-6.08199661986552,percent,World Bank WDI API,1988,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1989-01-01,,1368,,gdp_growth_pct,6.13211567717991,percent,World Bank WDI API,1989,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1990-01-01,,1369,,gdp_growth_pct,13.594926443584,percent,World Bank WDI API,1990,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1991-01-01,,1370,,gdp_growth_pct,12.7161484424098,percent,World Bank WDI API,1991,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1992-01-01,,1371,,gdp_growth_pct,3.29798191958058,percent,World Bank WDI API,1992,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1993-01-01,,1372,,gdp_growth_pct,-1.47101148218381,percent,World Bank WDI API,1993,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1994-01-01,,1373,,gdp_growth_pct,-1.69828611909162,percent,World Bank WDI API,1994,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1995-01-01,,1374,,gdp_growth_pct,2.40104455220023,percent,World Bank WDI API,1995,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1996-01-01,,1375,,gdp_growth_pct,6.35052601873645,percent,World Bank WDI API,1996,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1997-01-01,,1376,,gdp_growth_pct,1.3503992743003,percent,World Bank WDI API,1997,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1998-01-01,,1377,,gdp_growth_pct,2.08001178027133,percent,World Bank WDI API,1998,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1999-01-01,,1378,,gdp_growth_pct,2.00269623253435,percent,World Bank WDI API,1999,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2000-01-01,,1379,,gdp_growth_pct,5.84552747578209,percent,World Bank WDI API,2000,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2001-01-01,,1380,,gdp_growth_pct,2.39217271207868,percent,World Bank WDI API,2001,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2002-01-01,,1381,,gdp_growth_pct,8.07882927975243,percent,World Bank WDI API,2002,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2003-01-01,,1382,,gdp_growth_pct,8.6392983972006,percent,World Bank WDI API,2003,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2004-01-01,,1383,,gdp_growth_pct,4.33666597851041,percent,World Bank WDI API,2004,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2005-01-01,,1384,,gdp_growth_pct,3.18980408728824,percent,World Bank WDI API,2005,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2006-01-01,,1385,,gdp_growth_pct,4.99979526181222,percent,World Bank WDI API,2006,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2007-01-01,,1386,,gdp_growth_pct,8.15577352358517,percent,World Bank WDI API,2007,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2008-01-01,,1387,,gdp_growth_pct,0.250856553493634,percent,World Bank WDI API,2008,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2009-01-01,,1388,,gdp_growth_pct,1.00738545790475,percent,World Bank WDI API,2009,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2010-01-01,,1389,,gdp_growth_pct,5.79793830169604,percent,World Bank WDI API,2010,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2011-01-01,,1390,,gdp_growth_pct,2.6457179180628,percent,World Bank WDI API,2011,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2012-01-01,,1391,,gdp_growth_pct,-3.74717139864109,percent,World Bank WDI API,2012,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2013-01-01,,1392,,gdp_growth_pct,-1.52197920494184,percent,World Bank WDI API,2013,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2014-01-01,,1393,,gdp_growth_pct,4.98477506709476,percent,World Bank WDI API,2014,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2015-01-01,,1394,,gdp_growth_pct,-1.42488493937503,percent,World Bank WDI API,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2016-01-01,,1395,,gdp_growth_pct,8.8150866425182,percent,World Bank WDI API,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2017-01-01,,1396,,gdp_growth_pct,3.02685468694025,percent,World Bank WDI API,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2018-01-01,,1397,,gdp_growth_pct,-3.74796015711334,percent,World Bank WDI API,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2019-01-01,,1398,,gdp_growth_pct,-2.36143538770575,percent,World Bank WDI API,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2020-01-01,,1399,,gdp_growth_pct,4.44180865358672,percent,World Bank WDI API,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2021-01-01,,1400,,gdp_growth_pct,4.13089685034471,percent,World Bank WDI API,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2022-01-01,,1401,,gdp_growth_pct,4.35281087521344,percent,World Bank WDI API,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2023-01-01,,1402,,gdp_growth_pct,5.33235116079808,percent,World Bank WDI API,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2024-01-01,,1403,,gdp_growth_pct,3.66312057949303,percent,World Bank WDI API,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+2025-01-01,,1404,,gdp_growth_pct,-2.82597163290347,percent,World Bank WDI API,2025,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+1960-01-01,,1339,,gdp_per_capita_const,2345.11087212965,constant 2015 USD,World Bank WDI API,1960,NY.GDP.PCAP.KD,GDP per capita
+1961-01-01,,1340,,gdp_per_capita_const,2512.11791006455,constant 2015 USD,World Bank WDI API,1961,NY.GDP.PCAP.KD,GDP per capita
+1962-01-01,,1341,,gdp_per_capita_const,2629.72819341093,constant 2015 USD,World Bank WDI API,1962,NY.GDP.PCAP.KD,GDP per capita
+1963-01-01,,1342,,gdp_per_capita_const,2729.80655122362,constant 2015 USD,World Bank WDI API,1963,NY.GDP.PCAP.KD,GDP per capita
+1964-01-01,,1343,,gdp_per_capita_const,2870.3801257982,constant 2015 USD,World Bank WDI API,1964,NY.GDP.PCAP.KD,GDP per capita
+1965-01-01,,1344,,gdp_per_capita_const,3255.50135774216,constant 2015 USD,World Bank WDI API,1965,NY.GDP.PCAP.KD,GDP per capita
+1966-01-01,,1345,,gdp_per_capita_const,3518.61621818274,constant 2015 USD,World Bank WDI API,1966,NY.GDP.PCAP.KD,GDP per capita
+1967-01-01,,1346,,gdp_per_capita_const,3797.07696677175,constant 2015 USD,World Bank WDI API,1967,NY.GDP.PCAP.KD,GDP per capita
+1968-01-01,,1347,,gdp_per_capita_const,4215.93673234613,constant 2015 USD,World Bank WDI API,1968,NY.GDP.PCAP.KD,GDP per capita
+1969-01-01,,1348,,gdp_per_capita_const,4726.09252157204,constant 2015 USD,World Bank WDI API,1969,NY.GDP.PCAP.KD,GDP per capita
+1970-01-01,,1349,,gdp_per_capita_const,5085.75681676835,constant 2015 USD,World Bank WDI API,1970,NY.GDP.PCAP.KD,GDP per capita
+1971-01-01,,1350,,gdp_per_capita_const,5612.36301510845,constant 2015 USD,World Bank WDI API,1971,NY.GDP.PCAP.KD,GDP per capita
+1972-01-01,,1351,,gdp_per_capita_const,6240.70077372592,constant 2015 USD,World Bank WDI API,1972,NY.GDP.PCAP.KD,GDP per capita
+1973-01-01,,1352,,gdp_per_capita_const,6511.65454254456,constant 2015 USD,World Bank WDI API,1973,NY.GDP.PCAP.KD,GDP per capita
+1974-01-01,,1353,,gdp_per_capita_const,6688.44521322137,constant 2015 USD,World Bank WDI API,1974,NY.GDP.PCAP.KD,GDP per capita
+1975-01-01,,1354,,gdp_per_capita_const,6468.12239488762,constant 2015 USD,World Bank WDI API,1975,NY.GDP.PCAP.KD,GDP per capita
+1976-01-01,,1355,,gdp_per_capita_const,7422.12860861168,constant 2015 USD,World Bank WDI API,1976,NY.GDP.PCAP.KD,GDP per capita
+1977-01-01,,1356,,gdp_per_capita_const,6996.18431406879,constant 2015 USD,World Bank WDI API,1977,NY.GDP.PCAP.KD,GDP per capita
+1978-01-01,,1357,,gdp_per_capita_const,5901.81296035878,constant 2015 USD,World Bank WDI API,1978,NY.GDP.PCAP.KD,GDP per capita
+1979-01-01,,1358,,gdp_per_capita_const,5016.91486789935,constant 2015 USD,World Bank WDI API,1979,NY.GDP.PCAP.KD,GDP per capita
+1980-01-01,,1359,,gdp_per_capita_const,3793.35429688212,constant 2015 USD,World Bank WDI API,1980,NY.GDP.PCAP.KD,GDP per capita
+1981-01-01,,1360,,gdp_per_capita_const,3394.34358172067,constant 2015 USD,World Bank WDI API,1981,NY.GDP.PCAP.KD,GDP per capita
+1982-01-01,,1361,,gdp_per_capita_const,3965.27550470445,constant 2015 USD,World Bank WDI API,1982,NY.GDP.PCAP.KD,GDP per capita
+1983-01-01,,1362,,gdp_per_capita_const,4236.71681089406,constant 2015 USD,World Bank WDI API,1983,NY.GDP.PCAP.KD,GDP per capita
+1984-01-01,,1363,,gdp_per_capita_const,3788.97762858202,constant 2015 USD,World Bank WDI API,1984,NY.GDP.PCAP.KD,GDP per capita
+1985-01-01,,1364,,gdp_per_capita_const,3720.53262273169,constant 2015 USD,World Bank WDI API,1985,NY.GDP.PCAP.KD,GDP per capita
+1986-01-01,,1365,,gdp_per_capita_const,3234.88543131803,constant 2015 USD,World Bank WDI API,1986,NY.GDP.PCAP.KD,GDP per capita
+1987-01-01,,1366,,gdp_per_capita_const,3115.61803177018,constant 2015 USD,World Bank WDI API,1987,NY.GDP.PCAP.KD,GDP per capita
+1988-01-01,,1367,,gdp_per_capita_const,2833.18757791548,constant 2015 USD,World Bank WDI API,1988,NY.GDP.PCAP.KD,GDP per capita
+1989-01-01,,1368,,gdp_per_capita_const,2920.36931132344,constant 2015 USD,World Bank WDI API,1989,NY.GDP.PCAP.KD,GDP per capita
+1990-01-01,,1369,,gdp_per_capita_const,3222.20102704479,constant 2015 USD,World Bank WDI API,1990,NY.GDP.PCAP.KD,GDP per capita
+1991-01-01,,1370,,gdp_per_capita_const,3534.65396417255,constant 2015 USD,World Bank WDI API,1991,NY.GDP.PCAP.KD,GDP per capita
+1992-01-01,,1371,,gdp_per_capita_const,3579.73221786246,constant 2015 USD,World Bank WDI API,1992,NY.GDP.PCAP.KD,GDP per capita
+1993-01-01,,1372,,gdp_per_capita_const,3514.51966574661,constant 2015 USD,World Bank WDI API,1993,NY.GDP.PCAP.KD,GDP per capita
+1994-01-01,,1373,,gdp_per_capita_const,3448.25956881527,constant 2015 USD,World Bank WDI API,1994,NY.GDP.PCAP.KD,GDP per capita
+1995-01-01,,1374,,gdp_per_capita_const,3492.17204969482,constant 2015 USD,World Bank WDI API,1995,NY.GDP.PCAP.KD,GDP per capita
+1996-01-01,,1375,,gdp_per_capita_const,3674.0326860276,constant 2015 USD,World Bank WDI API,1996,NY.GDP.PCAP.KD,GDP per capita
+1997-01-01,,1376,,gdp_per_capita_const,3679.27534912962,constant 2015 USD,World Bank WDI API,1997,NY.GDP.PCAP.KD,GDP per capita
+1998-01-01,,1377,,gdp_per_capita_const,3704.56563043092,constant 2015 USD,World Bank WDI API,1998,NY.GDP.PCAP.KD,GDP per capita
+1999-01-01,,1378,,gdp_per_capita_const,3725.31745828772,constant 2015 USD,World Bank WDI API,1999,NY.GDP.PCAP.KD,GDP per capita
+2000-01-01,,1379,,gdp_per_capita_const,3885.30183360649,constant 2015 USD,World Bank WDI API,2000,NY.GDP.PCAP.KD,GDP per capita
+2001-01-01,,1380,,gdp_per_capita_const,3917.29935489016,constant 2015 USD,World Bank WDI API,2001,NY.GDP.PCAP.KD,GDP per capita
+2002-01-01,,1381,,gdp_per_capita_const,4198.95356080727,constant 2015 USD,World Bank WDI API,2002,NY.GDP.PCAP.KD,GDP per capita
+2003-01-01,,1382,,gdp_per_capita_const,4511.43134034458,constant 2015 USD,World Bank WDI API,2003,NY.GDP.PCAP.KD,GDP per capita
+2004-01-01,,1383,,gdp_per_capita_const,4607.45169088209,constant 2015 USD,World Bank WDI API,2004,NY.GDP.PCAP.KD,GDP per capita
+2005-01-01,,1384,,gdp_per_capita_const,4650.35841490708,constant 2015 USD,World Bank WDI API,2005,NY.GDP.PCAP.KD,GDP per capita
+2006-01-01,,1385,,gdp_per_capita_const,4778.7934584732,constant 2015 USD,World Bank WDI API,2006,NY.GDP.PCAP.KD,GDP per capita
+2007-01-01,,1386,,gdp_per_capita_const,5084.71796043623,constant 2015 USD,World Bank WDI API,2007,NY.GDP.PCAP.KD,GDP per capita
+2008-01-01,,1387,,gdp_per_capita_const,5035.94008533618,constant 2015 USD,World Bank WDI API,2008,NY.GDP.PCAP.KD,GDP per capita
+2009-01-01,,1388,,gdp_per_capita_const,5023.89314362941,constant 2015 USD,World Bank WDI API,2009,NY.GDP.PCAP.KD,GDP per capita
+2010-01-01,,1389,,gdp_per_capita_const,5249.06133369759,constant 2015 USD,World Bank WDI API,2010,NY.GDP.PCAP.KD,GDP per capita
+2011-01-01,,1390,,gdp_per_capita_const,5321.75870744453,constant 2015 USD,World Bank WDI API,2011,NY.GDP.PCAP.KD,GDP per capita
+2012-01-01,,1391,,gdp_per_capita_const,5058.64637811835,constant 2015 USD,World Bank WDI API,2012,NY.GDP.PCAP.KD,GDP per capita
+2013-01-01,,1392,,gdp_per_capita_const,4916.97291948475,constant 2015 USD,World Bank WDI API,2013,NY.GDP.PCAP.KD,GDP per capita
+2014-01-01,,1393,,gdp_per_capita_const,5093.20319702187,constant 2015 USD,World Bank WDI API,2014,NY.GDP.PCAP.KD,GDP per capita
+2015-01-01,,1394,,gdp_per_capita_const,4952.73355532178,constant 2015 USD,World Bank WDI API,2015,NY.GDP.PCAP.KD,GDP per capita
+2016-01-01,,1395,,gdp_per_capita_const,5312.61724954192,constant 2015 USD,World Bank WDI API,2016,NY.GDP.PCAP.KD,GDP per capita
+2017-01-01,,1396,,gdp_per_capita_const,5395.2398398598,constant 2015 USD,World Bank WDI API,2017,NY.GDP.PCAP.KD,GDP per capita
+2018-01-01,,1397,,gdp_per_capita_const,5127.22495367018,constant 2015 USD,World Bank WDI API,2018,NY.GDP.PCAP.KD,GDP per capita
+2019-01-01,,1398,,gdp_per_capita_const,4952.45669081078,constant 2015 USD,World Bank WDI API,2019,NY.GDP.PCAP.KD,GDP per capita
+2020-01-01,,1399,,gdp_per_capita_const,5132.82430762118,constant 2015 USD,World Bank WDI API,2020,NY.GDP.PCAP.KD,GDP per capita
+2021-01-01,,1400,,gdp_per_capita_const,5300.62271961895,constant 2015 USD,World Bank WDI API,2021,NY.GDP.PCAP.KD,GDP per capita
+2022-01-01,,1401,,gdp_per_capita_const,5465.31447539413,constant 2015 USD,World Bank WDI API,2022,NY.GDP.PCAP.KD,GDP per capita
+2023-01-01,,1402,,gdp_per_capita_const,5687.84396268742,constant 2015 USD,World Bank WDI API,2023,NY.GDP.PCAP.KD,GDP per capita
+2024-01-01,,1403,,gdp_per_capita_const,5834.44296939863,constant 2015 USD,World Bank WDI API,2024,NY.GDP.PCAP.KD,GDP per capita
+2025-01-01,,1404,,gdp_per_capita_const,5617.42166770918,constant 2015 USD,World Bank WDI API,2025,NY.GDP.PCAP.KD,GDP per capita
+1960-01-01,,1339,,govt_consumption_pct_gdp,10.5171409906573,percent of GDP,World Bank WDI API,1960,NE.CON.GOVT.ZS,Government final consumption expenditure
+1961-01-01,,1340,,govt_consumption_pct_gdp,10.4670418369119,percent of GDP,World Bank WDI API,1961,NE.CON.GOVT.ZS,Government final consumption expenditure
+1962-01-01,,1341,,govt_consumption_pct_gdp,10.2777841948434,percent of GDP,World Bank WDI API,1962,NE.CON.GOVT.ZS,Government final consumption expenditure
+1963-01-01,,1342,,govt_consumption_pct_gdp,11.1109991326574,percent of GDP,World Bank WDI API,1963,NE.CON.GOVT.ZS,Government final consumption expenditure
+1964-01-01,,1343,,govt_consumption_pct_gdp,12.5028635781778,percent of GDP,World Bank WDI API,1964,NE.CON.GOVT.ZS,Government final consumption expenditure
+1965-01-01,,1344,,govt_consumption_pct_gdp,14.3618865745771,percent of GDP,World Bank WDI API,1965,NE.CON.GOVT.ZS,Government final consumption expenditure
+1966-01-01,,1345,,govt_consumption_pct_gdp,14.8294985358915,percent of GDP,World Bank WDI API,1966,NE.CON.GOVT.ZS,Government final consumption expenditure
+1967-01-01,,1346,,govt_consumption_pct_gdp,15.2515308344553,percent of GDP,World Bank WDI API,1967,NE.CON.GOVT.ZS,Government final consumption expenditure
+1968-01-01,,1347,,govt_consumption_pct_gdp,15.7582146556508,percent of GDP,World Bank WDI API,1968,NE.CON.GOVT.ZS,Government final consumption expenditure
+1969-01-01,,1348,,govt_consumption_pct_gdp,16.7223225250837,percent of GDP,World Bank WDI API,1969,NE.CON.GOVT.ZS,Government final consumption expenditure
+1970-01-01,,1349,,govt_consumption_pct_gdp,17.3938866253337,percent of GDP,World Bank WDI API,1970,NE.CON.GOVT.ZS,Government final consumption expenditure
+1971-01-01,,1350,,govt_consumption_pct_gdp,18.6830845941571,percent of GDP,World Bank WDI API,1971,NE.CON.GOVT.ZS,Government final consumption expenditure
+1972-01-01,,1351,,govt_consumption_pct_gdp,19.2261385972642,percent of GDP,World Bank WDI API,1972,NE.CON.GOVT.ZS,Government final consumption expenditure
+1973-01-01,,1352,,govt_consumption_pct_gdp,17.2765957216962,percent of GDP,World Bank WDI API,1973,NE.CON.GOVT.ZS,Government final consumption expenditure
+1974-01-01,,1353,,govt_consumption_pct_gdp,21.0782301841496,percent of GDP,World Bank WDI API,1974,NE.CON.GOVT.ZS,Government final consumption expenditure
+1975-01-01,,1354,,govt_consumption_pct_gdp,23.8422005516236,percent of GDP,World Bank WDI API,1975,NE.CON.GOVT.ZS,Government final consumption expenditure
+1976-01-01,,1355,,govt_consumption_pct_gdp,21.4325059376088,percent of GDP,World Bank WDI API,1976,NE.CON.GOVT.ZS,Government final consumption expenditure
+1977-01-01,,1356,,govt_consumption_pct_gdp,20.3454068790073,percent of GDP,World Bank WDI API,1977,NE.CON.GOVT.ZS,Government final consumption expenditure
+1978-01-01,,1357,,govt_consumption_pct_gdp,23.3220953176091,percent of GDP,World Bank WDI API,1978,NE.CON.GOVT.ZS,Government final consumption expenditure
+1979-01-01,,1358,,govt_consumption_pct_gdp,19.761445664451,percent of GDP,World Bank WDI API,1979,NE.CON.GOVT.ZS,Government final consumption expenditure
+1980-01-01,,1359,,govt_consumption_pct_gdp,21.0287338661933,percent of GDP,World Bank WDI API,1980,NE.CON.GOVT.ZS,Government final consumption expenditure
+1981-01-01,,1360,,govt_consumption_pct_gdp,21.4514692840273,percent of GDP,World Bank WDI API,1981,NE.CON.GOVT.ZS,Government final consumption expenditure
+1982-01-01,,1361,,govt_consumption_pct_gdp,18.4845562037237,percent of GDP,World Bank WDI API,1982,NE.CON.GOVT.ZS,Government final consumption expenditure
+1983-01-01,,1362,,govt_consumption_pct_gdp,16.2361109912216,percent of GDP,World Bank WDI API,1983,NE.CON.GOVT.ZS,Government final consumption expenditure
+1984-01-01,,1363,,govt_consumption_pct_gdp,15.1126395417481,percent of GDP,World Bank WDI API,1984,NE.CON.GOVT.ZS,Government final consumption expenditure
+1985-01-01,,1364,,govt_consumption_pct_gdp,15.9048943230492,percent of GDP,World Bank WDI API,1985,NE.CON.GOVT.ZS,Government final consumption expenditure
+1986-01-01,,1365,,govt_consumption_pct_gdp,15.2449882366834,percent of GDP,World Bank WDI API,1986,NE.CON.GOVT.ZS,Government final consumption expenditure
+1987-01-01,,1366,,govt_consumption_pct_gdp,14.3501876170739,percent of GDP,World Bank WDI API,1987,NE.CON.GOVT.ZS,Government final consumption expenditure
+1988-01-01,,1367,,govt_consumption_pct_gdp,15.033984327122,percent of GDP,World Bank WDI API,1988,NE.CON.GOVT.ZS,Government final consumption expenditure
+1989-01-01,,1368,,govt_consumption_pct_gdp,11.9808303308829,percent of GDP,World Bank WDI API,1989,NE.CON.GOVT.ZS,Government final consumption expenditure
+1990-01-01,,1369,,govt_consumption_pct_gdp,10.8463742812025,percent of GDP,World Bank WDI API,1990,NE.CON.GOVT.ZS,Government final consumption expenditure
+1991-01-01,,1370,,govt_consumption_pct_gdp,10.2762568673118,percent of GDP,World Bank WDI API,1991,NE.CON.GOVT.ZS,Government final consumption expenditure
+1992-01-01,,1371,,govt_consumption_pct_gdp,9.71463556374536,percent of GDP,World Bank WDI API,1992,NE.CON.GOVT.ZS,Government final consumption expenditure
+1993-01-01,,1372,,govt_consumption_pct_gdp,14.2309068178115,percent of GDP,World Bank WDI API,1993,NE.CON.GOVT.ZS,Government final consumption expenditure
+1994-01-01,,1373,,govt_consumption_pct_gdp,14.3535174183169,percent of GDP,World Bank WDI API,1994,NE.CON.GOVT.ZS,Government final consumption expenditure
+1995-01-01,,1374,,govt_consumption_pct_gdp,14.2514841919911,percent of GDP,World Bank WDI API,1995,NE.CON.GOVT.ZS,Government final consumption expenditure
+1996-01-01,,1375,,govt_consumption_pct_gdp,12.3681297554246,percent of GDP,World Bank WDI API,1996,NE.CON.GOVT.ZS,Government final consumption expenditure
+1997-01-01,,1376,,govt_consumption_pct_gdp,11.592726367908,percent of GDP,World Bank WDI API,1997,NE.CON.GOVT.ZS,Government final consumption expenditure
+1998-01-01,,1377,,govt_consumption_pct_gdp,13.0491067111189,percent of GDP,World Bank WDI API,1998,NE.CON.GOVT.ZS,Government final consumption expenditure
+1999-01-01,,1378,,govt_consumption_pct_gdp,11.8162972088892,percent of GDP,World Bank WDI API,1999,NE.CON.GOVT.ZS,Government final consumption expenditure
+2000-01-01,,1379,,govt_consumption_pct_gdp,12.9321140863707,percent of GDP,World Bank WDI API,2000,NE.CON.GOVT.ZS,Government final consumption expenditure
+2001-01-01,,1380,,govt_consumption_pct_gdp,12.8715629189063,percent of GDP,World Bank WDI API,2001,NE.CON.GOVT.ZS,Government final consumption expenditure
+2002-01-01,,1381,,govt_consumption_pct_gdp,11.7171068012235,percent of GDP,World Bank WDI API,2002,NE.CON.GOVT.ZS,Government final consumption expenditure
+2003-01-01,,1382,,govt_consumption_pct_gdp,11.4195212231634,percent of GDP,World Bank WDI API,2003,NE.CON.GOVT.ZS,Government final consumption expenditure
+2004-01-01,,1383,,govt_consumption_pct_gdp,11.236303493867,percent of GDP,World Bank WDI API,2004,NE.CON.GOVT.ZS,Government final consumption expenditure
+2005-01-01,,1384,,govt_consumption_pct_gdp,12.0762428706411,percent of GDP,World Bank WDI API,2005,NE.CON.GOVT.ZS,Government final consumption expenditure
+2006-01-01,,1385,,govt_consumption_pct_gdp,12.4659204562875,percent of GDP,World Bank WDI API,2006,NE.CON.GOVT.ZS,Government final consumption expenditure
+2007-01-01,,1386,,govt_consumption_pct_gdp,9.47709713698378,percent of GDP,World Bank WDI API,2007,NE.CON.GOVT.ZS,Government final consumption expenditure
+2008-01-01,,1387,,govt_consumption_pct_gdp,10.0527121231285,percent of GDP,World Bank WDI API,2008,NE.CON.GOVT.ZS,Government final consumption expenditure
+2009-01-01,,1388,,govt_consumption_pct_gdp,11.1823199505029,percent of GDP,World Bank WDI API,2009,NE.CON.GOVT.ZS,Government final consumption expenditure
+2010-01-01,,1389,,govt_consumption_pct_gdp,10.8045401696765,percent of GDP,World Bank WDI API,2010,NE.CON.GOVT.ZS,Government final consumption expenditure
+2011-01-01,,1390,,govt_consumption_pct_gdp,13.2008336811217,percent of GDP,World Bank WDI API,2011,NE.CON.GOVT.ZS,Government final consumption expenditure
+2012-01-01,,1391,,govt_consumption_pct_gdp,13.3279001556293,percent of GDP,World Bank WDI API,2012,NE.CON.GOVT.ZS,Government final consumption expenditure
+2013-01-01,,1392,,govt_consumption_pct_gdp,12.973939207079,percent of GDP,World Bank WDI API,2013,NE.CON.GOVT.ZS,Government final consumption expenditure
+2014-01-01,,1393,,govt_consumption_pct_gdp,12.8201259776576,percent of GDP,World Bank WDI API,2014,NE.CON.GOVT.ZS,Government final consumption expenditure
+2015-01-01,,1394,,govt_consumption_pct_gdp,15.5688232193039,percent of GDP,World Bank WDI API,2015,NE.CON.GOVT.ZS,Government final consumption expenditure
+2016-01-01,,1395,,govt_consumption_pct_gdp,15.0516117348001,percent of GDP,World Bank WDI API,2016,NE.CON.GOVT.ZS,Government final consumption expenditure
+2017-01-01,,1396,,govt_consumption_pct_gdp,15.0478623743342,percent of GDP,World Bank WDI API,2017,NE.CON.GOVT.ZS,Government final consumption expenditure
+2018-01-01,,1397,,govt_consumption_pct_gdp,15.1648897031614,percent of GDP,World Bank WDI API,2018,NE.CON.GOVT.ZS,Government final consumption expenditure
+2019-01-01,,1398,,govt_consumption_pct_gdp,14.8711446390003,percent of GDP,World Bank WDI API,2019,NE.CON.GOVT.ZS,Government final consumption expenditure
+2020-01-01,,1399,,govt_consumption_pct_gdp,13.701007548158,percent of GDP,World Bank WDI API,2020,NE.CON.GOVT.ZS,Government final consumption expenditure
+2021-01-01,,1400,,govt_consumption_pct_gdp,14.0761964637181,percent of GDP,World Bank WDI API,2021,NE.CON.GOVT.ZS,Government final consumption expenditure
+2022-01-01,,1401,,govt_consumption_pct_gdp,12.6796919148053,percent of GDP,World Bank WDI API,2022,NE.CON.GOVT.ZS,Government final consumption expenditure
+2023-01-01,,1402,,govt_consumption_pct_gdp,12.5507486764489,percent of GDP,World Bank WDI API,2023,NE.CON.GOVT.ZS,Government final consumption expenditure
+2024-01-01,,1403,,govt_consumption_pct_gdp,13.0842057315801,percent of GDP,World Bank WDI API,2024,NE.CON.GOVT.ZS,Government final consumption expenditure
+2025-01-01,,1404,,govt_consumption_pct_gdp,13.2913933691992,percent of GDP,World Bank WDI API,2025,NE.CON.GOVT.ZS,Government final consumption expenditure
+1972-01-01,,1351,,govt_expense_pct_gdp,20.7638312857627,percent of GDP,World Bank WDI API,1972,GC.XPN.TOTL.GD.ZS,General government expense
+1973-01-01,,1352,,govt_expense_pct_gdp,18.4728383510476,percent of GDP,World Bank WDI API,1973,GC.XPN.TOTL.GD.ZS,General government expense
+1974-01-01,,1353,,govt_expense_pct_gdp,33.0731657483587,percent of GDP,World Bank WDI API,1974,GC.XPN.TOTL.GD.ZS,General government expense
+1975-01-01,,1354,,govt_expense_pct_gdp,34.071159544277,percent of GDP,World Bank WDI API,1975,GC.XPN.TOTL.GD.ZS,General government expense
+1976-01-01,,1355,,govt_expense_pct_gdp,29.4211989680658,percent of GDP,World Bank WDI API,1976,GC.XPN.TOTL.GD.ZS,General government expense
+1977-01-01,,1356,,govt_expense_pct_gdp,27.9625695534709,percent of GDP,World Bank WDI API,1977,GC.XPN.TOTL.GD.ZS,General government expense
+1978-01-01,,1357,,govt_expense_pct_gdp,29.2778357173697,percent of GDP,World Bank WDI API,1978,GC.XPN.TOTL.GD.ZS,General government expense
+1979-01-01,,1358,,govt_expense_pct_gdp,25.896464935105,percent of GDP,World Bank WDI API,1979,GC.XPN.TOTL.GD.ZS,General government expense
+1980-01-01,,1359,,govt_expense_pct_gdp,27.3557226153038,percent of GDP,World Bank WDI API,1980,GC.XPN.TOTL.GD.ZS,General government expense
+1981-01-01,,1360,,govt_expense_pct_gdp,27.1788240120994,percent of GDP,World Bank WDI API,1981,GC.XPN.TOTL.GD.ZS,General government expense
+1982-01-01,,1361,,govt_expense_pct_gdp,22.9997780580618,percent of GDP,World Bank WDI API,1982,GC.XPN.TOTL.GD.ZS,General government expense
+1983-01-01,,1362,,govt_expense_pct_gdp,20.3190460010682,percent of GDP,World Bank WDI API,1983,GC.XPN.TOTL.GD.ZS,General government expense
+1984-01-01,,1363,,govt_expense_pct_gdp,18.5462140352415,percent of GDP,World Bank WDI API,1984,GC.XPN.TOTL.GD.ZS,General government expense
+1985-01-01,,1364,,govt_expense_pct_gdp,18.3419202943758,percent of GDP,World Bank WDI API,1985,GC.XPN.TOTL.GD.ZS,General government expense
+1986-01-01,,1365,,govt_expense_pct_gdp,17.4426282912873,percent of GDP,World Bank WDI API,1986,GC.XPN.TOTL.GD.ZS,General government expense
+1987-01-01,,1366,,govt_expense_pct_gdp,16.8161834676126,percent of GDP,World Bank WDI API,1987,GC.XPN.TOTL.GD.ZS,General government expense
+1988-01-01,,1367,,govt_expense_pct_gdp,18.3492626176137,percent of GDP,World Bank WDI API,1988,GC.XPN.TOTL.GD.ZS,General government expense
+1989-01-01,,1368,,govt_expense_pct_gdp,14.9958626046701,percent of GDP,World Bank WDI API,1989,GC.XPN.TOTL.GD.ZS,General government expense
+1990-01-01,,1369,,govt_expense_pct_gdp,14.6672996347703,percent of GDP,World Bank WDI API,1990,GC.XPN.TOTL.GD.ZS,General government expense
+1991-01-01,,1370,,govt_expense_pct_gdp,13.2043173454554,percent of GDP,World Bank WDI API,1991,GC.XPN.TOTL.GD.ZS,General government expense
+1992-01-01,,1371,,govt_expense_pct_gdp,13.8920557320226,percent of GDP,World Bank WDI API,1992,GC.XPN.TOTL.GD.ZS,General government expense
+1993-01-01,,1372,,govt_expense_pct_gdp,14.8313722607883,percent of GDP,World Bank WDI API,1993,GC.XPN.TOTL.GD.ZS,General government expense
+1994-01-01,,1373,,govt_expense_pct_gdp,15.5383560174573,percent of GDP,World Bank WDI API,1994,GC.XPN.TOTL.GD.ZS,General government expense
+1995-01-01,,1374,,govt_expense_pct_gdp,14.8771226255178,percent of GDP,World Bank WDI API,1995,GC.XPN.TOTL.GD.ZS,General government expense
+1996-01-01,,1375,,govt_expense_pct_gdp,15.610484137119,percent of GDP,World Bank WDI API,1996,GC.XPN.TOTL.GD.ZS,General government expense
+1997-01-01,,1376,,govt_expense_pct_gdp,15.9213202113998,percent of GDP,World Bank WDI API,1997,GC.XPN.TOTL.GD.ZS,General government expense
+1998-01-01,,1377,,govt_expense_pct_gdp,18.1678411980545,percent of GDP,World Bank WDI API,1998,GC.XPN.TOTL.GD.ZS,General government expense
+1999-01-01,,1378,,govt_expense_pct_gdp,16.5807733959757,percent of GDP,World Bank WDI API,1999,GC.XPN.TOTL.GD.ZS,General government expense
+2000-01-01,,1379,,govt_expense_pct_gdp,15.5906257153813,percent of GDP,World Bank WDI API,2000,GC.XPN.TOTL.GD.ZS,General government expense
+2001-01-01,,1380,,govt_expense_pct_gdp,17.5463352504193,percent of GDP,World Bank WDI API,2001,GC.XPN.TOTL.GD.ZS,General government expense
+2002-01-01,,1381,,govt_expense_pct_gdp,17.4859051555405,percent of GDP,World Bank WDI API,2002,GC.XPN.TOTL.GD.ZS,General government expense
+2003-01-01,,1382,,govt_expense_pct_gdp,17.1755316332962,percent of GDP,World Bank WDI API,2003,GC.XPN.TOTL.GD.ZS,General government expense
+2004-01-01,,1383,,govt_expense_pct_gdp,16.6529138239168,percent of GDP,World Bank WDI API,2004,GC.XPN.TOTL.GD.ZS,General government expense
+2005-01-01,,1384,,govt_expense_pct_gdp,19.4202431887513,percent of GDP,World Bank WDI API,2005,GC.XPN.TOTL.GD.ZS,General government expense
+2006-01-01,,1385,,govt_expense_pct_gdp,20.717883395162,percent of GDP,World Bank WDI API,2006,GC.XPN.TOTL.GD.ZS,General government expense
+2007-01-01,,1386,,govt_expense_pct_gdp,16.8257698115549,percent of GDP,World Bank WDI API,2007,GC.XPN.TOTL.GD.ZS,General government expense
+2008-01-01,,1387,,govt_expense_pct_gdp,18.2510103192693,percent of GDP,World Bank WDI API,2008,GC.XPN.TOTL.GD.ZS,General government expense
+2009-01-01,,1388,,govt_expense_pct_gdp,19.6373860775885,percent of GDP,World Bank WDI API,2009,GC.XPN.TOTL.GD.ZS,General government expense
+1972-01-01,,1351,,govt_revenue_pct_gdp,24.781147791014,percent of GDP,World Bank WDI API,1972,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1973-01-01,,1352,,govt_revenue_pct_gdp,26.2672396750242,percent of GDP,World Bank WDI API,1973,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1974-01-01,,1353,,govt_revenue_pct_gdp,45.6688097140616,percent of GDP,World Bank WDI API,1974,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1975-01-01,,1354,,govt_revenue_pct_gdp,46.0931079805653,percent of GDP,World Bank WDI API,1975,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1976-01-01,,1355,,govt_revenue_pct_gdp,39.4914443700081,percent of GDP,World Bank WDI API,1976,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1977-01-01,,1356,,govt_revenue_pct_gdp,38.5485124623162,percent of GDP,World Bank WDI API,1977,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1978-01-01,,1357,,govt_revenue_pct_gdp,31.6010691860257,percent of GDP,World Bank WDI API,1978,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1979-01-01,,1358,,govt_revenue_pct_gdp,27.9497216566372,percent of GDP,World Bank WDI API,1979,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1980-01-01,,1359,,govt_revenue_pct_gdp,21.1727015262418,percent of GDP,World Bank WDI API,1980,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1981-01-01,,1360,,govt_revenue_pct_gdp,23.9037875306561,percent of GDP,World Bank WDI API,1981,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1982-01-01,,1361,,govt_revenue_pct_gdp,25.3680106009108,percent of GDP,World Bank WDI API,1982,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1983-01-01,,1362,,govt_revenue_pct_gdp,21.9496138839569,percent of GDP,World Bank WDI API,1983,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1984-01-01,,1363,,govt_revenue_pct_gdp,20.0408274010375,percent of GDP,World Bank WDI API,1984,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1985-01-01,,1364,,govt_revenue_pct_gdp,18.7480424819595,percent of GDP,World Bank WDI API,1985,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1986-01-01,,1365,,govt_revenue_pct_gdp,12.6026253766914,percent of GDP,World Bank WDI API,1986,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1987-01-01,,1366,,govt_revenue_pct_gdp,12.9314061501313,percent of GDP,World Bank WDI API,1987,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1988-01-01,,1367,,govt_revenue_pct_gdp,12.1275174220828,percent of GDP,World Bank WDI API,1988,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1989-01-01,,1368,,govt_revenue_pct_gdp,14.0642441354376,percent of GDP,World Bank WDI API,1989,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1990-01-01,,1369,,govt_revenue_pct_gdp,17.41932688694,percent of GDP,World Bank WDI API,1990,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1991-01-01,,1370,,govt_revenue_pct_gdp,15.5841436200517,percent of GDP,World Bank WDI API,1991,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1992-01-01,,1371,,govt_revenue_pct_gdp,17.0829285952428,percent of GDP,World Bank WDI API,1992,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1993-01-01,,1372,,govt_revenue_pct_gdp,20.6627275064537,percent of GDP,World Bank WDI API,1993,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1994-01-01,,1373,,govt_revenue_pct_gdp,22.1510314780922,percent of GDP,World Bank WDI API,1994,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1995-01-01,,1374,,govt_revenue_pct_gdp,22.7501467878282,percent of GDP,World Bank WDI API,1995,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1996-01-01,,1375,,govt_revenue_pct_gdp,22.8353482629282,percent of GDP,World Bank WDI API,1996,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1997-01-01,,1376,,govt_revenue_pct_gdp,21.5011882116183,percent of GDP,World Bank WDI API,1997,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1998-01-01,,1377,,govt_revenue_pct_gdp,17.3212795355533,percent of GDP,World Bank WDI API,1998,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1999-01-01,,1378,,govt_revenue_pct_gdp,22.4888293034438,percent of GDP,World Bank WDI API,1999,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+2000-01-01,,1379,,govt_revenue_pct_gdp,21.6289840747895,percent of GDP,World Bank WDI API,2000,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+2001-01-01,,1380,,govt_revenue_pct_gdp,21.9506777386762,percent of GDP,World Bank WDI API,2001,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+2002-01-01,,1381,,govt_revenue_pct_gdp,23.9938079061016,percent of GDP,World Bank WDI API,2002,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+2003-01-01,,1382,,govt_revenue_pct_gdp,24.063407900254,percent of GDP,World Bank WDI API,2003,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+2004-01-01,,1383,,govt_revenue_pct_gdp,24.6904334584317,percent of GDP,World Bank WDI API,2004,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+2005-01-01,,1384,,govt_revenue_pct_gdp,30.9200488389208,percent of GDP,World Bank WDI API,2005,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+2006-01-01,,1385,,govt_revenue_pct_gdp,29.9555043991844,percent of GDP,World Bank WDI API,2006,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+2007-01-01,,1386,,govt_revenue_pct_gdp,28.4601516769995,percent of GDP,World Bank WDI API,2007,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+2008-01-01,,1387,,govt_revenue_pct_gdp,26.4364150458269,percent of GDP,World Bank WDI API,2008,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+2009-01-01,,1388,,govt_revenue_pct_gdp,25.3762281584679,percent of GDP,World Bank WDI API,2009,GC.REV.XGRT.GD.ZS,Revenue excluding grants
+1960-01-01,,1339,,imports_pct_gdp,17.3884632104116,percent of GDP,World Bank WDI API,1960,NE.IMP.GNFS.ZS,Imports of goods and services
+1961-01-01,,1340,,imports_pct_gdp,15.863096081158,percent of GDP,World Bank WDI API,1961,NE.IMP.GNFS.ZS,Imports of goods and services
+1962-01-01,,1341,,imports_pct_gdp,13.678644272631,percent of GDP,World Bank WDI API,1962,NE.IMP.GNFS.ZS,Imports of goods and services
+1963-01-01,,1342,,imports_pct_gdp,12.4599077340326,percent of GDP,World Bank WDI API,1963,NE.IMP.GNFS.ZS,Imports of goods and services
+1964-01-01,,1343,,imports_pct_gdp,16.3303673632578,percent of GDP,World Bank WDI API,1964,NE.IMP.GNFS.ZS,Imports of goods and services
+1965-01-01,,1344,,imports_pct_gdp,16.4757606490627,percent of GDP,World Bank WDI API,1965,NE.IMP.GNFS.ZS,Imports of goods and services
+1966-01-01,,1345,,imports_pct_gdp,17.6125865151416,percent of GDP,World Bank WDI API,1966,NE.IMP.GNFS.ZS,Imports of goods and services
+1967-01-01,,1346,,imports_pct_gdp,19.6589001786537,percent of GDP,World Bank WDI API,1967,NE.IMP.GNFS.ZS,Imports of goods and services
+1968-01-01,,1347,,imports_pct_gdp,20.5127542017568,percent of GDP,World Bank WDI API,1968,NE.IMP.GNFS.ZS,Imports of goods and services
+1969-01-01,,1348,,imports_pct_gdp,21.0500585279047,percent of GDP,World Bank WDI API,1969,NE.IMP.GNFS.ZS,Imports of goods and services
+1970-01-01,,1349,,imports_pct_gdp,21.2014695773141,percent of GDP,World Bank WDI API,1970,NE.IMP.GNFS.ZS,Imports of goods and services
+1971-01-01,,1350,,imports_pct_gdp,21.3228065104088,percent of GDP,World Bank WDI API,1971,NE.IMP.GNFS.ZS,Imports of goods and services
+1972-01-01,,1351,,imports_pct_gdp,21.5059921108712,percent of GDP,World Bank WDI API,1972,NE.IMP.GNFS.ZS,Imports of goods and services
+1973-01-01,,1352,,imports_pct_gdp,20.6578108951687,percent of GDP,World Bank WDI API,1973,NE.IMP.GNFS.ZS,Imports of goods and services
+1974-01-01,,1353,,imports_pct_gdp,24.0337572020297,percent of GDP,World Bank WDI API,1974,NE.IMP.GNFS.ZS,Imports of goods and services
+1975-01-01,,1354,,imports_pct_gdp,35.3798874971019,percent of GDP,World Bank WDI API,1975,NE.IMP.GNFS.ZS,Imports of goods and services
+1976-01-01,,1355,,imports_pct_gdp,28.230076186608,percent of GDP,World Bank WDI API,1976,NE.IMP.GNFS.ZS,Imports of goods and services
+1977-01-01,,1356,,imports_pct_gdp,29.0927748535892,percent of GDP,World Bank WDI API,1977,NE.IMP.GNFS.ZS,Imports of goods and services
+1978-01-01,,1357,,imports_pct_gdp,22.2200283686397,percent of GDP,World Bank WDI API,1978,NE.IMP.GNFS.ZS,Imports of goods and services
+1979-01-01,,1358,,imports_pct_gdp,16.0594908591796,percent of GDP,World Bank WDI API,1979,NE.IMP.GNFS.ZS,Imports of goods and services
+1980-01-01,,1359,,imports_pct_gdp,28.7466481048755,percent of GDP,World Bank WDI API,1980,NE.IMP.GNFS.ZS,Imports of goods and services
+1981-01-01,,1360,,imports_pct_gdp,27.9433827331169,percent of GDP,World Bank WDI API,1981,NE.IMP.GNFS.ZS,Imports of goods and services
+1982-01-01,,1361,,imports_pct_gdp,20.9732467786337,percent of GDP,World Bank WDI API,1982,NE.IMP.GNFS.ZS,Imports of goods and services
+1983-01-01,,1362,,imports_pct_gdp,24.1962893508196,percent of GDP,World Bank WDI API,1983,NE.IMP.GNFS.ZS,Imports of goods and services
+1984-01-01,,1363,,imports_pct_gdp,16.6206987047877,percent of GDP,World Bank WDI API,1984,NE.IMP.GNFS.ZS,Imports of goods and services
+1985-01-01,,1364,,imports_pct_gdp,14.2887957590931,percent of GDP,World Bank WDI API,1985,NE.IMP.GNFS.ZS,Imports of goods and services
+1986-01-01,,1365,,imports_pct_gdp,10.4132381841101,percent of GDP,World Bank WDI API,1986,NE.IMP.GNFS.ZS,Imports of goods and services
+1987-01-01,,1366,,imports_pct_gdp,8.72744992665016,percent of GDP,World Bank WDI API,1987,NE.IMP.GNFS.ZS,Imports of goods and services
+1988-01-01,,1367,,imports_pct_gdp,14.29881843249,percent of GDP,World Bank WDI API,1988,NE.IMP.GNFS.ZS,Imports of goods and services
+1989-01-01,,1368,,imports_pct_gdp,18.1077560747053,percent of GDP,World Bank WDI API,1989,NE.IMP.GNFS.ZS,Imports of goods and services
+1990-01-01,,1369,,imports_pct_gdp,23.801825898321,percent of GDP,World Bank WDI API,1990,NE.IMP.GNFS.ZS,Imports of goods and services
+1991-01-01,,1370,,imports_pct_gdp,30.3698513617678,percent of GDP,World Bank WDI API,1991,NE.IMP.GNFS.ZS,Imports of goods and services
+1992-01-01,,1371,,imports_pct_gdp,27.233336583065,percent of GDP,World Bank WDI API,1992,NE.IMP.GNFS.ZS,Imports of goods and services
+1993-01-01,,1372,,imports_pct_gdp,20.6307526777243,percent of GDP,World Bank WDI API,1993,NE.IMP.GNFS.ZS,Imports of goods and services
+1994-01-01,,1373,,imports_pct_gdp,13.3229439837767,percent of GDP,World Bank WDI API,1994,NE.IMP.GNFS.ZS,Imports of goods and services
+1995-01-01,,1374,,imports_pct_gdp,13.4680042116275,percent of GDP,World Bank WDI API,1995,NE.IMP.GNFS.ZS,Imports of goods and services
+1996-01-01,,1375,,imports_pct_gdp,15.0261689147315,percent of GDP,World Bank WDI API,1996,NE.IMP.GNFS.ZS,Imports of goods and services
+1997-01-01,,1376,,imports_pct_gdp,15.3716272465768,percent of GDP,World Bank WDI API,1997,NE.IMP.GNFS.ZS,Imports of goods and services
+1998-01-01,,1377,,imports_pct_gdp,16.5448387339515,percent of GDP,World Bank WDI API,1998,NE.IMP.GNFS.ZS,Imports of goods and services
+1999-01-01,,1378,,imports_pct_gdp,15.5933909385954,percent of GDP,World Bank WDI API,1999,NE.IMP.GNFS.ZS,Imports of goods and services
+2000-01-01,,1379,,imports_pct_gdp,19.7901898959548,percent of GDP,World Bank WDI API,2000,NE.IMP.GNFS.ZS,Imports of goods and services
+2001-01-01,,1380,,imports_pct_gdp,21.2322461232876,percent of GDP,World Bank WDI API,2001,NE.IMP.GNFS.ZS,Imports of goods and services
+2002-01-01,,1381,,imports_pct_gdp,23.75878439842,percent of GDP,World Bank WDI API,2002,NE.IMP.GNFS.ZS,Imports of goods and services
+2003-01-01,,1382,,imports_pct_gdp,26.0516329444029,percent of GDP,World Bank WDI API,2003,NE.IMP.GNFS.ZS,Imports of goods and services
+2004-01-01,,1383,,imports_pct_gdp,26.0469290707658,percent of GDP,World Bank WDI API,2004,NE.IMP.GNFS.ZS,Imports of goods and services
+2005-01-01,,1384,,imports_pct_gdp,24.1096760770139,percent of GDP,World Bank WDI API,2005,NE.IMP.GNFS.ZS,Imports of goods and services
+2006-01-01,,1385,,imports_pct_gdp,23.2983234638014,percent of GDP,World Bank WDI API,2006,NE.IMP.GNFS.ZS,Imports of goods and services
+2007-01-01,,1386,,imports_pct_gdp,21.0436945171769,percent of GDP,World Bank WDI API,2007,NE.IMP.GNFS.ZS,Imports of goods and services
+2008-01-01,,1387,,imports_pct_gdp,21.6522753219841,percent of GDP,World Bank WDI API,2008,NE.IMP.GNFS.ZS,Imports of goods and services
+2009-01-01,,1388,,imports_pct_gdp,20.988091086537,percent of GDP,World Bank WDI API,2009,NE.IMP.GNFS.ZS,Imports of goods and services
+2010-01-01,,1389,,imports_pct_gdp,19.3709904542309,percent of GDP,World Bank WDI API,2010,NE.IMP.GNFS.ZS,Imports of goods and services
+2011-01-01,,1390,,imports_pct_gdp,16.2861016653904,percent of GDP,World Bank WDI API,2011,NE.IMP.GNFS.ZS,Imports of goods and services
+2012-01-01,,1391,,imports_pct_gdp,21.6140464814866,percent of GDP,World Bank WDI API,2012,NE.IMP.GNFS.ZS,Imports of goods and services
+2013-01-01,,1392,,imports_pct_gdp,21.9038111775683,percent of GDP,World Bank WDI API,2013,NE.IMP.GNFS.ZS,Imports of goods and services
+2014-01-01,,1393,,imports_pct_gdp,22.5207477521518,percent of GDP,World Bank WDI API,2014,NE.IMP.GNFS.ZS,Imports of goods and services
+2015-01-01,,1394,,imports_pct_gdp,20.7017541543144,percent of GDP,World Bank WDI API,2015,NE.IMP.GNFS.ZS,Imports of goods and services
+2016-01-01,,1395,,imports_pct_gdp,19.5674601594385,percent of GDP,World Bank WDI API,2016,NE.IMP.GNFS.ZS,Imports of goods and services
+2017-01-01,,1396,,imports_pct_gdp,21.3227621437797,percent of GDP,World Bank WDI API,2017,NE.IMP.GNFS.ZS,Imports of goods and services
+2018-01-01,,1397,,imports_pct_gdp,26.975655484871,percent of GDP,World Bank WDI API,2018,NE.IMP.GNFS.ZS,Imports of goods and services
+2019-01-01,,1398,,imports_pct_gdp,26.2770630040625,percent of GDP,World Bank WDI API,2019,NE.IMP.GNFS.ZS,Imports of goods and services
+2020-01-01,,1399,,imports_pct_gdp,25.4940926265882,percent of GDP,World Bank WDI API,2020,NE.IMP.GNFS.ZS,Imports of goods and services
+2021-01-01,,1400,,imports_pct_gdp,20.6531717002195,percent of GDP,World Bank WDI API,2021,NE.IMP.GNFS.ZS,Imports of goods and services
+2022-01-01,,1401,,imports_pct_gdp,23.3517323048057,percent of GDP,World Bank WDI API,2022,NE.IMP.GNFS.ZS,Imports of goods and services
+2023-01-01,,1402,,imports_pct_gdp,25.4719025417845,percent of GDP,World Bank WDI API,2023,NE.IMP.GNFS.ZS,Imports of goods and services
+2024-01-01,,1403,,imports_pct_gdp,28.5106585810839,percent of GDP,World Bank WDI API,2024,NE.IMP.GNFS.ZS,Imports of goods and services
+2025-01-01,,1404,,imports_pct_gdp,34.4882471351587,percent of GDP,World Bank WDI API,2025,NE.IMP.GNFS.ZS,Imports of goods and services
+1960-01-01,,1339,,inflation_cpi_annual_pct,9.82241081297867,percent,World Bank WDI API,1960,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1961-01-01,,1340,,inflation_cpi_annual_pct,3.16256439585745,percent,World Bank WDI API,1961,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1962-01-01,,1341,,inflation_cpi_annual_pct,0.721320571656337,percent,World Bank WDI API,1962,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1963-01-01,,1342,,inflation_cpi_annual_pct,0.371849607221666,percent,World Bank WDI API,1963,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1964-01-01,,1343,,inflation_cpi_annual_pct,3.81448957223043,percent,World Bank WDI API,1964,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1965-01-01,,1344,,inflation_cpi_annual_pct,2.15437483520967,percent,World Bank WDI API,1965,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1966-01-01,,1345,,inflation_cpi_annual_pct,-0.388148532154432,percent,World Bank WDI API,1966,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1967-01-01,,1346,,inflation_cpi_annual_pct,1.59761007964354,percent,World Bank WDI API,1967,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1968-01-01,,1347,,inflation_cpi_annual_pct,0.690360521996233,percent,World Bank WDI API,1968,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1969-01-01,,1348,,inflation_cpi_annual_pct,3.59319451551281,percent,World Bank WDI API,1969,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1970-01-01,,1349,,inflation_cpi_annual_pct,1.66687093970068,percent,World Bank WDI API,1970,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1971-01-01,,1350,,inflation_cpi_annual_pct,4.19529837265423,percent,World Bank WDI API,1971,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1972-01-01,,1351,,inflation_cpi_annual_pct,6.39824135128871,percent,World Bank WDI API,1972,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1973-01-01,,1352,,inflation_cpi_annual_pct,9.81948673318762,percent,World Bank WDI API,1973,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1974-01-01,,1353,,inflation_cpi_annual_pct,14.2489355382567,percent,World Bank WDI API,1974,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1975-01-01,,1354,,inflation_cpi_annual_pct,12.8791818338341,percent,World Bank WDI API,1975,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1976-01-01,,1355,,inflation_cpi_annual_pct,11.2561425062111,percent,World Bank WDI API,1976,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1977-01-01,,1356,,inflation_cpi_annual_pct,27.2877846793093,percent,World Bank WDI API,1977,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1978-01-01,,1357,,inflation_cpi_annual_pct,11.7219692041212,percent,World Bank WDI API,1978,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1979-01-01,,1358,,inflation_cpi_annual_pct,10.4872367273486,percent,World Bank WDI API,1979,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1980-01-01,,1359,,inflation_cpi_annual_pct,20.6439144373798,percent,World Bank WDI API,1980,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1981-01-01,,1360,,inflation_cpi_annual_pct,24.2035897624486,percent,World Bank WDI API,1981,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1982-01-01,,1361,,inflation_cpi_annual_pct,18.6897259269564,percent,World Bank WDI API,1982,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1983-01-01,,1362,,inflation_cpi_annual_pct,19.7401891778611,percent,World Bank WDI API,1983,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1984-01-01,,1363,,inflation_cpi_annual_pct,12.5402194538868,percent,World Bank WDI API,1984,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1985-01-01,,1364,,inflation_cpi_annual_pct,4.38934095741541,percent,World Bank WDI API,1985,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1986-01-01,,1365,,inflation_cpi_annual_pct,18.4290030211474,percent,World Bank WDI API,1986,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1987-01-01,,1366,,inflation_cpi_annual_pct,28.5714285714292,percent,World Bank WDI API,1987,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1988-01-01,,1367,,inflation_cpi_annual_pct,28.6706349206345,percent,World Bank WDI API,1988,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1989-01-01,,1368,,inflation_cpi_annual_pct,22.3496530454896,percent,World Bank WDI API,1989,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1990-01-01,,1369,,inflation_cpi_annual_pct,7.62767493763934,percent,World Bank WDI API,1990,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1991-01-01,,1370,,inflation_cpi_annual_pct,17.1285679434012,percent,World Bank WDI API,1991,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1992-01-01,,1371,,inflation_cpi_annual_pct,25.8077226162332,percent,World Bank WDI API,1992,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1993-01-01,,1372,,inflation_cpi_annual_pct,21.2026307547761,percent,World Bank WDI API,1993,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1994-01-01,,1373,,inflation_cpi_annual_pct,31.4470284237728,percent,World Bank WDI API,1994,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1995-01-01,,1374,,inflation_cpi_annual_pct,49.6559858462746,percent,World Bank WDI API,1995,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1996-01-01,,1375,,inflation_cpi_annual_pct,28.9373440168137,percent,World Bank WDI API,1996,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1997-01-01,,1376,,inflation_cpi_annual_pct,17.3492257538708,percent,World Bank WDI API,1997,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1998-01-01,,1377,,inflation_cpi_annual_pct,17.8661342130398,percent,World Bank WDI API,1998,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1999-01-01,,1378,,inflation_cpi_annual_pct,20.0707078146866,percent,World Bank WDI API,1999,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2000-01-01,,1379,,inflation_cpi_annual_pct,14.4767513188567,percent,World Bank WDI API,2000,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2001-01-01,,1380,,inflation_cpi_annual_pct,11.2742471332117,percent,World Bank WDI API,2001,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2002-01-01,,1381,,inflation_cpi_annual_pct,14.3359337378404,percent,World Bank WDI API,2002,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2003-01-01,,1382,,inflation_cpi_annual_pct,16.4680116244792,percent,World Bank WDI API,2003,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2004-01-01,,1383,,inflation_cpi_annual_pct,14.7615086970672,percent,World Bank WDI API,2004,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2005-01-01,,1384,,inflation_cpi_annual_pct,13.433118008508,percent,World Bank WDI API,2005,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2006-01-01,,1385,,inflation_cpi_annual_pct,10.0158982511924,percent,World Bank WDI API,2006,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2007-01-01,,1386,,inflation_cpi_annual_pct,17.3410404624277,percent,World Bank WDI API,2007,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2008-01-01,,1387,,inflation_cpi_annual_pct,25.4105090311987,percent,World Bank WDI API,2008,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2009-01-01,,1388,,inflation_cpi_annual_pct,13.5515548281506,percent,World Bank WDI API,2009,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2010-01-01,,1389,,inflation_cpi_annual_pct,10.0893629287979,percent,World Bank WDI API,2010,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2011-01-01,,1390,,inflation_cpi_annual_pct,26.2933856738608,percent,World Bank WDI API,2011,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2012-01-01,,1391,,inflation_cpi_annual_pct,27.2568127242908,percent,World Bank WDI API,2012,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2013-01-01,,1392,,inflation_cpi_annual_pct,36.6030355191029,percent,World Bank WDI API,2013,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2014-01-01,,1393,,inflation_cpi_annual_pct,16.6065532357449,percent,World Bank WDI API,2014,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2015-01-01,,1394,,inflation_cpi_annual_pct,12.4846815611533,percent,World Bank WDI API,2015,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2016-01-01,,1395,,inflation_cpi_annual_pct,7.24542548952979,percent,World Bank WDI API,2016,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2017-01-01,,1396,,inflation_cpi_annual_pct,8.04492437660278,percent,World Bank WDI API,2017,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2018-01-01,,1397,,inflation_cpi_annual_pct,18.0141183371874,percent,World Bank WDI API,2018,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2019-01-01,,1398,,inflation_cpi_annual_pct,39.9073455697784,percent,World Bank WDI API,2019,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2020-01-01,,1399,,inflation_cpi_annual_pct,30.5941390387295,percent,World Bank WDI API,2020,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2021-01-01,,1400,,inflation_cpi_annual_pct,43.3890162681514,percent,World Bank WDI API,2021,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2022-01-01,,1401,,inflation_cpi_annual_pct,43.4884641742179,percent,World Bank WDI API,2022,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2023-01-01,,1402,,inflation_cpi_annual_pct,44.5791857572797,percent,World Bank WDI API,2023,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2024-01-01,,1403,,inflation_cpi_annual_pct,32.455871402917,percent,World Bank WDI API,2024,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+2025-01-01,,1404,,inflation_cpi_annual_pct,42.1712244965444,percent,World Bank WDI API,2025,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+1972-01-01,,1351,,interest_pct_revenue,4.68944099378882,percent of revenue,World Bank WDI API,1972,GC.XPN.INTP.RV.ZS,Interest payments
+1973-01-01,,1352,,interest_pct_revenue,3.93877551020408,percent of revenue,World Bank WDI API,1973,GC.XPN.INTP.RV.ZS,Interest payments
+1974-01-01,,1353,,interest_pct_revenue,1.98304253380982,percent of revenue,World Bank WDI API,1974,GC.XPN.INTP.RV.ZS,Interest payments
+1975-01-01,,1354,,interest_pct_revenue,2.04081632653061,percent of revenue,World Bank WDI API,1975,GC.XPN.INTP.RV.ZS,Interest payments
+1976-01-01,,1355,,interest_pct_revenue,1.42427599303687,percent of revenue,World Bank WDI API,1976,GC.XPN.INTP.RV.ZS,Interest payments
+1977-01-01,,1356,,interest_pct_revenue,1.7465456701172,percent of revenue,World Bank WDI API,1977,GC.XPN.INTP.RV.ZS,Interest payments
+1978-01-01,,1357,,interest_pct_revenue,0.535405872193437,percent of revenue,World Bank WDI API,1978,GC.XPN.INTP.RV.ZS,Interest payments
+1979-01-01,,1358,,interest_pct_revenue,2.07806795843864,percent of revenue,World Bank WDI API,1979,GC.XPN.INTP.RV.ZS,Interest payments
+1980-01-01,,1359,,interest_pct_revenue,2.46853146853147,percent of revenue,World Bank WDI API,1980,GC.XPN.INTP.RV.ZS,Interest payments
+1981-01-01,,1360,,interest_pct_revenue,1.08712613784135,percent of revenue,World Bank WDI API,1981,GC.XPN.INTP.RV.ZS,Interest payments
+1982-01-01,,1361,,interest_pct_revenue,0.618908201460179,percent of revenue,World Bank WDI API,1982,GC.XPN.INTP.RV.ZS,Interest payments
+1983-01-01,,1362,,interest_pct_revenue,0.350724831318057,percent of revenue,World Bank WDI API,1983,GC.XPN.INTP.RV.ZS,Interest payments
+1984-01-01,,1363,,interest_pct_revenue,0.210786937901499,percent of revenue,World Bank WDI API,1984,GC.XPN.INTP.RV.ZS,Interest payments
+1985-01-01,,1364,,interest_pct_revenue,0.323919425043021,percent of revenue,World Bank WDI API,1985,GC.XPN.INTP.RV.ZS,Interest payments
+1986-01-01,,1365,,interest_pct_revenue,0.228038865754511,percent of revenue,World Bank WDI API,1986,GC.XPN.INTP.RV.ZS,Interest payments
+1987-01-01,,1366,,interest_pct_revenue,0.163268556865244,percent of revenue,World Bank WDI API,1987,GC.XPN.INTP.RV.ZS,Interest payments
+1988-01-01,,1367,,interest_pct_revenue,0.173192771084337,percent of revenue,World Bank WDI API,1988,GC.XPN.INTP.RV.ZS,Interest payments
+1989-01-01,,1368,,interest_pct_revenue,0.0809399477806789,percent of revenue,World Bank WDI API,1989,GC.XPN.INTP.RV.ZS,Interest payments
+1990-01-01,,1369,,interest_pct_revenue,0.0453377663593774,percent of revenue,World Bank WDI API,1990,GC.XPN.INTP.RV.ZS,Interest payments
+1991-01-01,,1370,,interest_pct_revenue,0.0357909806728704,percent of revenue,World Bank WDI API,1991,GC.XPN.INTP.RV.ZS,Interest payments
+1992-01-01,,1371,,interest_pct_revenue,0.0244379276637341,percent of revenue,World Bank WDI API,1992,GC.XPN.INTP.RV.ZS,Interest payments
+1993-01-01,,1372,,interest_pct_revenue,0.0683994528043776,percent of revenue,World Bank WDI API,1993,GC.XPN.INTP.RV.ZS,Interest payments
+1994-01-01,,1373,,interest_pct_revenue,0.0613853708968726,percent of revenue,World Bank WDI API,1994,GC.XPN.INTP.RV.ZS,Interest payments
+1995-01-01,,1374,,interest_pct_revenue,0.0155895060353659,percent of revenue,World Bank WDI API,1995,GC.XPN.INTP.RV.ZS,Interest payments
+1996-01-01,,1375,,interest_pct_revenue,0.0194322543034347,percent of revenue,World Bank WDI API,1996,GC.XPN.INTP.RV.ZS,Interest payments
+1997-01-01,,1376,,interest_pct_revenue,0.127788957271485,percent of revenue,World Bank WDI API,1997,GC.XPN.INTP.RV.ZS,Interest payments
+1998-01-01,,1377,,interest_pct_revenue,0.759320041150247,percent of revenue,World Bank WDI API,1998,GC.XPN.INTP.RV.ZS,Interest payments
+1999-01-01,,1378,,interest_pct_revenue,5.42987364066156e-05,percent of revenue,World Bank WDI API,1999,GC.XPN.INTP.RV.ZS,Interest payments
+2000-01-01,,1379,,interest_pct_revenue,5.52099100195348e-05,percent of revenue,World Bank WDI API,2000,GC.XPN.INTP.RV.ZS,Interest payments
+2001-01-01,,1380,,interest_pct_revenue,7.09598447964424e-05,percent of revenue,World Bank WDI API,2001,GC.XPN.INTP.RV.ZS,Interest payments
+2002-01-01,,1381,,interest_pct_revenue,0.710168340954965,percent of revenue,World Bank WDI API,2002,GC.XPN.INTP.RV.ZS,Interest payments
+2003-01-01,,1382,,interest_pct_revenue,0.733380641884346,percent of revenue,World Bank WDI API,2003,GC.XPN.INTP.RV.ZS,Interest payments
+2004-01-01,,1383,,interest_pct_revenue,0.680892105375813,percent of revenue,World Bank WDI API,2004,GC.XPN.INTP.RV.ZS,Interest payments
+2005-01-01,,1384,,interest_pct_revenue,0.679298111535177,percent of revenue,World Bank WDI API,2005,GC.XPN.INTP.RV.ZS,Interest payments
+2006-01-01,,1385,,interest_pct_revenue,0.74529411401349,percent of revenue,World Bank WDI API,2006,GC.XPN.INTP.RV.ZS,Interest payments
+2007-01-01,,1386,,interest_pct_revenue,0.837113484894286,percent of revenue,World Bank WDI API,2007,GC.XPN.INTP.RV.ZS,Interest payments
+2008-01-01,,1387,,interest_pct_revenue,0.775860732141779,percent of revenue,World Bank WDI API,2008,GC.XPN.INTP.RV.ZS,Interest payments
+2009-01-01,,1388,,interest_pct_revenue,0.565728375163098,percent of revenue,World Bank WDI API,2009,GC.XPN.INTP.RV.ZS,Interest payments
+1960-01-01,,1339,,net_domestic_credit_lcu,61150000000.0,current LCU (rial),World Bank WDI API,1960,FM.AST.DOMS.CN,Net domestic credit
+1961-01-01,,1340,,net_domestic_credit_lcu,59240000000.0,current LCU (rial),World Bank WDI API,1961,FM.AST.DOMS.CN,Net domestic credit
+1962-01-01,,1341,,net_domestic_credit_lcu,68820000000.0,current LCU (rial),World Bank WDI API,1962,FM.AST.DOMS.CN,Net domestic credit
+1963-01-01,,1342,,net_domestic_credit_lcu,80620000000.0,current LCU (rial),World Bank WDI API,1963,FM.AST.DOMS.CN,Net domestic credit
+1964-01-01,,1343,,net_domestic_credit_lcu,101410000000.0,current LCU (rial),World Bank WDI API,1964,FM.AST.DOMS.CN,Net domestic credit
+1965-01-01,,1344,,net_domestic_credit_lcu,113450000000.0,current LCU (rial),World Bank WDI API,1965,FM.AST.DOMS.CN,Net domestic credit
+1966-01-01,,1345,,net_domestic_credit_lcu,130680000000.0,current LCU (rial),World Bank WDI API,1966,FM.AST.DOMS.CN,Net domestic credit
+1967-01-01,,1346,,net_domestic_credit_lcu,157450000000.0,current LCU (rial),World Bank WDI API,1967,FM.AST.DOMS.CN,Net domestic credit
+1968-01-01,,1347,,net_domestic_credit_lcu,191440000000.0,current LCU (rial),World Bank WDI API,1968,FM.AST.DOMS.CN,Net domestic credit
+1969-01-01,,1348,,net_domestic_credit_lcu,235600000000.0,current LCU (rial),World Bank WDI API,1969,FM.AST.DOMS.CN,Net domestic credit
+1970-01-01,,1349,,net_domestic_credit_lcu,303590000000.0,current LCU (rial),World Bank WDI API,1970,FM.AST.DOMS.CN,Net domestic credit
+1971-01-01,,1350,,net_domestic_credit_lcu,348400000000.0,current LCU (rial),World Bank WDI API,1971,FM.AST.DOMS.CN,Net domestic credit
+1972-01-01,,1351,,net_domestic_credit_lcu,426820000000.0,current LCU (rial),World Bank WDI API,1972,FM.AST.DOMS.CN,Net domestic credit
+1973-01-01,,1352,,net_domestic_credit_lcu,593870000000.0,current LCU (rial),World Bank WDI API,1973,FM.AST.DOMS.CN,Net domestic credit
+1974-01-01,,1353,,net_domestic_credit_lcu,519750000000.0,current LCU (rial),World Bank WDI API,1974,FM.AST.DOMS.CN,Net domestic credit
+1975-01-01,,1354,,net_domestic_credit_lcu,838160000000.0,current LCU (rial),World Bank WDI API,1975,FM.AST.DOMS.CN,Net domestic credit
+1976-01-01,,1355,,net_domestic_credit_lcu,1367780000000.0,current LCU (rial),World Bank WDI API,1976,FM.AST.DOMS.CN,Net domestic credit
+1977-01-01,,1356,,net_domestic_credit_lcu,1660860000000.0,current LCU (rial),World Bank WDI API,1977,FM.AST.DOMS.CN,Net domestic credit
+1979-01-01,,1358,,net_domestic_credit_lcu,2723820000000.0,current LCU (rial),World Bank WDI API,1979,FM.AST.DOMS.CN,Net domestic credit
+1980-01-01,,1359,,net_domestic_credit_lcu,4235570000000.0,current LCU (rial),World Bank WDI API,1980,FM.AST.DOMS.CN,Net domestic credit
+1981-01-01,,1360,,net_domestic_credit_lcu,5689000000000.0,current LCU (rial),World Bank WDI API,1981,FM.AST.DOMS.CN,Net domestic credit
+1982-01-01,,1361,,net_domestic_credit_lcu,7131700000000.0,current LCU (rial),World Bank WDI API,1982,FM.AST.DOMS.CN,Net domestic credit
+1983-01-01,,1362,,net_domestic_credit_lcu,7141400000000.0,current LCU (rial),World Bank WDI API,1983,FM.AST.DOMS.CN,Net domestic credit
+1986-01-01,,1365,,net_domestic_credit_lcu,10873900000000.0,current LCU (rial),World Bank WDI API,1986,FM.AST.DOMS.CN,Net domestic credit
+1987-01-01,,1366,,net_domestic_credit_lcu,13413600000000.0,current LCU (rial),World Bank WDI API,1987,FM.AST.DOMS.CN,Net domestic credit
+1988-01-01,,1367,,net_domestic_credit_lcu,15806900000000.0,current LCU (rial),World Bank WDI API,1988,FM.AST.DOMS.CN,Net domestic credit
+1989-01-01,,1368,,net_domestic_credit_lcu,19198500000000.0,current LCU (rial),World Bank WDI API,1989,FM.AST.DOMS.CN,Net domestic credit
+1990-01-01,,1369,,net_domestic_credit_lcu,22750800000000.0,current LCU (rial),World Bank WDI API,1990,FM.AST.DOMS.CN,Net domestic credit
+1991-01-01,,1370,,net_domestic_credit_lcu,28030000000000.0,current LCU (rial),World Bank WDI API,1991,FM.AST.DOMS.CN,Net domestic credit
+1992-01-01,,1371,,net_domestic_credit_lcu,33915100000000.0,current LCU (rial),World Bank WDI API,1992,FM.AST.DOMS.CN,Net domestic credit
+1993-01-01,,1372,,net_domestic_credit_lcu,43385100000000.0,current LCU (rial),World Bank WDI API,1993,FM.AST.DOMS.CN,Net domestic credit
+1994-01-01,,1373,,net_domestic_credit_lcu,59484000000000.0,current LCU (rial),World Bank WDI API,1994,FM.AST.DOMS.CN,Net domestic credit
+1995-01-01,,1374,,net_domestic_credit_lcu,74425500000000.0,current LCU (rial),World Bank WDI API,1995,FM.AST.DOMS.CN,Net domestic credit
+1996-01-01,,1375,,net_domestic_credit_lcu,101566300000000.0,current LCU (rial),World Bank WDI API,1996,FM.AST.DOMS.CN,Net domestic credit
+1997-01-01,,1376,,net_domestic_credit_lcu,115511000000000.0,current LCU (rial),World Bank WDI API,1997,FM.AST.DOMS.CN,Net domestic credit
+1998-01-01,,1377,,net_domestic_credit_lcu,151740200000000.0,current LCU (rial),World Bank WDI API,1998,FM.AST.DOMS.CN,Net domestic credit
+1999-01-01,,1378,,net_domestic_credit_lcu,187227400000000.0,current LCU (rial),World Bank WDI API,1999,FM.AST.DOMS.CN,Net domestic credit
+2000-01-01,,1379,,net_domestic_credit_lcu,255276022000000.0,current LCU (rial),World Bank WDI API,2000,FM.AST.DOMS.CN,Net domestic credit
+2001-01-01,,1380,,net_domestic_credit_lcu,315654900000000.0,current LCU (rial),World Bank WDI API,2001,FM.AST.DOMS.CN,Net domestic credit
+2002-01-01,,1381,,net_domestic_credit_lcu,412755400000000.0,current LCU (rial),World Bank WDI API,2002,FM.AST.DOMS.CN,Net domestic credit
+2003-01-01,,1382,,net_domestic_credit_lcu,533176200000000.0,current LCU (rial),World Bank WDI API,2003,FM.AST.DOMS.CN,Net domestic credit
+2004-01-01,,1383,,net_domestic_credit_lcu,681054000000000.0,current LCU (rial),World Bank WDI API,2004,FM.AST.DOMS.CN,Net domestic credit
+2005-01-01,,1384,,net_domestic_credit_lcu,861530300000000.0,current LCU (rial),World Bank WDI API,2005,FM.AST.DOMS.CN,Net domestic credit
+2006-01-01,,1385,,net_domestic_credit_lcu,1116929700000000.0,current LCU (rial),World Bank WDI API,2006,FM.AST.DOMS.CN,Net domestic credit
+2007-01-01,,1386,,net_domestic_credit_lcu,1516206400000000.0,current LCU (rial),World Bank WDI API,2007,FM.AST.DOMS.CN,Net domestic credit
+2008-01-01,,1387,,net_domestic_credit_lcu,1666690300000000.0,current LCU (rial),World Bank WDI API,2008,FM.AST.DOMS.CN,Net domestic credit
+2009-01-01,,1388,,net_domestic_credit_lcu,1971663800000000.0,current LCU (rial),World Bank WDI API,2009,FM.AST.DOMS.CN,Net domestic credit
+2010-01-01,,1389,,net_domestic_credit_lcu,2731653200000000.0,current LCU (rial),World Bank WDI API,2010,FM.AST.DOMS.CN,Net domestic credit
+2011-01-01,,1390,,net_domestic_credit_lcu,3517347900000000.0,current LCU (rial),World Bank WDI API,2011,FM.AST.DOMS.CN,Net domestic credit
+2012-01-01,,1391,,net_domestic_credit_lcu,4443509300000000.0,current LCU (rial),World Bank WDI API,2012,FM.AST.DOMS.CN,Net domestic credit
+2013-01-01,,1392,,net_domestic_credit_lcu,5175202400000000.0,current LCU (rial),World Bank WDI API,2013,FM.AST.DOMS.CN,Net domestic credit
+2014-01-01,,1393,,net_domestic_credit_lcu,6506498600000000.0,current LCU (rial),World Bank WDI API,2014,FM.AST.DOMS.CN,Net domestic credit
+2015-01-01,,1394,,net_domestic_credit_lcu,7823700000000000.0,current LCU (rial),World Bank WDI API,2015,FM.AST.DOMS.CN,Net domestic credit
+2016-01-01,,1395,,net_domestic_credit_lcu,1.02117e+16,current LCU (rial),World Bank WDI API,2016,FM.AST.DOMS.CN,Net domestic credit
+1960-01-01,,1339,,net_foreign_assets_lcu,11400000000.0,current LCU (rial),World Bank WDI API,1960,FM.AST.NFRG.CN,Net foreign assets
+1961-01-01,,1340,,net_foreign_assets_lcu,15880000000.0,current LCU (rial),World Bank WDI API,1961,FM.AST.NFRG.CN,Net foreign assets
+1962-01-01,,1341,,net_foreign_assets_lcu,18025625000.0,current LCU (rial),World Bank WDI API,1962,FM.AST.NFRG.CN,Net foreign assets
+1963-01-01,,1342,,net_foreign_assets_lcu,19666382500.0,current LCU (rial),World Bank WDI API,1963,FM.AST.NFRG.CN,Net foreign assets
+1964-01-01,,1343,,net_foreign_assets_lcu,14680757500.0,current LCU (rial),World Bank WDI API,1964,FM.AST.NFRG.CN,Net foreign assets
+1965-01-01,,1344,,net_foreign_assets_lcu,20693610000.0,current LCU (rial),World Bank WDI API,1965,FM.AST.NFRG.CN,Net foreign assets
+1966-01-01,,1345,,net_foreign_assets_lcu,20585172500.0,current LCU (rial),World Bank WDI API,1966,FM.AST.NFRG.CN,Net foreign assets
+1967-01-01,,1346,,net_foreign_assets_lcu,22207187500.0,current LCU (rial),World Bank WDI API,1967,FM.AST.NFRG.CN,Net foreign assets
+1968-01-01,,1347,,net_foreign_assets_lcu,14450000000.0,current LCU (rial),World Bank WDI API,1968,FM.AST.NFRG.CN,Net foreign assets
+1969-01-01,,1348,,net_foreign_assets_lcu,7640757500.0,current LCU (rial),World Bank WDI API,1969,FM.AST.NFRG.CN,Net foreign assets
+1970-01-01,,1349,,net_foreign_assets_lcu,-14615000000.0,current LCU (rial),World Bank WDI API,1970,FM.AST.NFRG.CN,Net foreign assets
+1971-01-01,,1350,,net_foreign_assets_lcu,3519870275.0403,current LCU (rial),World Bank WDI API,1971,FM.AST.NFRG.CN,Net foreign assets
+1972-01-01,,1351,,net_foreign_assets_lcu,51802321800.0083,current LCU (rial),World Bank WDI API,1972,FM.AST.NFRG.CN,Net foreign assets
+1973-01-01,,1352,,net_foreign_assets_lcu,73765689624.977,current LCU (rial),World Bank WDI API,1973,FM.AST.NFRG.CN,Net foreign assets
+1974-01-01,,1353,,net_foreign_assets_lcu,539202016048.949,current LCU (rial),World Bank WDI API,1974,FM.AST.NFRG.CN,Net foreign assets
+1975-01-01,,1354,,net_foreign_assets_lcu,581591018359.651,current LCU (rial),World Bank WDI API,1975,FM.AST.NFRG.CN,Net foreign assets
+1976-01-01,,1355,,net_foreign_assets_lcu,584429527004.157,current LCU (rial),World Bank WDI API,1976,FM.AST.NFRG.CN,Net foreign assets
+1977-01-01,,1356,,net_foreign_assets_lcu,799724834577.963,current LCU (rial),World Bank WDI API,1977,FM.AST.NFRG.CN,Net foreign assets
+1979-01-01,,1358,,net_foreign_assets_lcu,1135323731242.76,current LCU (rial),World Bank WDI API,1979,FM.AST.NFRG.CN,Net foreign assets
+1980-01-01,,1359,,net_foreign_assets_lcu,876656038077.805,current LCU (rial),World Bank WDI API,1980,FM.AST.NFRG.CN,Net foreign assets
+1981-01-01,,1360,,net_foreign_assets_lcu,486526294634.709,current LCU (rial),World Bank WDI API,1981,FM.AST.NFRG.CN,Net foreign assets
+1982-01-01,,1361,,net_foreign_assets_lcu,1374596262111.51,current LCU (rial),World Bank WDI API,1982,FM.AST.NFRG.CN,Net foreign assets
+1983-01-01,,1362,,net_foreign_assets_lcu,733738976581.238,current LCU (rial),World Bank WDI API,1983,FM.AST.NFRG.CN,Net foreign assets
+1986-01-01,,1365,,net_foreign_assets_lcu,577606026323.504,current LCU (rial),World Bank WDI API,1986,FM.AST.NFRG.CN,Net foreign assets
+1987-01-01,,1366,,net_foreign_assets_lcu,738834037754.945,current LCU (rial),World Bank WDI API,1987,FM.AST.NFRG.CN,Net foreign assets
+1988-01-01,,1367,,net_foreign_assets_lcu,576353267109.545,current LCU (rial),World Bank WDI API,1988,FM.AST.NFRG.CN,Net foreign assets
+1989-01-01,,1368,,net_foreign_assets_lcu,700199842674.492,current LCU (rial),World Bank WDI API,1989,FM.AST.NFRG.CN,Net foreign assets
+1990-01-01,,1369,,net_foreign_assets_lcu,606764555716.737,current LCU (rial),World Bank WDI API,1990,FM.AST.NFRG.CN,Net foreign assets
+1991-01-01,,1370,,net_foreign_assets_lcu,1129091748316.41,current LCU (rial),World Bank WDI API,1991,FM.AST.NFRG.CN,Net foreign assets
+1992-01-01,,1371,,net_foreign_assets_lcu,1095026890782.5,current LCU (rial),World Bank WDI API,1992,FM.AST.NFRG.CN,Net foreign assets
+1993-01-01,,1372,,net_foreign_assets_lcu,995829725351.109,current LCU (rial),World Bank WDI API,1993,FM.AST.NFRG.CN,Net foreign assets
+1994-01-01,,1373,,net_foreign_assets_lcu,2241334431007.52,current LCU (rial),World Bank WDI API,1994,FM.AST.NFRG.CN,Net foreign assets
+1995-01-01,,1374,,net_foreign_assets_lcu,9943901321739.82,current LCU (rial),World Bank WDI API,1995,FM.AST.NFRG.CN,Net foreign assets
+1996-01-01,,1375,,net_foreign_assets_lcu,18261790583433.3,current LCU (rial),World Bank WDI API,1996,FM.AST.NFRG.CN,Net foreign assets
+1997-01-01,,1376,,net_foreign_assets_lcu,14025333967161.5,current LCU (rial),World Bank WDI API,1997,FM.AST.NFRG.CN,Net foreign assets
+1998-01-01,,1377,,net_foreign_assets_lcu,4500683767432.76,current LCU (rial),World Bank WDI API,1998,FM.AST.NFRG.CN,Net foreign assets
+1999-01-01,,1378,,net_foreign_assets_lcu,2246470060415.38,current LCU (rial),World Bank WDI API,1999,FM.AST.NFRG.CN,Net foreign assets
+2000-01-01,,1379,,net_foreign_assets_lcu,15907341315155.1,current LCU (rial),World Bank WDI API,2000,FM.AST.NFRG.CN,Net foreign assets
+2001-01-01,,1380,,net_foreign_assets_lcu,14580775411678.1,current LCU (rial),World Bank WDI API,2001,FM.AST.NFRG.CN,Net foreign assets
+2002-01-01,,1381,,net_foreign_assets_lcu,60319047601909.2,current LCU (rial),World Bank WDI API,2002,FM.AST.NFRG.CN,Net foreign assets
+2003-01-01,,1382,,net_foreign_assets_lcu,71746923665179.2,current LCU (rial),World Bank WDI API,2003,FM.AST.NFRG.CN,Net foreign assets
+2004-01-01,,1383,,net_foreign_assets_lcu,206830017284025.0,current LCU (rial),World Bank WDI API,2004,FM.AST.NFRG.CN,Net foreign assets
+2005-01-01,,1384,,net_foreign_assets_lcu,252998195991701.0,current LCU (rial),World Bank WDI API,2005,FM.AST.NFRG.CN,Net foreign assets
+2006-01-01,,1385,,net_foreign_assets_lcu,390059827530967.0,current LCU (rial),World Bank WDI API,2006,FM.AST.NFRG.CN,Net foreign assets
+2007-01-01,,1386,,net_foreign_assets_lcu,493507502227451.0,current LCU (rial),World Bank WDI API,2007,FM.AST.NFRG.CN,Net foreign assets
+2008-01-01,,1387,,net_foreign_assets_lcu,559806901275166.0,current LCU (rial),World Bank WDI API,2008,FM.AST.NFRG.CN,Net foreign assets
+2009-01-01,,1388,,net_foreign_assets_lcu,734625713072635.0,current LCU (rial),World Bank WDI API,2009,FM.AST.NFRG.CN,Net foreign assets
+2010-01-01,,1389,,net_foreign_assets_lcu,687007925990964.0,current LCU (rial),World Bank WDI API,2010,FM.AST.NFRG.CN,Net foreign assets
+2011-01-01,,1390,,net_foreign_assets_lcu,707663235920667.0,current LCU (rial),World Bank WDI API,2011,FM.AST.NFRG.CN,Net foreign assets
+2012-01-01,,1391,,net_foreign_assets_lcu,840536876834069.0,current LCU (rial),World Bank WDI API,2012,FM.AST.NFRG.CN,Net foreign assets
+2013-01-01,,1392,,net_foreign_assets_lcu,1919212648429620.0,current LCU (rial),World Bank WDI API,2013,FM.AST.NFRG.CN,Net foreign assets
+2014-01-01,,1393,,net_foreign_assets_lcu,2143741307426670.0,current LCU (rial),World Bank WDI API,2014,FM.AST.NFRG.CN,Net foreign assets
+2015-01-01,,1394,,net_foreign_assets_lcu,2355417172180860.0,current LCU (rial),World Bank WDI API,2015,FM.AST.NFRG.CN,Net foreign assets
+2016-01-01,,1395,,net_foreign_assets_lcu,2473743911927340.0,current LCU (rial),World Bank WDI API,2016,FM.AST.NFRG.CN,Net foreign assets
+1972-01-01,,1351,,net_lending_pct_gdp,-4.27128479006608,percent of GDP,World Bank WDI API,1972,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1973-01-01,,1352,,net_lending_pct_gdp,-0.771935206776222,percent of GDP,World Bank WDI API,1973,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1974-01-01,,1353,,net_lending_pct_gdp,4.4897582530186,percent of GDP,World Bank WDI API,1974,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1975-01-01,,1354,,net_lending_pct_gdp,0.340003255327504,percent of GDP,World Bank WDI API,1975,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1976-01-01,,1355,,net_lending_pct_gdp,-0.783287602633488,percent of GDP,World Bank WDI API,1976,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1977-01-01,,1356,,net_lending_pct_gdp,-4.61267256605945,percent of GDP,World Bank WDI API,1977,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1978-01-01,,1357,,net_lending_pct_gdp,-9.99517985653569,percent of GDP,World Bank WDI API,1978,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1979-01-01,,1358,,net_lending_pct_gdp,-5.07976968721584,percent of GDP,World Bank WDI API,1979,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1980-01-01,,1359,,net_lending_pct_gdp,-13.8821852804226,percent of GDP,World Bank WDI API,1980,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1981-01-01,,1360,,net_lending_pct_gdp,-11.0896166962768,percent of GDP,World Bank WDI API,1981,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1982-01-01,,1361,,net_lending_pct_gdp,-5.81951545860868,percent of GDP,World Bank WDI API,1982,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1983-01-01,,1362,,net_lending_pct_gdp,-6.32504906730229,percent of GDP,World Bank WDI API,1983,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1984-01-01,,1363,,net_lending_pct_gdp,-4.0842036837433,percent of GDP,World Bank WDI API,1984,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1985-01-01,,1364,,net_lending_pct_gdp,-3.91952192253673,percent of GDP,World Bank WDI API,1985,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1986-01-01,,1365,,net_lending_pct_gdp,-8.87719135323262,percent of GDP,World Bank WDI API,1986,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1987-01-01,,1366,,net_lending_pct_gdp,-7.48890728103536,percent of GDP,World Bank WDI API,1987,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1988-01-01,,1367,,net_lending_pct_gdp,-9.34951230175331,percent of GDP,World Bank WDI API,1988,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1989-01-01,,1368,,net_lending_pct_gdp,-4.01620465037287,percent of GDP,World Bank WDI API,1989,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1990-01-01,,1369,,net_lending_pct_gdp,-1.76746804773939,percent of GDP,World Bank WDI API,1990,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1991-01-01,,1370,,net_lending_pct_gdp,-2.17159147556913,percent of GDP,World Bank WDI API,1991,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1992-01-01,,1371,,net_lending_pct_gdp,-1.34982410698807,percent of GDP,World Bank WDI API,1992,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1993-01-01,,1372,,net_lending_pct_gdp,-0.51350599594242,percent of GDP,World Bank WDI API,1993,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1994-01-01,,1373,,net_lending_pct_gdp,-0.234735665702192,percent of GDP,World Bank WDI API,1994,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1995-01-01,,1374,,net_lending_pct_gdp,1.04068419006279,percent of GDP,World Bank WDI API,1995,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1996-01-01,,1375,,net_lending_pct_gdp,0.761018035157906,percent of GDP,World Bank WDI API,1996,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1997-01-01,,1376,,net_lending_pct_gdp,-0.428248868479522,percent of GDP,World Bank WDI API,1997,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1998-01-01,,1377,,net_lending_pct_gdp,-5.33958939682516,percent of GDP,World Bank WDI API,1998,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1999-01-01,,1378,,net_lending_pct_gdp,0.111798321514736,percent of GDP,World Bank WDI API,1999,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+2000-01-01,,1379,,net_lending_pct_gdp,1.65580849915839,percent of GDP,World Bank WDI API,2000,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+2001-01-01,,1380,,net_lending_pct_gdp,0.891498337593464,percent of GDP,World Bank WDI API,2001,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+2002-01-01,,1381,,net_lending_pct_gdp,0.641232491099423,percent of GDP,World Bank WDI API,2002,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+2003-01-01,,1382,,net_lending_pct_gdp,1.43763912245497,percent of GDP,World Bank WDI API,2003,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+2004-01-01,,1383,,net_lending_pct_gdp,3.52739446974609,percent of GDP,World Bank WDI API,2004,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+2005-01-01,,1384,,net_lending_pct_gdp,5.07666126091723,percent of GDP,World Bank WDI API,2005,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+2006-01-01,,1385,,net_lending_pct_gdp,2.64790133423175,percent of GDP,World Bank WDI API,2006,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+2007-01-01,,1386,,net_lending_pct_gdp,6.41931445281478,percent of GDP,World Bank WDI API,2007,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+2008-01-01,,1387,,net_lending_pct_gdp,2.28891804222276,percent of GDP,World Bank WDI API,2008,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+2009-01-01,,1388,,net_lending_pct_gdp,0.451616617103749,percent of GDP,World Bank WDI API,2009,GC.NLD.TOTL.GD.ZS,Net lending / borrowing
+1960-01-01,,1339,,official_exchange_rate,75.75000007575,"IRR per USD, period average",World Bank WDI API,1960,PA.NUS.FCRF,Official exchange rate
+1961-01-01,,1340,,official_exchange_rate,75.75000007575,"IRR per USD, period average",World Bank WDI API,1961,PA.NUS.FCRF,Official exchange rate
+1962-01-01,,1341,,official_exchange_rate,75.75000007575,"IRR per USD, period average",World Bank WDI API,1962,PA.NUS.FCRF,Official exchange rate
+1963-01-01,,1342,,official_exchange_rate,75.75000007575,"IRR per USD, period average",World Bank WDI API,1963,PA.NUS.FCRF,Official exchange rate
+1964-01-01,,1343,,official_exchange_rate,75.75000007575,"IRR per USD, period average",World Bank WDI API,1964,PA.NUS.FCRF,Official exchange rate
+1965-01-01,,1344,,official_exchange_rate,75.75000007575,"IRR per USD, period average",World Bank WDI API,1965,PA.NUS.FCRF,Official exchange rate
+1966-01-01,,1345,,official_exchange_rate,75.75000007575,"IRR per USD, period average",World Bank WDI API,1966,PA.NUS.FCRF,Official exchange rate
+1967-01-01,,1346,,official_exchange_rate,75.75000007575,"IRR per USD, period average",World Bank WDI API,1967,PA.NUS.FCRF,Official exchange rate
+1968-01-01,,1347,,official_exchange_rate,75.75000007575,"IRR per USD, period average",World Bank WDI API,1968,PA.NUS.FCRF,Official exchange rate
+1969-01-01,,1348,,official_exchange_rate,75.75000007575,"IRR per USD, period average",World Bank WDI API,1969,PA.NUS.FCRF,Official exchange rate
+1970-01-01,,1349,,official_exchange_rate,75.75000007575,"IRR per USD, period average",World Bank WDI API,1970,PA.NUS.FCRF,Official exchange rate
+1971-01-01,,1350,,official_exchange_rate,75.7500000694375,"IRR per USD, period average",World Bank WDI API,1971,PA.NUS.FCRF,Official exchange rate
+1972-01-01,,1351,,official_exchange_rate,75.7499701345202,"IRR per USD, period average",World Bank WDI API,1972,PA.NUS.FCRF,Official exchange rate
+1973-01-01,,1352,,official_exchange_rate,68.8860419482585,"IRR per USD, period average",World Bank WDI API,1973,PA.NUS.FCRF,Official exchange rate
+1974-01-01,,1353,,official_exchange_rate,67.641342246617,"IRR per USD, period average",World Bank WDI API,1974,PA.NUS.FCRF,Official exchange rate
+1975-01-01,,1354,,official_exchange_rate,67.6549455324406,"IRR per USD, period average",World Bank WDI API,1975,PA.NUS.FCRF,Official exchange rate
+1976-01-01,,1355,,official_exchange_rate,70.2390698610516,"IRR per USD, period average",World Bank WDI API,1976,PA.NUS.FCRF,Official exchange rate
+1977-01-01,,1356,,official_exchange_rate,70.6337318788855,"IRR per USD, period average",World Bank WDI API,1977,PA.NUS.FCRF,Official exchange rate
+1978-01-01,,1357,,official_exchange_rate,70.4920309761581,"IRR per USD, period average",World Bank WDI API,1978,PA.NUS.FCRF,Official exchange rate
+1979-01-01,,1358,,official_exchange_rate,70.4920309761581,"IRR per USD, period average",World Bank WDI API,1979,PA.NUS.FCRF,Official exchange rate
+1980-01-01,,1359,,official_exchange_rate,70.631848089676,"IRR per USD, period average",World Bank WDI API,1980,PA.NUS.FCRF,Official exchange rate
+1981-01-01,,1360,,official_exchange_rate,78.3468453777361,"IRR per USD, period average",World Bank WDI API,1981,PA.NUS.FCRF,Official exchange rate
+1982-01-01,,1361,,official_exchange_rate,83.6226700245569,"IRR per USD, period average",World Bank WDI API,1982,PA.NUS.FCRF,Official exchange rate
+1983-01-01,,1362,,official_exchange_rate,86.3787358940775,"IRR per USD, period average",World Bank WDI API,1983,PA.NUS.FCRF,Official exchange rate
+1984-01-01,,1363,,official_exchange_rate,90.0514398915356,"IRR per USD, period average",World Bank WDI API,1984,PA.NUS.FCRF,Official exchange rate
+1985-01-01,,1364,,official_exchange_rate,91.0735868439752,"IRR per USD, period average",World Bank WDI API,1985,PA.NUS.FCRF,Official exchange rate
+1986-01-01,,1365,,official_exchange_rate,78.7787830685101,"IRR per USD, period average",World Bank WDI API,1986,PA.NUS.FCRF,Official exchange rate
+1987-01-01,,1366,,official_exchange_rate,71.4774357190432,"IRR per USD, period average",World Bank WDI API,1987,PA.NUS.FCRF,Official exchange rate
+1988-01-01,,1367,,official_exchange_rate,68.6997646296701,"IRR per USD, period average",World Bank WDI API,1988,PA.NUS.FCRF,Official exchange rate
+1989-01-01,,1368,,official_exchange_rate,72.0322364263672,"IRR per USD, period average",World Bank WDI API,1989,PA.NUS.FCRF,Official exchange rate
+1990-01-01,,1369,,official_exchange_rate,68.1123727149296,"IRR per USD, period average",World Bank WDI API,1990,PA.NUS.FCRF,Official exchange rate
+1991-01-01,,1370,,official_exchange_rate,67.5217300147946,"IRR per USD, period average",World Bank WDI API,1991,PA.NUS.FCRF,Official exchange rate
+1992-01-01,,1371,,official_exchange_rate,65.5678412857706,"IRR per USD, period average",World Bank WDI API,1992,PA.NUS.FCRF,Official exchange rate
+1993-01-01,,1372,,official_exchange_rate,1268.07876133881,"IRR per USD, period average",World Bank WDI API,1993,PA.NUS.FCRF,Official exchange rate
+1994-01-01,,1373,,official_exchange_rate,1749.17373625079,"IRR per USD, period average",World Bank WDI API,1994,PA.NUS.FCRF,Official exchange rate
+1995-01-01,,1374,,official_exchange_rate,1748.35024562759,"IRR per USD, period average",World Bank WDI API,1995,PA.NUS.FCRF,Official exchange rate
+1996-01-01,,1375,,official_exchange_rate,1751.18635583594,"IRR per USD, period average",World Bank WDI API,1996,PA.NUS.FCRF,Official exchange rate
+1997-01-01,,1376,,official_exchange_rate,1753.34547748286,"IRR per USD, period average",World Bank WDI API,1997,PA.NUS.FCRF,Official exchange rate
+1998-01-01,,1377,,official_exchange_rate,1752.28599459359,"IRR per USD, period average",World Bank WDI API,1998,PA.NUS.FCRF,Official exchange rate
+1999-01-01,,1378,,official_exchange_rate,1753.35494977139,"IRR per USD, period average",World Bank WDI API,1999,PA.NUS.FCRF,Official exchange rate
+2000-01-01,,1379,,official_exchange_rate,1764.85606929191,"IRR per USD, period average",World Bank WDI API,2000,PA.NUS.FCRF,Official exchange rate
+2001-01-01,,1380,,official_exchange_rate,1753.98568465785,"IRR per USD, period average",World Bank WDI API,2001,PA.NUS.FCRF,Official exchange rate
+2002-01-01,,1381,,official_exchange_rate,6907.03445561653,"IRR per USD, period average",World Bank WDI API,2002,PA.NUS.FCRF,Official exchange rate
+2003-01-01,,1382,,official_exchange_rate,8193.88751916667,"IRR per USD, period average",World Bank WDI API,2003,PA.NUS.FCRF,Official exchange rate
+2004-01-01,,1383,,official_exchange_rate,8613.98942075,"IRR per USD, period average",World Bank WDI API,2004,PA.NUS.FCRF,Official exchange rate
+2005-01-01,,1384,,official_exchange_rate,8963.95890666667,"IRR per USD, period average",World Bank WDI API,2005,PA.NUS.FCRF,Official exchange rate
+2006-01-01,,1385,,official_exchange_rate,9170.9428775,"IRR per USD, period average",World Bank WDI API,2006,PA.NUS.FCRF,Official exchange rate
+2007-01-01,,1386,,official_exchange_rate,9281.15182833334,"IRR per USD, period average",World Bank WDI API,2007,PA.NUS.FCRF,Official exchange rate
+2008-01-01,,1387,,official_exchange_rate,9428.52826083333,"IRR per USD, period average",World Bank WDI API,2008,PA.NUS.FCRF,Official exchange rate
+2009-01-01,,1388,,official_exchange_rate,9864.30245626821,"IRR per USD, period average",World Bank WDI API,2009,PA.NUS.FCRF,Official exchange rate
+2010-01-01,,1389,,official_exchange_rate,10254.176470289,"IRR per USD, period average",World Bank WDI API,2010,PA.NUS.FCRF,Official exchange rate
+2011-01-01,,1390,,official_exchange_rate,10616.3066439076,"IRR per USD, period average",World Bank WDI API,2011,PA.NUS.FCRF,Official exchange rate
+2012-01-01,,1391,,official_exchange_rate,12175.5472222222,"IRR per USD, period average",World Bank WDI API,2012,PA.NUS.FCRF,Official exchange rate
+2013-01-01,,1392,,official_exchange_rate,18414.4480100374,"IRR per USD, period average",World Bank WDI API,2013,PA.NUS.FCRF,Official exchange rate
+2014-01-01,,1393,,official_exchange_rate,25941.6641445972,"IRR per USD, period average",World Bank WDI API,2014,PA.NUS.FCRF,Official exchange rate
+2015-01-01,,1394,,official_exchange_rate,29011.4913770529,"IRR per USD, period average",World Bank WDI API,2015,PA.NUS.FCRF,Official exchange rate
+2016-01-01,,1395,,official_exchange_rate,30914.8524362967,"IRR per USD, period average",World Bank WDI API,2016,PA.NUS.FCRF,Official exchange rate
+2017-01-01,,1396,,official_exchange_rate,33226.2981524127,"IRR per USD, period average",World Bank WDI API,2017,PA.NUS.FCRF,Official exchange rate
+2018-01-01,,1397,,official_exchange_rate,40864.329009777,"IRR per USD, period average",World Bank WDI API,2018,PA.NUS.FCRF,Official exchange rate
+2019-01-01,,1398,,official_exchange_rate,42000.0,"IRR per USD, period average",World Bank WDI API,2019,PA.NUS.FCRF,Official exchange rate
+2020-01-01,,1399,,official_exchange_rate,42000.0,"IRR per USD, period average",World Bank WDI API,2020,PA.NUS.FCRF,Official exchange rate
+2021-01-01,,1400,,official_exchange_rate,42000.0,"IRR per USD, period average",World Bank WDI API,2021,PA.NUS.FCRF,Official exchange rate
+2022-01-01,,1401,,official_exchange_rate,42000.0,"IRR per USD, period average",World Bank WDI API,2022,PA.NUS.FCRF,Official exchange rate
+2023-01-01,,1402,,official_exchange_rate,42000.0,"IRR per USD, period average",World Bank WDI API,2023,PA.NUS.FCRF,Official exchange rate
+1970-01-01,,1349,,oil_rents_pct_gdp,11.7339839421763,percent of GDP,World Bank WDI API,1970,NY.GDP.PETR.RT.ZS,Oil rents
+1971-01-01,,1350,,oil_rents_pct_gdp,14.8261594078895,percent of GDP,World Bank WDI API,1971,NY.GDP.PETR.RT.ZS,Oil rents
+1972-01-01,,1351,,oil_rents_pct_gdp,16.7252736694196,percent of GDP,World Bank WDI API,1972,NY.GDP.PETR.RT.ZS,Oil rents
+1973-01-01,,1352,,oil_rents_pct_gdp,18.568940368485,percent of GDP,World Bank WDI API,1973,NY.GDP.PETR.RT.ZS,Oil rents
+1974-01-01,,1353,,oil_rents_pct_gdp,47.360140628302,percent of GDP,World Bank WDI API,1974,NY.GDP.PETR.RT.ZS,Oil rents
+1975-01-01,,1354,,oil_rents_pct_gdp,37.2662498162087,percent of GDP,World Bank WDI API,1975,NY.GDP.PETR.RT.ZS,Oil rents
+1976-01-01,,1355,,oil_rents_pct_gdp,33.2729575358116,percent of GDP,World Bank WDI API,1976,NY.GDP.PETR.RT.ZS,Oil rents
+1977-01-01,,1356,,oil_rents_pct_gdp,29.6619105232745,percent of GDP,World Bank WDI API,1977,NY.GDP.PETR.RT.ZS,Oil rents
+1978-01-01,,1357,,oil_rents_pct_gdp,31.7653421755558,percent of GDP,World Bank WDI API,1978,NY.GDP.PETR.RT.ZS,Oil rents
+1979-01-01,,1358,,oil_rents_pct_gdp,36.2712245910874,percent of GDP,World Bank WDI API,1979,NY.GDP.PETR.RT.ZS,Oil rents
+1980-01-01,,1359,,oil_rents_pct_gdp,34.0602967673368,percent of GDP,World Bank WDI API,1980,NY.GDP.PETR.RT.ZS,Oil rents
+1981-01-01,,1360,,oil_rents_pct_gdp,26.9572602616531,percent of GDP,World Bank WDI API,1981,NY.GDP.PETR.RT.ZS,Oil rents
+1982-01-01,,1361,,oil_rents_pct_gdp,19.7882685941967,percent of GDP,World Bank WDI API,1982,NY.GDP.PETR.RT.ZS,Oil rents
+1983-01-01,,1362,,oil_rents_pct_gdp,15.9331788351053,percent of GDP,World Bank WDI API,1983,NY.GDP.PETR.RT.ZS,Oil rents
+1984-01-01,,1363,,oil_rents_pct_gdp,14.834775869565,percent of GDP,World Bank WDI API,1984,NY.GDP.PETR.RT.ZS,Oil rents
+1985-01-01,,1364,,oil_rents_pct_gdp,13.0111600545153,percent of GDP,World Bank WDI API,1985,NY.GDP.PETR.RT.ZS,Oil rents
+1986-01-01,,1365,,oil_rents_pct_gdp,5.3261828496059,percent of GDP,World Bank WDI API,1986,NY.GDP.PETR.RT.ZS,Oil rents
+1987-01-01,,1366,,oil_rents_pct_gdp,11.7165752598757,percent of GDP,World Bank WDI API,1987,NY.GDP.PETR.RT.ZS,Oil rents
+1988-01-01,,1367,,oil_rents_pct_gdp,11.0534011695511,percent of GDP,World Bank WDI API,1988,NY.GDP.PETR.RT.ZS,Oil rents
+1989-01-01,,1368,,oil_rents_pct_gdp,17.7018963845968,percent of GDP,World Bank WDI API,1989,NY.GDP.PETR.RT.ZS,Oil rents
+1990-01-01,,1369,,oil_rents_pct_gdp,23.2912360336472,percent of GDP,World Bank WDI API,1990,NY.GDP.PETR.RT.ZS,Oil rents
+1993-01-01,,1372,,oil_rents_pct_gdp,29.3853282211644,percent of GDP,World Bank WDI API,1993,NY.GDP.PETR.RT.ZS,Oil rents
+1994-01-01,,1373,,oil_rents_pct_gdp,24.2190216392295,percent of GDP,World Bank WDI API,1994,NY.GDP.PETR.RT.ZS,Oil rents
+1995-01-01,,1374,,oil_rents_pct_gdp,19.3040585759505,percent of GDP,World Bank WDI API,1995,NY.GDP.PETR.RT.ZS,Oil rents
+1996-01-01,,1375,,oil_rents_pct_gdp,19.6685614584308,percent of GDP,World Bank WDI API,1996,NY.GDP.PETR.RT.ZS,Oil rents
+1997-01-01,,1376,,oil_rents_pct_gdp,18.0436980240134,percent of GDP,World Bank WDI API,1997,NY.GDP.PETR.RT.ZS,Oil rents
+1998-01-01,,1377,,oil_rents_pct_gdp,11.6492107603037,percent of GDP,World Bank WDI API,1998,NY.GDP.PETR.RT.ZS,Oil rents
+1999-01-01,,1378,,oil_rents_pct_gdp,16.7896155043784,percent of GDP,World Bank WDI API,1999,NY.GDP.PETR.RT.ZS,Oil rents
+2000-01-01,,1379,,oil_rents_pct_gdp,30.6637746707723,percent of GDP,World Bank WDI API,2000,NY.GDP.PETR.RT.ZS,Oil rents
+2001-01-01,,1380,,oil_rents_pct_gdp,21.4882168458321,percent of GDP,World Bank WDI API,2001,NY.GDP.PETR.RT.ZS,Oil rents
+2002-01-01,,1381,,oil_rents_pct_gdp,20.4437414632993,percent of GDP,World Bank WDI API,2002,NY.GDP.PETR.RT.ZS,Oil rents
+2003-01-01,,1382,,oil_rents_pct_gdp,22.0449174416527,percent of GDP,World Bank WDI API,2003,NY.GDP.PETR.RT.ZS,Oil rents
+2004-01-01,,1383,,oil_rents_pct_gdp,25.1990020398231,percent of GDP,World Bank WDI API,2004,NY.GDP.PETR.RT.ZS,Oil rents
+2005-01-01,,1384,,oil_rents_pct_gdp,31.6076762648214,percent of GDP,World Bank WDI API,2005,NY.GDP.PETR.RT.ZS,Oil rents
+2006-01-01,,1385,,oil_rents_pct_gdp,31.5582038058527,percent of GDP,World Bank WDI API,2006,NY.GDP.PETR.RT.ZS,Oil rents
+2007-01-01,,1386,,oil_rents_pct_gdp,26.1252401169156,percent of GDP,World Bank WDI API,2007,NY.GDP.PETR.RT.ZS,Oil rents
+2008-01-01,,1387,,oil_rents_pct_gdp,30.5659738980313,percent of GDP,World Bank WDI API,2008,NY.GDP.PETR.RT.ZS,Oil rents
+2009-01-01,,1388,,oil_rents_pct_gdp,17.5512587993854,percent of GDP,World Bank WDI API,2009,NY.GDP.PETR.RT.ZS,Oil rents
+2010-01-01,,1389,,oil_rents_pct_gdp,20.2248363529261,percent of GDP,World Bank WDI API,2010,NY.GDP.PETR.RT.ZS,Oil rents
+2011-01-01,,1390,,oil_rents_pct_gdp,22.3514589221281,percent of GDP,World Bank WDI API,2011,NY.GDP.PETR.RT.ZS,Oil rents
+2012-01-01,,1391,,oil_rents_pct_gdp,18.4120723402826,percent of GDP,World Bank WDI API,2012,NY.GDP.PETR.RT.ZS,Oil rents
+2013-01-01,,1392,,oil_rents_pct_gdp,21.2565665523955,percent of GDP,World Bank WDI API,2013,NY.GDP.PETR.RT.ZS,Oil rents
+2014-01-01,,1393,,oil_rents_pct_gdp,21.2353758265799,percent of GDP,World Bank WDI API,2014,NY.GDP.PETR.RT.ZS,Oil rents
+2015-01-01,,1394,,oil_rents_pct_gdp,12.2663527393474,percent of GDP,World Bank WDI API,2015,NY.GDP.PETR.RT.ZS,Oil rents
+2016-01-01,,1395,,oil_rents_pct_gdp,10.8895031509112,percent of GDP,World Bank WDI API,2016,NY.GDP.PETR.RT.ZS,Oil rents
+2017-01-01,,1396,,oil_rents_pct_gdp,14.6204399688795,percent of GDP,World Bank WDI API,2017,NY.GDP.PETR.RT.ZS,Oil rents
+2018-01-01,,1397,,oil_rents_pct_gdp,27.6646471563106,percent of GDP,World Bank WDI API,2018,NY.GDP.PETR.RT.ZS,Oil rents
+2019-01-01,,1398,,oil_rents_pct_gdp,20.0780490508657,percent of GDP,World Bank WDI API,2019,NY.GDP.PETR.RT.ZS,Oil rents
+2020-01-01,,1399,,oil_rents_pct_gdp,13.2733495355914,percent of GDP,World Bank WDI API,2020,NY.GDP.PETR.RT.ZS,Oil rents
+2021-01-01,,1400,,oil_rents_pct_gdp,18.2658980929233,percent of GDP,World Bank WDI API,2021,NY.GDP.PETR.RT.ZS,Oil rents
+1960-01-01,,1339,,population,21470434.0,persons,World Bank WDI API,1960,SP.POP.TOTL,"Population, total"
+1961-01-01,,1340,,population,22125726.0,persons,World Bank WDI API,1961,SP.POP.TOTL,"Population, total"
+1962-01-01,,1341,,population,22807907.0,persons,World Bank WDI API,1962,SP.POP.TOTL,"Population, total"
+1963-01-01,,1342,,population,23519005.0,persons,World Bank WDI API,1963,SP.POP.TOTL,"Population, total"
+1964-01-01,,1343,,population,24262859.0,persons,World Bank WDI API,1964,SP.POP.TOTL,"Population, total"
+1965-01-01,,1344,,population,25036978.0,persons,World Bank WDI API,1965,SP.POP.TOTL,"Population, total"
+1966-01-01,,1345,,population,25829270.0,persons,World Bank WDI API,1966,SP.POP.TOTL,"Population, total"
+1967-01-01,,1346,,population,26628432.0,persons,World Bank WDI API,1967,SP.POP.TOTL,"Population, total"
+1968-01-01,,1347,,population,27437391.0,persons,World Bank WDI API,1968,SP.POP.TOTL,"Population, total"
+1969-01-01,,1348,,population,28273482.0,persons,World Bank WDI API,1969,SP.POP.TOTL,"Population, total"
+1970-01-01,,1349,,population,29145100.0,persons,World Bank WDI API,1970,SP.POP.TOTL,"Population, total"
+1971-01-01,,1350,,population,30029071.0,persons,World Bank WDI API,1971,SP.POP.TOTL,"Population, total"
+1972-01-01,,1351,,population,30921179.0,persons,World Bank WDI API,1972,SP.POP.TOTL,"Population, total"
+1973-01-01,,1352,,population,31839838.0,persons,World Bank WDI API,1973,SP.POP.TOTL,"Population, total"
+1974-01-01,,1353,,population,32796463.0,persons,World Bank WDI API,1974,SP.POP.TOTL,"Population, total"
+1975-01-01,,1354,,population,33802973.0,persons,World Bank WDI API,1975,SP.POP.TOTL,"Population, total"
+1976-01-01,,1355,,population,34837271.0,persons,World Bank WDI API,1976,SP.POP.TOTL,"Population, total"
+1977-01-01,,1356,,population,35933181.0,persons,World Bank WDI API,1977,SP.POP.TOTL,"Population, total"
+1978-01-01,,1357,,population,37126535.0,persons,World Bank WDI API,1978,SP.POP.TOTL,"Population, total"
+1979-01-01,,1358,,population,38424952.0,persons,World Bank WDI API,1979,SP.POP.TOTL,"Population, total"
+1980-01-01,,1359,,population,39842324.0,persons,World Bank WDI API,1980,SP.POP.TOTL,"Population, total"
+1981-01-01,,1360,,population,41989312.0,persons,World Bank WDI API,1981,SP.POP.TOTL,"Population, total"
+1982-01-01,,1361,,population,44272141.0,persons,World Bank WDI API,1982,SP.POP.TOTL,"Population, total"
+1983-01-01,,1362,,population,46029535.0,persons,World Bank WDI API,1983,SP.POP.TOTL,"Population, total"
+1984-01-01,,1363,,population,47793998.0,persons,World Bank WDI API,1984,SP.POP.TOTL,"Population, total"
+1985-01-01,,1364,,population,49582289.0,persons,World Bank WDI API,1985,SP.POP.TOTL,"Population, total"
+1986-01-01,,1365,,population,51446045.0,persons,World Bank WDI API,1986,SP.POP.TOTL,"Population, total"
+1987-01-01,,1366,,population,53323493.0,persons,World Bank WDI API,1987,SP.POP.TOTL,"Population, total"
+1988-01-01,,1367,,population,55072694.0,persons,World Bank WDI API,1988,SP.POP.TOTL,"Population, total"
+1989-01-01,,1368,,population,56704914.0,persons,World Bank WDI API,1989,SP.POP.TOTL,"Population, total"
+1990-01-01,,1369,,population,58380092.0,persons,World Bank WDI API,1990,SP.POP.TOTL,"Population, total"
+1991-01-01,,1370,,population,59986931.0,persons,World Bank WDI API,1991,SP.POP.TOTL,"Population, total"
+1992-01-01,,1371,,population,61184983.0,persons,World Bank WDI API,1992,SP.POP.TOTL,"Population, total"
+1993-01-01,,1372,,population,61403543.0,persons,World Bank WDI API,1993,SP.POP.TOTL,"Population, total"
+1994-01-01,,1373,,population,61520598.0,persons,World Bank WDI API,1994,SP.POP.TOTL,"Population, total"
+1995-01-01,,1374,,population,62205567.0,persons,World Bank WDI API,1995,SP.POP.TOTL,"Population, total"
+1996-01-01,,1375,,population,62881300.0,persons,World Bank WDI API,1996,SP.POP.TOTL,"Population, total"
+1997-01-01,,1376,,population,63639638.0,persons,World Bank WDI API,1997,SP.POP.TOTL,"Population, total"
+1998-01-01,,1377,,population,64519859.0,persons,World Bank WDI API,1998,SP.POP.TOTL,"Population, total"
+1999-01-01,,1378,,population,65445391.0,persons,World Bank WDI API,1999,SP.POP.TOTL,"Population, total"
+2000-01-01,,1379,,population,66418659.0,persons,World Bank WDI API,2000,SP.POP.TOTL,"Population, total"
+2001-01-01,,1380,,population,67452005.0,persons,World Bank WDI API,2001,SP.POP.TOTL,"Population, total"
+2002-01-01,,1381,,population,68011317.0,persons,World Bank WDI API,2002,SP.POP.TOTL,"Population, total"
+2003-01-01,,1382,,population,68769340.0,persons,World Bank WDI API,2003,SP.POP.TOTL,"Population, total"
+2004-01-01,,1383,,population,70256316.0,persons,World Bank WDI API,2004,SP.POP.TOTL,"Population, total"
+2005-01-01,,1384,,population,71828455.0,persons,World Bank WDI API,2005,SP.POP.TOTL,"Population, total"
+2006-01-01,,1385,,population,73392747.0,persons,World Bank WDI API,2006,SP.POP.TOTL,"Population, total"
+2007-01-01,,1386,,population,74602648.0,persons,World Bank WDI API,2007,SP.POP.TOTL,"Population, total"
+2008-01-01,,1387,,population,75514204.0,persons,World Bank WDI API,2008,SP.POP.TOTL,"Population, total"
+2009-01-01,,1388,,population,76457825.0,persons,World Bank WDI API,2009,SP.POP.TOTL,"Population, total"
+2010-01-01,,1389,,population,77420842.0,persons,World Bank WDI API,2010,SP.POP.TOTL,"Population, total"
+2011-01-01,,1390,,population,78383598.0,persons,World Bank WDI API,2011,SP.POP.TOTL,"Population, total"
+2012-01-01,,1391,,population,79370580.0,persons,World Bank WDI API,2012,SP.POP.TOTL,"Population, total"
+2013-01-01,,1392,,population,80414686.0,persons,World Bank WDI API,2013,SP.POP.TOTL,"Population, total"
+2014-01-01,,1393,,population,81502045.0,persons,World Bank WDI API,2014,SP.POP.TOTL,"Population, total"
+2015-01-01,,1394,,population,82619362.0,persons,World Bank WDI API,2015,SP.POP.TOTL,"Population, total"
+2016-01-01,,1395,,population,83812228.0,persons,World Bank WDI API,2016,SP.POP.TOTL,"Population, total"
+2017-01-01,,1396,,population,85026754.0,persons,World Bank WDI API,2017,SP.POP.TOTL,"Population, total"
+2018-01-01,,1397,,population,86117998.0,persons,World Bank WDI API,2018,SP.POP.TOTL,"Population, total"
+2019-01-01,,1398,,population,87051648.0,persons,World Bank WDI API,2019,SP.POP.TOTL,"Population, total"
+2020-01-01,,1399,,population,87723443.0,persons,World Bank WDI API,2020,SP.POP.TOTL,"Population, total"
+2021-01-01,,1400,,population,88455488.0,persons,World Bank WDI API,2021,SP.POP.TOTL,"Population, total"
+2022-01-01,,1401,,population,89524246.0,persons,World Bank WDI API,2022,SP.POP.TOTL,"Population, total"
+2023-01-01,,1402,,population,90608707.0,persons,World Bank WDI API,2023,SP.POP.TOTL,"Population, total"
+2024-01-01,,1403,,population,91567738.0,persons,World Bank WDI API,2024,SP.POP.TOTL,"Population, total"
+2025-01-01,,1404,,population,92417681.0,persons,World Bank WDI API,2025,SP.POP.TOTL,"Population, total"
+2004-01-01,,1383,,real_interest_rate,-6.46167586205947,percent,World Bank WDI API,2004,FR.INR.RINR,Real interest rate
+2005-01-01,,1384,,real_interest_rate,-3.46702474568299,percent,World Bank WDI API,2005,FR.INR.RINR,Real interest rate
+2006-01-01,,1385,,real_interest_rate,-0.508448114375972,percent,World Bank WDI API,2006,FR.INR.RINR,Real interest rate
+2007-01-01,,1386,,real_interest_rate,-8.89795418340126,percent,World Bank WDI API,2007,FR.INR.RINR,Real interest rate
+2008-01-01,,1387,,real_interest_rate,-6.21492024510556,percent,World Bank WDI API,2008,FR.INR.RINR,Real interest rate
+2009-01-01,,1388,,real_interest_rate,7.07608797972097,percent,World Bank WDI API,2009,FR.INR.RINR,Real interest rate
+2010-01-01,,1389,,real_interest_rate,-3.35048152380658,percent,World Bank WDI API,2010,FR.INR.RINR,Real interest rate
+2011-01-01,,1390,,real_interest_rate,-16.797550089526,percent,World Bank WDI API,2011,FR.INR.RINR,Real interest rate
+2012-01-01,,1391,,real_interest_rate,-6.68652747407881,percent,World Bank WDI API,2012,FR.INR.RINR,Real interest rate
+2013-01-01,,1392,,real_interest_rate,-18.8451930586967,percent,World Bank WDI API,2013,FR.INR.RINR,Real interest rate
+2014-01-01,,1393,,real_interest_rate,3.86413888968698,percent,World Bank WDI API,2014,FR.INR.RINR,Real interest rate
+2015-01-01,,1394,,real_interest_rate,13.9854467563741,percent,World Bank WDI API,2015,FR.INR.RINR,Real interest rate
+2016-01-01,,1395,,real_interest_rate,3.4497687580534,percent,World Bank WDI API,2016,FR.INR.RINR,Real interest rate
+1972-01-01,,1351,,tax_revenue_pct_gdp,8.26551326942517,percent of GDP,World Bank WDI API,1972,GC.TAX.TOTL.GD.ZS,Tax revenue
+1973-01-01,,1352,,tax_revenue_pct_gdp,7.54781091070083,percent of GDP,World Bank WDI API,1973,GC.TAX.TOTL.GD.ZS,Tax revenue
+1974-01-01,,1353,,tax_revenue_pct_gdp,5.41779096390626,percent of GDP,World Bank WDI API,1974,GC.TAX.TOTL.GD.ZS,Tax revenue
+1975-01-01,,1354,,tax_revenue_pct_gdp,8.19407845339285,percent of GDP,World Bank WDI API,1975,GC.TAX.TOTL.GD.ZS,Tax revenue
+1976-01-01,,1355,,tax_revenue_pct_gdp,7.56205850414777,percent of GDP,World Bank WDI API,1976,GC.TAX.TOTL.GD.ZS,Tax revenue
+1977-01-01,,1356,,tax_revenue_pct_gdp,8.21632300829339,percent of GDP,World Bank WDI API,1977,GC.TAX.TOTL.GD.ZS,Tax revenue
+1978-01-01,,1357,,tax_revenue_pct_gdp,8.87085856943357,percent of GDP,World Bank WDI API,1978,GC.TAX.TOTL.GD.ZS,Tax revenue
+1979-01-01,,1358,,tax_revenue_pct_gdp,5.99337474220954,percent of GDP,World Bank WDI API,1979,GC.TAX.TOTL.GD.ZS,Tax revenue
+1980-01-01,,1359,,tax_revenue_pct_gdp,5.17028487619836,percent of GDP,World Bank WDI API,1980,GC.TAX.TOTL.GD.ZS,Tax revenue
+1981-01-01,,1360,,tax_revenue_pct_gdp,6.97903559997777,percent of GDP,World Bank WDI API,1981,GC.TAX.TOTL.GD.ZS,Tax revenue
+1982-01-01,,1361,,tax_revenue_pct_gdp,5.92293172685536,percent of GDP,World Bank WDI API,1982,GC.TAX.TOTL.GD.ZS,Tax revenue
+1983-01-01,,1362,,tax_revenue_pct_gdp,6.03398096950248,percent of GDP,World Bank WDI API,1983,GC.TAX.TOTL.GD.ZS,Tax revenue
+1984-01-01,,1363,,tax_revenue_pct_gdp,6.43709659562234,percent of GDP,World Bank WDI API,1984,GC.TAX.TOTL.GD.ZS,Tax revenue
+1985-01-01,,1364,,tax_revenue_pct_gdp,7.32980963790075,percent of GDP,World Bank WDI API,1985,GC.TAX.TOTL.GD.ZS,Tax revenue
+1986-01-01,,1365,,tax_revenue_pct_gdp,6.78425089061532,percent of GDP,World Bank WDI API,1986,GC.TAX.TOTL.GD.ZS,Tax revenue
+1987-01-01,,1366,,tax_revenue_pct_gdp,6.00533842477029,percent of GDP,World Bank WDI API,1987,GC.TAX.TOTL.GD.ZS,Tax revenue
+1988-01-01,,1367,,tax_revenue_pct_gdp,5.43455242310353,percent of GDP,World Bank WDI API,1988,GC.TAX.TOTL.GD.ZS,Tax revenue
+1989-01-01,,1368,,tax_revenue_pct_gdp,5.3697504436685,percent of GDP,World Bank WDI API,1989,GC.TAX.TOTL.GD.ZS,Tax revenue
+1990-01-01,,1369,,tax_revenue_pct_gdp,5.57223654550189,percent of GDP,World Bank WDI API,1990,GC.TAX.TOTL.GD.ZS,Tax revenue
+1991-01-01,,1370,,tax_revenue_pct_gdp,6.16189081192739,percent of GDP,World Bank WDI API,1991,GC.TAX.TOTL.GD.ZS,Tax revenue
+1992-01-01,,1371,,tax_revenue_pct_gdp,6.88118064602608,percent of GDP,World Bank WDI API,1992,GC.TAX.TOTL.GD.ZS,Tax revenue
+1993-01-01,,1372,,tax_revenue_pct_gdp,3.86024599151577,percent of GDP,World Bank WDI API,1993,GC.TAX.TOTL.GD.ZS,Tax revenue
+1994-01-01,,1373,,tax_revenue_pct_gdp,4.37123611618595,percent of GDP,World Bank WDI API,1994,GC.TAX.TOTL.GD.ZS,Tax revenue
+1995-01-01,,1374,,tax_revenue_pct_gdp,6.22079867847657,percent of GDP,World Bank WDI API,1995,GC.TAX.TOTL.GD.ZS,Tax revenue
+1996-01-01,,1375,,tax_revenue_pct_gdp,7.94631513970274,percent of GDP,World Bank WDI API,1996,GC.TAX.TOTL.GD.ZS,Tax revenue
+1997-01-01,,1376,,tax_revenue_pct_gdp,10.1579620986544,percent of GDP,World Bank WDI API,1997,GC.TAX.TOTL.GD.ZS,Tax revenue
+1998-01-01,,1377,,tax_revenue_pct_gdp,8.64437605391304,percent of GDP,World Bank WDI API,1998,GC.TAX.TOTL.GD.ZS,Tax revenue
+1999-01-01,,1378,,tax_revenue_pct_gdp,8.32782333660662,percent of GDP,World Bank WDI API,1999,GC.TAX.TOTL.GD.ZS,Tax revenue
+2000-01-01,,1379,,tax_revenue_pct_gdp,5.86128209634559,percent of GDP,World Bank WDI API,2000,GC.TAX.TOTL.GD.ZS,Tax revenue
+2001-01-01,,1380,,tax_revenue_pct_gdp,5.74690355847573,percent of GDP,World Bank WDI API,2001,GC.TAX.TOTL.GD.ZS,Tax revenue
+2002-01-01,,1381,,tax_revenue_pct_gdp,4.99437771167461,percent of GDP,World Bank WDI API,2002,GC.TAX.TOTL.GD.ZS,Tax revenue
+2003-01-01,,1382,,tax_revenue_pct_gdp,5.20132534963171,percent of GDP,World Bank WDI API,2003,GC.TAX.TOTL.GD.ZS,Tax revenue
+2004-01-01,,1383,,tax_revenue_pct_gdp,5.19532335186139,percent of GDP,World Bank WDI API,2004,GC.TAX.TOTL.GD.ZS,Tax revenue
+2005-01-01,,1384,,tax_revenue_pct_gdp,6.65759371546111,percent of GDP,World Bank WDI API,2005,GC.TAX.TOTL.GD.ZS,Tax revenue
+2006-01-01,,1385,,tax_revenue_pct_gdp,6.21768140952709,percent of GDP,World Bank WDI API,2006,GC.TAX.TOTL.GD.ZS,Tax revenue
+2007-01-01,,1386,,tax_revenue_pct_gdp,5.93768768956558,percent of GDP,World Bank WDI API,2007,GC.TAX.TOTL.GD.ZS,Tax revenue
+2008-01-01,,1387,,tax_revenue_pct_gdp,6.19780928803603,percent of GDP,World Bank WDI API,2008,GC.TAX.TOTL.GD.ZS,Tax revenue
+2009-01-01,,1388,,tax_revenue_pct_gdp,7.35847804149632,percent of GDP,World Bank WDI API,2009,GC.TAX.TOTL.GD.ZS,Tax revenue
+1991-01-01,,1370,,unemployment_pct,11.1,percent,World Bank WDI API,1991,SL.UEM.TOTL.ZS,"Unemployment, total"
+1992-01-01,,1371,,unemployment_pct,10.653,percent,World Bank WDI API,1992,SL.UEM.TOTL.ZS,"Unemployment, total"
+1993-01-01,,1372,,unemployment_pct,10.573,percent,World Bank WDI API,1993,SL.UEM.TOTL.ZS,"Unemployment, total"
+1994-01-01,,1373,,unemployment_pct,10.458,percent,World Bank WDI API,1994,SL.UEM.TOTL.ZS,"Unemployment, total"
+1995-01-01,,1374,,unemployment_pct,9.904,percent,World Bank WDI API,1995,SL.UEM.TOTL.ZS,"Unemployment, total"
+1996-01-01,,1375,,unemployment_pct,9.1,percent,World Bank WDI API,1996,SL.UEM.TOTL.ZS,"Unemployment, total"
+1997-01-01,,1376,,unemployment_pct,9.68,percent,World Bank WDI API,1997,SL.UEM.TOTL.ZS,"Unemployment, total"
+1998-01-01,,1377,,unemployment_pct,10.358,percent,World Bank WDI API,1998,SL.UEM.TOTL.ZS,"Unemployment, total"
+1999-01-01,,1378,,unemployment_pct,11.176,percent,World Bank WDI API,1999,SL.UEM.TOTL.ZS,"Unemployment, total"
+2000-01-01,,1379,,unemployment_pct,11.698,percent,World Bank WDI API,2000,SL.UEM.TOTL.ZS,"Unemployment, total"
+2001-01-01,,1380,,unemployment_pct,12.362,percent,World Bank WDI API,2001,SL.UEM.TOTL.ZS,"Unemployment, total"
+2002-01-01,,1381,,unemployment_pct,12.8,percent,World Bank WDI API,2002,SL.UEM.TOTL.ZS,"Unemployment, total"
+2003-01-01,,1382,,unemployment_pct,11.529,percent,World Bank WDI API,2003,SL.UEM.TOTL.ZS,"Unemployment, total"
+2004-01-01,,1383,,unemployment_pct,10.3,percent,World Bank WDI API,2004,SL.UEM.TOTL.ZS,"Unemployment, total"
+2005-01-01,,1384,,unemployment_pct,11.813,percent,World Bank WDI API,2005,SL.UEM.TOTL.ZS,"Unemployment, total"
+2006-01-01,,1385,,unemployment_pct,11.519,percent,World Bank WDI API,2006,SL.UEM.TOTL.ZS,"Unemployment, total"
+2007-01-01,,1386,,unemployment_pct,10.772,percent,World Bank WDI API,2007,SL.UEM.TOTL.ZS,"Unemployment, total"
+2008-01-01,,1387,,unemployment_pct,10.63,percent,World Bank WDI API,2008,SL.UEM.TOTL.ZS,"Unemployment, total"
+2009-01-01,,1388,,unemployment_pct,12.113,percent,World Bank WDI API,2009,SL.UEM.TOTL.ZS,"Unemployment, total"
+2010-01-01,,1389,,unemployment_pct,13.679,percent,World Bank WDI API,2010,SL.UEM.TOTL.ZS,"Unemployment, total"
+2011-01-01,,1390,,unemployment_pct,12.491,percent,World Bank WDI API,2011,SL.UEM.TOTL.ZS,"Unemployment, total"
+2012-01-01,,1391,,unemployment_pct,12.275,percent,World Bank WDI API,2012,SL.UEM.TOTL.ZS,"Unemployment, total"
+2013-01-01,,1392,,unemployment_pct,10.595,percent,World Bank WDI API,2013,SL.UEM.TOTL.ZS,"Unemployment, total"
+2014-01-01,,1393,,unemployment_pct,10.68,percent,World Bank WDI API,2014,SL.UEM.TOTL.ZS,"Unemployment, total"
+2015-01-01,,1394,,unemployment_pct,11.166,percent,World Bank WDI API,2015,SL.UEM.TOTL.ZS,"Unemployment, total"
+2016-01-01,,1395,,unemployment_pct,12.618,percent,World Bank WDI API,2016,SL.UEM.TOTL.ZS,"Unemployment, total"
+2017-01-01,,1396,,unemployment_pct,12.232,percent,World Bank WDI API,2017,SL.UEM.TOTL.ZS,"Unemployment, total"
+2018-01-01,,1397,,unemployment_pct,12.195,percent,World Bank WDI API,2018,SL.UEM.TOTL.ZS,"Unemployment, total"
+2019-01-01,,1398,,unemployment_pct,10.74,percent,World Bank WDI API,2019,SL.UEM.TOTL.ZS,"Unemployment, total"
+2020-01-01,,1399,,unemployment_pct,9.687,percent,World Bank WDI API,2020,SL.UEM.TOTL.ZS,"Unemployment, total"
+2021-01-01,,1400,,unemployment_pct,9.282,percent,World Bank WDI API,2021,SL.UEM.TOTL.ZS,"Unemployment, total"
+2022-01-01,,1401,,unemployment_pct,9.085,percent,World Bank WDI API,2022,SL.UEM.TOTL.ZS,"Unemployment, total"
+2023-01-01,,1402,,unemployment_pct,8.129,percent,World Bank WDI API,2023,SL.UEM.TOTL.ZS,"Unemployment, total"
+2024-01-01,,1403,,unemployment_pct,8.146,percent,World Bank WDI API,2024,SL.UEM.TOTL.ZS,"Unemployment, total"
+2025-01-01,,1404,,unemployment_pct,8.301,percent,World Bank WDI API,2025,SL.UEM.TOTL.ZS,"Unemployment, total"

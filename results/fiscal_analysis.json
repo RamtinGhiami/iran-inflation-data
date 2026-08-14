@@ -1,0 +1,71 @@
+{
+  "m2_growth": {
+    "n": 53,
+    "r": 0.2051601899890215,
+    "r_lag1": 0.41383060057119503,
+    "label": "broad money growth"
+  },
+  "credit_growth": {
+    "n": 51,
+    "r": 0.11790003446317261,
+    "r_lag1": 0.38236102687833495,
+    "label": "growth of net domestic credit"
+  },
+  "monetisation_gdp": {
+    "n": 54,
+    "r": 0.253546956550076,
+    "r_lag1": 0.23166113147143175,
+    "label": "govt claims, % GDP (level)"
+  },
+  "monetisation_m3": {
+    "n": 51,
+    "r": 0.13007340142182483,
+    "r_lag1": 0.22787073696514853,
+    "label": "govt claims, % M3 (level)"
+  },
+  "d_monetisation_m3": {
+    "n": 48,
+    "r": -0.1759363157533381,
+    "r_lag1": 0.06517778729187441,
+    "label": "govt claims, % M3 (change)"
+  },
+  "net_lending": {
+    "n": 38,
+    "r": -0.0974459804509787,
+    "r_lag1": -0.1023705274006701,
+    "label": "fiscal balance, % GDP"
+  },
+  "oil_rents": {
+    "n": 50,
+    "r": -0.04760327722873588,
+    "r_lag1": -0.014570547247737278,
+    "label": "oil rents, % GDP"
+  },
+  "govt_consumption": {
+    "n": 66,
+    "r": -0.10755430225112117,
+    "r_lag1": -0.05154739386463387,
+    "label": "govt consumption, % GDP"
+  },
+  "ols": {
+    "spec": "inflation ~ credit_growth(t-1) + oil_rents",
+    "n": 41,
+    "r2": 0.07804692743664432,
+    "r2_adj": 0.029523081512257243,
+    "params": {
+      "const": 12.25662013851867,
+      "credit_growth_lag": 0.2442172041556625,
+      "oil_rents": -0.023372739333697733
+    },
+    "tvalues": {
+      "const": 2.4733471724089737,
+      "credit_growth_lag": 1.7775695284868593,
+      "oil_rents": -0.12359923624071407
+    },
+    "pvalues": {
+      "const": 0.01797054515837648,
+      "credit_growth_lag": 0.08347884874900713,
+      "oil_rents": 0.9022840562437652
+    }
+  }
+}

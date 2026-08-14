@@ -1,0 +1,9 @@
+﻿severity,issue
+HIGH,"4 series lag >=6 months behind 1405-05: ppi_wb, cpi_core_wb, cpi_headline_wb, cpi_energy_wb"
+HIGH,The 1404-05 inflation spike is exactly the period these series do not cover. Any model using them cannot speak to it.
+MEDIUM,"16 entirely empty months padded onto the grid (the builder fills whole Jalali years). Harmless for joins, but drop them before fitting or they inflate row counts and skew any naive train/test split."
+MEDIUM,"only 33 months have all 54 features. Listwise deletion would gut the sample -- plan on feature subsets or imputation, and say which in the paper."
+HIGH,158 observations against 54 candidate features. Without the panel dimension this is a p>>n problem -- regularisation is mandatory and a referee will check that you used it.
+HIGH,estimation sample 141 months against 54 candidate features (2.6 per feature). Regularisation is mandatory on the time-series dimension alone.
+MEDIUM,"the target is the World Bank compilation, not the primary Statistical Centre of Iran release. Defensible for a robustness series; declare it explicitly, and prefer the SCI figures for a headline result."
+HIGH,"the target ends 17 months before the drivers do. The 1404-1405 inflation surge is outside the estimable sample, so it can be forecast but not fitted or validated."

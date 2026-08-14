@@ -1,0 +1,545 @@
+﻿date_gregorian,date_jalali,year_jalali,month_jalali,series_id,value,unit,source,year_gregorian,indicator_code,country_iso3,description,ilo_source
+1990-01-01,,1369,,earnings_lcu_egy,238.15,LCU per month,ILOSTAT (rplumber.ilo.org),1990,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1991-01-01,,1370,,earnings_lcu_egy,255.47,LCU per month,ILOSTAT (rplumber.ilo.org),1991,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1992-01-01,,1371,,earnings_lcu_egy,277.12,LCU per month,ILOSTAT (rplumber.ilo.org),1992,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1993-01-01,,1372,,earnings_lcu_egy,329.08,LCU per month,ILOSTAT (rplumber.ilo.org),1993,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1994-01-01,,1373,,earnings_lcu_egy,355.06,LCU per month,ILOSTAT (rplumber.ilo.org),1994,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1995-01-01,,1374,,earnings_lcu_egy,381.04,LCU per month,ILOSTAT (rplumber.ilo.org),1995,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1996-01-01,,1375,,earnings_lcu_egy,428.67,LCU per month,ILOSTAT (rplumber.ilo.org),1996,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1997-01-01,,1376,,earnings_lcu_egy,463.31,LCU per month,ILOSTAT (rplumber.ilo.org),1997,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1998-01-01,,1377,,earnings_lcu_egy,489.29,LCU per month,ILOSTAT (rplumber.ilo.org),1998,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1999-01-01,,1378,,earnings_lcu_egy,619.19,LCU per month,ILOSTAT (rplumber.ilo.org),1999,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2000-01-01,,1379,,earnings_lcu_egy,701.46,LCU per month,ILOSTAT (rplumber.ilo.org),2000,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2001-01-01,,1380,,earnings_lcu_egy,666.82,LCU per month,ILOSTAT (rplumber.ilo.org),2001,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2002-01-01,,1381,,earnings_lcu_egy,705.79,LCU per month,ILOSTAT (rplumber.ilo.org),2002,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2003-01-01,,1382,,earnings_lcu_egy,753.42,LCU per month,ILOSTAT (rplumber.ilo.org),2003,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2004-01-01,,1383,,earnings_lcu_egy,822.7,LCU per month,ILOSTAT (rplumber.ilo.org),2004,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2005-01-01,,1384,,earnings_lcu_egy,896.31,LCU per month,ILOSTAT (rplumber.ilo.org),2005,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2006-01-01,,1385,,earnings_lcu_egy,991.57,LCU per month,ILOSTAT (rplumber.ilo.org),2006,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2007-01-01,,1386,,earnings_lcu_egy,1091.16,LCU per month,ILOSTAT (rplumber.ilo.org),2007,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2008-01-01,,1387,,earnings_lcu_egy,71.235,LCU per month,ILOSTAT (rplumber.ilo.org),2008,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2009-01-01,,1388,,earnings_lcu_egy,240.272,LCU per month,ILOSTAT (rplumber.ilo.org),2009,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2010-01-01,,1389,,earnings_lcu_egy,760.359,LCU per month,ILOSTAT (rplumber.ilo.org),2010,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2011-01-01,,1390,,earnings_lcu_egy,953.332,LCU per month,ILOSTAT (rplumber.ilo.org),2011,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2012-01-01,,1391,,earnings_lcu_egy,1296.577,LCU per month,ILOSTAT (rplumber.ilo.org),2012,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2013-01-01,,1392,,earnings_lcu_egy,1398.949,LCU per month,ILOSTAT (rplumber.ilo.org),2013,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2015-01-01,,1394,,earnings_lcu_egy,1816.641,LCU per month,ILOSTAT (rplumber.ilo.org),2015,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2016-01-01,,1395,,earnings_lcu_egy,1961.061,LCU per month,ILOSTAT (rplumber.ilo.org),2016,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2017-01-01,,1396,,earnings_lcu_egy,2153.413,LCU per month,ILOSTAT (rplumber.ilo.org),2017,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2018-01-01,,1397,,earnings_lcu_egy,2245.307,LCU per month,ILOSTAT (rplumber.ilo.org),2018,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2019-01-01,,1398,,earnings_lcu_egy,2592.565,LCU per month,ILOSTAT (rplumber.ilo.org),2019,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2020-01-01,,1399,,earnings_lcu_egy,2705.454,LCU per month,ILOSTAT (rplumber.ilo.org),2020,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2021-01-01,,1400,,earnings_lcu_egy,2912.839,LCU per month,ILOSTAT (rplumber.ilo.org),2021,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2022-01-01,,1401,,earnings_lcu_egy,3241.331,LCU per month,ILOSTAT (rplumber.ilo.org),2022,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2023-01-01,,1402,,earnings_lcu_egy,3889.176,LCU per month,ILOSTAT (rplumber.ilo.org),2023,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2024-01-01,,1403,,earnings_lcu_egy,4953.561,LCU per month,ILOSTAT (rplumber.ilo.org),2024,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2005-01-01,,1384,,earnings_lcu_tur,597.153,LCU per month,ILOSTAT (rplumber.ilo.org),2005,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2006-01-01,,1385,,earnings_lcu_tur,676.075,LCU per month,ILOSTAT (rplumber.ilo.org),2006,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2007-01-01,,1386,,earnings_lcu_tur,761.017,LCU per month,ILOSTAT (rplumber.ilo.org),2007,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2008-01-01,,1387,,earnings_lcu_tur,867.804,LCU per month,ILOSTAT (rplumber.ilo.org),2008,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2009-01-01,,1388,,earnings_lcu_tur,958.723,LCU per month,ILOSTAT (rplumber.ilo.org),2009,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2010-01-01,,1389,,earnings_lcu_tur,1034.533,LCU per month,ILOSTAT (rplumber.ilo.org),2010,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2011-01-01,,1390,,earnings_lcu_tur,1144.197,LCU per month,ILOSTAT (rplumber.ilo.org),2011,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2012-01-01,,1391,,earnings_lcu_tur,1286.271,LCU per month,ILOSTAT (rplumber.ilo.org),2012,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2013-01-01,,1392,,earnings_lcu_tur,1410.372,LCU per month,ILOSTAT (rplumber.ilo.org),2013,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2014-01-01,,1393,,earnings_lcu_tur,1541.999,LCU per month,ILOSTAT (rplumber.ilo.org),2014,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2015-01-01,,1394,,earnings_lcu_tur,1683.984,LCU per month,ILOSTAT (rplumber.ilo.org),2015,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2016-01-01,,1395,,earnings_lcu_tur,1973.197,LCU per month,ILOSTAT (rplumber.ilo.org),2016,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2017-01-01,,1396,,earnings_lcu_tur,2141.934,LCU per month,ILOSTAT (rplumber.ilo.org),2017,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2018-01-01,,1397,,earnings_lcu_tur,2438.058,LCU per month,ILOSTAT (rplumber.ilo.org),2018,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2019-01-01,,1398,,earnings_lcu_tur,2951.546,LCU per month,ILOSTAT (rplumber.ilo.org),2019,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2020-01-01,,1399,,earnings_lcu_tur,3426.625,LCU per month,ILOSTAT (rplumber.ilo.org),2020,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2021-01-01,,1400,,earnings_lcu_tur,4025.438,LCU per month,ILOSTAT (rplumber.ilo.org),2021,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2022-01-01,,1401,,earnings_lcu_tur,6804.076,LCU per month,ILOSTAT (rplumber.ilo.org),2022,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2023-01-01,,1402,,earnings_lcu_tur,14445.936,LCU per month,ILOSTAT (rplumber.ilo.org),2023,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2024-01-01,,1403,,earnings_lcu_tur,28173.303,LCU per month,ILOSTAT (rplumber.ilo.org),2024,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2025-01-01,,1404,,earnings_lcu_tur,39486.797,LCU per month,ILOSTAT (rplumber.ilo.org),2025,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+1990-01-01,,1369,,earnings_ppp_egy,463.746,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),1990,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1991-01-01,,1370,,earnings_ppp_egy,433.025,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),1991,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1992-01-01,,1371,,earnings_ppp_egy,425.871,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),1992,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1993-01-01,,1372,,earnings_ppp_egy,464.493,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),1993,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1994-01-01,,1373,,earnings_ppp_egy,475.461,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),1994,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1995-01-01,,1374,,earnings_ppp_egy,453.219,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),1995,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1996-01-01,,1375,,earnings_ppp_egy,489.626,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),1996,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1997-01-01,,1376,,earnings_ppp_egy,517.62,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),1997,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1998-01-01,,1377,,earnings_ppp_egy,534.434,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),1998,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+1999-01-01,,1378,,earnings_ppp_egy,670.471,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),1999,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2000-01-01,,1379,,earnings_ppp_egy,764.681,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2000,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2001-01-01,,1380,,earnings_ppp_egy,730.874,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2001,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2002-01-01,,1381,,earnings_ppp_egy,764.919,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2002,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2003-01-01,,1382,,earnings_ppp_egy,799.056,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2003,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2004-01-01,,1383,,earnings_ppp_egy,805.147,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2004,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2005-01-01,,1384,,earnings_ppp_egy,864.835,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2005,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2006-01-01,,1385,,earnings_ppp_egy,917.477,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2006,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2007-01-01,,1386,,earnings_ppp_egy,949.905,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2007,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,CA:1102
+2008-01-01,,1387,,earnings_ppp_egy,54.425,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2008,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2009-01-01,,1388,,earnings_ppp_egy,163.668,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2009,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2010-01-01,,1389,,earnings_ppp_egy,473.133,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2010,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2011-01-01,,1390,,earnings_ppp_egy,555.979,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2011,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2012-01-01,,1391,,earnings_ppp_egy,750.576,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2012,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2013-01-01,,1392,,earnings_ppp_egy,729.309,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2013,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2015-01-01,,1394,,earnings_ppp_egy,774.111,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2015,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2016-01-01,,1395,,earnings_ppp_egy,739.303,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2016,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2017-01-01,,1396,,earnings_ppp_egy,629.311,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2017,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2018-01-01,,1397,,earnings_ppp_egy,612.203,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2018,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2019-01-01,,1398,,earnings_ppp_egy,651.951,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2019,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2020-01-01,,1399,,earnings_ppp_egy,664.189,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2020,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2021-01-01,,1400,,earnings_ppp_egy,707.953,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2021,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2022-01-01,,1401,,earnings_ppp_egy,747.032,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2022,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2023-01-01,,1402,,earnings_ppp_egy,697.046,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2023,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2024-01-01,,1403,,earnings_ppp_egy,712.555,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2024,EAR_EMTA_SEX_CUR_NB_A,EGY,Average monthly earnings of employees,BA:582
+2009-01-01,,1388,,earnings_ppp_tur,883.065,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2009,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2010-01-01,,1389,,earnings_ppp_tur,928.212,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2010,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2011-01-01,,1390,,earnings_ppp_tur,996.454,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2011,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2012-01-01,,1391,,earnings_ppp_tur,1045.356,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2012,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2013-01-01,,1392,,earnings_ppp_tur,1087.118,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2013,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2014-01-01,,1393,,earnings_ppp_tur,1126.086,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2014,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2015-01-01,,1394,,earnings_ppp_tur,1164.837,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2015,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2016-01-01,,1395,,earnings_ppp_tur,1268.812,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2016,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2017-01-01,,1396,,earnings_ppp_tur,1254.204,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2017,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2018-01-01,,1397,,earnings_ppp_tur,1262.412,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2018,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2019-01-01,,1398,,earnings_ppp_tur,1378.928,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2019,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2020-01-01,,1399,,earnings_ppp_tur,1351.278,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2020,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2021-01-01,,1400,,earnings_ppp_tur,1308.458,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2021,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2022-01-01,,1401,,earnings_ppp_tur,1399.086,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2022,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2023-01-01,,1402,,earnings_ppp_tur,1877.056,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2023,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2024-01-01,,1403,,earnings_ppp_tur,2244.586,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2024,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+2025-01-01,,1404,,earnings_ppp_tur,2225.313,2021 PPP USD per month,ILOSTAT (rplumber.ilo.org),2025,EAR_EMTA_SEX_CUR_NB_A,TUR,Average monthly earnings of employees,BA:622
+1990-01-01,,1369,,emp_pop_ratio_egy,45.326,percent of working-age population,ILOSTAT (rplumber.ilo.org),1990,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+1991-01-01,,1370,,emp_pop_ratio_egy,41.409,percent of working-age population,ILOSTAT (rplumber.ilo.org),1991,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+1992-01-01,,1371,,emp_pop_ratio_egy,42.832,percent of working-age population,ILOSTAT (rplumber.ilo.org),1992,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+1993-01-01,,1372,,emp_pop_ratio_egy,42.687,percent of working-age population,ILOSTAT (rplumber.ilo.org),1993,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+1994-01-01,,1373,,emp_pop_ratio_egy,43.378,percent of working-age population,ILOSTAT (rplumber.ilo.org),1994,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+1995-01-01,,1374,,emp_pop_ratio_egy,42.349,percent of working-age population,ILOSTAT (rplumber.ilo.org),1995,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+1996-01-01,,1375,,emp_pop_ratio_egy,42.644,percent of working-age population,ILOSTAT (rplumber.ilo.org),1996,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),AA:1101
+1998-01-01,,1377,,emp_pop_ratio_egy,42.309,percent of working-age population,ILOSTAT (rplumber.ilo.org),1998,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+1999-01-01,,1378,,emp_pop_ratio_egy,43.739,percent of working-age population,ILOSTAT (rplumber.ilo.org),1999,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2000-01-01,,1379,,emp_pop_ratio_egy,26.939,percent of working-age population,ILOSTAT (rplumber.ilo.org),2000,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2001-01-01,,1380,,emp_pop_ratio_egy,40.772,percent of working-age population,ILOSTAT (rplumber.ilo.org),2001,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2002-01-01,,1381,,emp_pop_ratio_egy,38.867,percent of working-age population,ILOSTAT (rplumber.ilo.org),2002,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2005-01-01,,1384,,emp_pop_ratio_egy,43.948,percent of working-age population,ILOSTAT (rplumber.ilo.org),2005,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2006-01-01,,1385,,emp_pop_ratio_egy,42.043,percent of working-age population,ILOSTAT (rplumber.ilo.org),2006,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2007-01-01,,1386,,emp_pop_ratio_egy,43.707,percent of working-age population,ILOSTAT (rplumber.ilo.org),2007,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2008-01-01,,1387,,emp_pop_ratio_egy,43.501,percent of working-age population,ILOSTAT (rplumber.ilo.org),2008,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2009-01-01,,1388,,emp_pop_ratio_egy,43.549,percent of working-age population,ILOSTAT (rplumber.ilo.org),2009,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2010-01-01,,1389,,emp_pop_ratio_egy,45.045,percent of working-age population,ILOSTAT (rplumber.ilo.org),2010,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2011-01-01,,1390,,emp_pop_ratio_egy,43.005,percent of working-age population,ILOSTAT (rplumber.ilo.org),2011,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2012-01-01,,1391,,emp_pop_ratio_egy,42.385,percent of working-age population,ILOSTAT (rplumber.ilo.org),2012,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2013-01-01,,1392,,emp_pop_ratio_egy,42.065,percent of working-age population,ILOSTAT (rplumber.ilo.org),2013,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2014-01-01,,1393,,emp_pop_ratio_egy,41.811,percent of working-age population,ILOSTAT (rplumber.ilo.org),2014,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2015-01-01,,1394,,emp_pop_ratio_egy,40.846,percent of working-age population,ILOSTAT (rplumber.ilo.org),2015,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2016-01-01,,1395,,emp_pop_ratio_egy,40.825,percent of working-age population,ILOSTAT (rplumber.ilo.org),2016,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2017-01-01,,1396,,emp_pop_ratio_egy,39.661,percent of working-age population,ILOSTAT (rplumber.ilo.org),2017,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2018-01-01,,1397,,emp_pop_ratio_egy,39.031,percent of working-age population,ILOSTAT (rplumber.ilo.org),2018,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2019-01-01,,1398,,emp_pop_ratio_egy,38.885,percent of working-age population,ILOSTAT (rplumber.ilo.org),2019,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2020-01-01,,1399,,emp_pop_ratio_egy,38.297,percent of working-age population,ILOSTAT (rplumber.ilo.org),2020,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2021-01-01,,1400,,emp_pop_ratio_egy,39.788,percent of working-age population,ILOSTAT (rplumber.ilo.org),2021,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2022-01-01,,1401,,emp_pop_ratio_egy,39.691,percent of working-age population,ILOSTAT (rplumber.ilo.org),2022,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2023-01-01,,1402,,emp_pop_ratio_egy,41.653,percent of working-age population,ILOSTAT (rplumber.ilo.org),2023,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+2024-01-01,,1403,,emp_pop_ratio_egy,45.104,percent of working-age population,ILOSTAT (rplumber.ilo.org),2024,EMP_DWAP_SEX_AGE_RT_A,EGY,Employment-to-population ratio (LFS),BA:582
+1991-01-01,,1370,,emp_pop_ratio_irn,33.9,percent of working-age population,ILOSTAT (rplumber.ilo.org),1991,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),AA:1267
+1996-01-01,,1375,,emp_pop_ratio_irn,40.145,percent of working-age population,ILOSTAT (rplumber.ilo.org),1996,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),AA:1267
+2005-01-01,,1384,,emp_pop_ratio_irn,40.075,percent of working-age population,ILOSTAT (rplumber.ilo.org),2005,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2006-01-01,,1385,,emp_pop_ratio_irn,39.435,percent of working-age population,ILOSTAT (rplumber.ilo.org),2006,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2007-01-01,,1386,,emp_pop_ratio_irn,38.956,percent of working-age population,ILOSTAT (rplumber.ilo.org),2007,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2008-01-01,,1387,,emp_pop_ratio_irn,37.036,percent of working-age population,ILOSTAT (rplumber.ilo.org),2008,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2009-01-01,,1388,,emp_pop_ratio_irn,37.237,percent of working-age population,ILOSTAT (rplumber.ilo.org),2009,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2010-01-01,,1389,,emp_pop_ratio_irn,35.905,percent of working-age population,ILOSTAT (rplumber.ilo.org),2010,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2011-01-01,,1390,,emp_pop_ratio_irn,34.993,percent of working-age population,ILOSTAT (rplumber.ilo.org),2011,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2012-01-01,,1391,,emp_pop_ratio_irn,35.58,percent of working-age population,ILOSTAT (rplumber.ilo.org),2012,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2013-01-01,,1392,,emp_pop_ratio_irn,36.243,percent of working-age population,ILOSTAT (rplumber.ilo.org),2013,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2014-01-01,,1393,,emp_pop_ratio_irn,35.931,percent of working-age population,ILOSTAT (rplumber.ilo.org),2014,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2015-01-01,,1394,,emp_pop_ratio_irn,36.736,percent of working-age population,ILOSTAT (rplumber.ilo.org),2015,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2016-01-01,,1395,,emp_pop_ratio_irn,37.212,percent of working-age population,ILOSTAT (rplumber.ilo.org),2016,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2017-01-01,,1396,,emp_pop_ratio_irn,38.386,percent of working-age population,ILOSTAT (rplumber.ilo.org),2017,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2018-01-01,,1397,,emp_pop_ratio_irn,38.656,percent of working-age population,ILOSTAT (rplumber.ilo.org),2018,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2019-01-01,,1398,,emp_pop_ratio_irn,39.0,percent of working-age population,ILOSTAT (rplumber.ilo.org),2019,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2020-01-01,,1399,,emp_pop_ratio_irn,36.982,percent of working-age population,ILOSTAT (rplumber.ilo.org),2020,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2021-01-01,,1400,,emp_pop_ratio_irn,36.807,percent of working-age population,ILOSTAT (rplumber.ilo.org),2021,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2022-01-01,,1401,,emp_pop_ratio_irn,36.852,percent of working-age population,ILOSTAT (rplumber.ilo.org),2022,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2023-01-01,,1402,,emp_pop_ratio_irn,37.608,percent of working-age population,ILOSTAT (rplumber.ilo.org),2023,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+2024-01-01,,1403,,emp_pop_ratio_irn,37.601,percent of working-age population,ILOSTAT (rplumber.ilo.org),2024,EMP_DWAP_SEX_AGE_RT_A,IRN,Employment-to-population ratio (LFS),BA:675
+1990-01-01,,1369,,emp_pop_ratio_tur,52.077,percent of working-age population,ILOSTAT (rplumber.ilo.org),1990,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2000-01-01,,1379,,emp_pop_ratio_tur,46.7,percent of working-age population,ILOSTAT (rplumber.ilo.org),2000,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2001-01-01,,1380,,emp_pop_ratio_tur,45.643,percent of working-age population,ILOSTAT (rplumber.ilo.org),2001,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2002-01-01,,1381,,emp_pop_ratio_tur,44.449,percent of working-age population,ILOSTAT (rplumber.ilo.org),2002,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2003-01-01,,1382,,emp_pop_ratio_tur,43.235,percent of working-age population,ILOSTAT (rplumber.ilo.org),2003,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2004-01-01,,1383,,emp_pop_ratio_tur,41.292,percent of working-age population,ILOSTAT (rplumber.ilo.org),2004,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2005-01-01,,1384,,emp_pop_ratio_tur,41.495,percent of working-age population,ILOSTAT (rplumber.ilo.org),2005,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2006-01-01,,1385,,emp_pop_ratio_tur,41.532,percent of working-age population,ILOSTAT (rplumber.ilo.org),2006,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2007-01-01,,1386,,emp_pop_ratio_tur,41.481,percent of working-age population,ILOSTAT (rplumber.ilo.org),2007,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2008-01-01,,1387,,emp_pop_ratio_tur,41.743,percent of working-age population,ILOSTAT (rplumber.ilo.org),2008,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2009-01-01,,1388,,emp_pop_ratio_tur,41.167,percent of working-age population,ILOSTAT (rplumber.ilo.org),2009,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2010-01-01,,1389,,emp_pop_ratio_tur,43.003,percent of working-age population,ILOSTAT (rplumber.ilo.org),2010,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2011-01-01,,1390,,emp_pop_ratio_tur,44.989,percent of working-age population,ILOSTAT (rplumber.ilo.org),2011,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2012-01-01,,1391,,emp_pop_ratio_tur,45.356,percent of working-age population,ILOSTAT (rplumber.ilo.org),2012,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2013-01-01,,1392,,emp_pop_ratio_tur,45.899,percent of working-age population,ILOSTAT (rplumber.ilo.org),2013,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2014-01-01,,1393,,emp_pop_ratio_tur,45.507,percent of working-age population,ILOSTAT (rplumber.ilo.org),2014,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2015-01-01,,1394,,emp_pop_ratio_tur,46.013,percent of working-age population,ILOSTAT (rplumber.ilo.org),2015,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2016-01-01,,1395,,emp_pop_ratio_tur,46.33,percent of working-age population,ILOSTAT (rplumber.ilo.org),2016,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2017-01-01,,1396,,emp_pop_ratio_tur,47.065,percent of working-age population,ILOSTAT (rplumber.ilo.org),2017,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2018-01-01,,1397,,emp_pop_ratio_tur,47.379,percent of working-age population,ILOSTAT (rplumber.ilo.org),2018,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2019-01-01,,1398,,emp_pop_ratio_tur,45.681,percent of working-age population,ILOSTAT (rplumber.ilo.org),2019,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2020-01-01,,1399,,emp_pop_ratio_tur,42.845,percent of working-age population,ILOSTAT (rplumber.ilo.org),2020,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2021-01-01,,1400,,emp_pop_ratio_tur,45.204,percent of working-age population,ILOSTAT (rplumber.ilo.org),2021,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2022-01-01,,1401,,emp_pop_ratio_tur,47.546,percent of working-age population,ILOSTAT (rplumber.ilo.org),2022,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2023-01-01,,1402,,emp_pop_ratio_tur,48.349,percent of working-age population,ILOSTAT (rplumber.ilo.org),2023,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2024-01-01,,1403,,emp_pop_ratio_tur,49.481,percent of working-age population,ILOSTAT (rplumber.ilo.org),2024,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+2025-01-01,,1404,,emp_pop_ratio_tur,49.049,percent of working-age population,ILOSTAT (rplumber.ilo.org),2025,EMP_DWAP_SEX_AGE_RT_A,TUR,Employment-to-population ratio (LFS),BA:622
+1990-01-01,,1369,,employment_thousands_egy,14361.4,thousands of persons,ILOSTAT (rplumber.ilo.org),1990,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+1991-01-01,,1370,,employment_thousands_egy,13826.8,thousands of persons,ILOSTAT (rplumber.ilo.org),1991,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+1992-01-01,,1371,,employment_thousands_egy,14398.8,thousands of persons,ILOSTAT (rplumber.ilo.org),1992,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+1993-01-01,,1372,,employment_thousands_egy,14703.4,thousands of persons,ILOSTAT (rplumber.ilo.org),1993,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+1994-01-01,,1373,,employment_thousands_egy,15241.4,thousands of persons,ILOSTAT (rplumber.ilo.org),1994,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+1995-01-01,,1374,,employment_thousands_egy,15344.2,thousands of persons,ILOSTAT (rplumber.ilo.org),1995,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+1996-01-01,,1375,,employment_thousands_egy,15768.22,thousands of persons,ILOSTAT (rplumber.ilo.org),1996,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),AA:1101
+1997-01-01,,1376,,employment_thousands_egy,15830.0,thousands of persons,ILOSTAT (rplumber.ilo.org),1997,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+1998-01-01,,1377,,employment_thousands_egy,16580.2,thousands of persons,ILOSTAT (rplumber.ilo.org),1998,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+1999-01-01,,1378,,employment_thousands_egy,17135.3,thousands of persons,ILOSTAT (rplumber.ilo.org),1999,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2000-01-01,,1379,,employment_thousands_egy,17203.3,thousands of persons,ILOSTAT (rplumber.ilo.org),2000,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2001-01-01,,1380,,employment_thousands_egy,17470.0,thousands of persons,ILOSTAT (rplumber.ilo.org),2001,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2002-01-01,,1381,,employment_thousands_egy,18155.8,thousands of persons,ILOSTAT (rplumber.ilo.org),2002,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2003-01-01,,1382,,employment_thousands_egy,18406.0,thousands of persons,ILOSTAT (rplumber.ilo.org),2003,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2004-01-01,,1383,,employment_thousands_egy,18619.75,thousands of persons,ILOSTAT (rplumber.ilo.org),2004,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2005-01-01,,1384,,employment_thousands_egy,19341.6,thousands of persons,ILOSTAT (rplumber.ilo.org),2005,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2006-01-01,,1385,,employment_thousands_egy,20771.4,thousands of persons,ILOSTAT (rplumber.ilo.org),2006,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2007-01-01,,1386,,employment_thousands_egy,22115.7,thousands of persons,ILOSTAT (rplumber.ilo.org),2007,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2008-01-01,,1387,,employment_thousands_egy,22507.311,thousands of persons,ILOSTAT (rplumber.ilo.org),2008,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2009-01-01,,1388,,employment_thousands_egy,22975.292,thousands of persons,ILOSTAT (rplumber.ilo.org),2009,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2010-01-01,,1389,,employment_thousands_egy,23829.005,thousands of persons,ILOSTAT (rplumber.ilo.org),2010,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2011-01-01,,1390,,employment_thousands_egy,23345.812,thousands of persons,ILOSTAT (rplumber.ilo.org),2011,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2012-01-01,,1391,,employment_thousands_egy,23564.393,thousands of persons,ILOSTAT (rplumber.ilo.org),2012,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2013-01-01,,1392,,employment_thousands_egy,23975.13,thousands of persons,ILOSTAT (rplumber.ilo.org),2013,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2014-01-01,,1393,,employment_thousands_egy,24331.249,thousands of persons,ILOSTAT (rplumber.ilo.org),2014,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2015-01-01,,1394,,employment_thousands_egy,24778.768,thousands of persons,ILOSTAT (rplumber.ilo.org),2015,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2016-01-01,,1395,,employment_thousands_egy,25331.181,thousands of persons,ILOSTAT (rplumber.ilo.org),2016,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2017-01-01,,1396,,employment_thousands_egy,26006.18,thousands of persons,ILOSTAT (rplumber.ilo.org),2017,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2018-01-01,,1397,,employment_thousands_egy,26021.022,thousands of persons,ILOSTAT (rplumber.ilo.org),2018,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2019-01-01,,1398,,employment_thousands_egy,26122.61,thousands of persons,ILOSTAT (rplumber.ilo.org),2019,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2020-01-01,,1399,,employment_thousands_egy,26238.958,thousands of persons,ILOSTAT (rplumber.ilo.org),2020,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2021-01-01,,1400,,employment_thousands_egy,27240.999,thousands of persons,ILOSTAT (rplumber.ilo.org),2021,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2022-01-01,,1401,,employment_thousands_egy,27976.39,thousands of persons,ILOSTAT (rplumber.ilo.org),2022,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2023-01-01,,1402,,employment_thousands_egy,29886.073,thousands of persons,ILOSTAT (rplumber.ilo.org),2023,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+2024-01-01,,1403,,employment_thousands_egy,32677.758,thousands of persons,ILOSTAT (rplumber.ilo.org),2024,EMP_TEMP_SEX_AGE_NB_A,EGY,Employment (LFS),BA:582
+1991-01-01,,1370,,employment_thousands_irn,13096.61,thousands of persons,ILOSTAT (rplumber.ilo.org),1991,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),AA:1267
+1996-01-01,,1375,,employment_thousands_irn,14571.572,thousands of persons,ILOSTAT (rplumber.ilo.org),1996,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),AA:1267
+2005-01-01,,1384,,employment_thousands_irn,19847.12,thousands of persons,ILOSTAT (rplumber.ilo.org),2005,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2006-01-01,,1385,,employment_thousands_irn,20201.691,thousands of persons,ILOSTAT (rplumber.ilo.org),2006,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2007-01-01,,1386,,employment_thousands_irn,20521.674,thousands of persons,ILOSTAT (rplumber.ilo.org),2007,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2008-01-01,,1387,,employment_thousands_irn,20032.433,thousands of persons,ILOSTAT (rplumber.ilo.org),2008,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2009-01-01,,1388,,employment_thousands_irn,20546.863,thousands of persons,ILOSTAT (rplumber.ilo.org),2009,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2010-01-01,,1389,,employment_thousands_irn,20244.609,thousands of persons,ILOSTAT (rplumber.ilo.org),2010,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2011-01-01,,1390,,employment_thousands_irn,20108.707,thousands of persons,ILOSTAT (rplumber.ilo.org),2011,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2012-01-01,,1391,,employment_thousands_irn,20283.386,thousands of persons,ILOSTAT (rplumber.ilo.org),2012,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2013-01-01,,1392,,employment_thousands_irn,20953.161,thousands of persons,ILOSTAT (rplumber.ilo.org),2013,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2014-01-01,,1393,,employment_thousands_irn,20997.036,thousands of persons,ILOSTAT (rplumber.ilo.org),2014,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2015-01-01,,1394,,employment_thousands_irn,21680.552,thousands of persons,ILOSTAT (rplumber.ilo.org),2015,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2016-01-01,,1395,,employment_thousands_irn,22149.198,thousands of persons,ILOSTAT (rplumber.ilo.org),2016,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2017-01-01,,1396,,employment_thousands_irn,23011.655,thousands of persons,ILOSTAT (rplumber.ilo.org),2017,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2018-01-01,,1397,,employment_thousands_irn,23435.812,thousands of persons,ILOSTAT (rplumber.ilo.org),2018,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2019-01-01,,1398,,employment_thousands_irn,24046.846,thousands of persons,ILOSTAT (rplumber.ilo.org),2019,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2020-01-01,,1399,,employment_thousands_irn,23065.873,thousands of persons,ILOSTAT (rplumber.ilo.org),2020,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2021-01-01,,1400,,employment_thousands_irn,23210.743,thousands of persons,ILOSTAT (rplumber.ilo.org),2021,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2022-01-01,,1401,,employment_thousands_irn,23507.615,thousands of persons,ILOSTAT (rplumber.ilo.org),2022,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2023-01-01,,1402,,employment_thousands_irn,24276.926,thousands of persons,ILOSTAT (rplumber.ilo.org),2023,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+2024-01-01,,1403,,employment_thousands_irn,24567.799,thousands of persons,ILOSTAT (rplumber.ilo.org),2024,EMP_TEMP_SEX_AGE_NB_A,IRN,Employment (LFS),BA:675
+1990-01-01,,1369,,employment_thousands_tur,18541.5,thousands of persons,ILOSTAT (rplumber.ilo.org),1990,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+1991-01-01,,1370,,employment_thousands_tur,19287.5,thousands of persons,ILOSTAT (rplumber.ilo.org),1991,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+1992-01-01,,1371,,employment_thousands_tur,19459.0,thousands of persons,ILOSTAT (rplumber.ilo.org),1992,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+1993-01-01,,1372,,employment_thousands_tur,18499.5,thousands of persons,ILOSTAT (rplumber.ilo.org),1993,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+1994-01-01,,1373,,employment_thousands_tur,20006.0,thousands of persons,ILOSTAT (rplumber.ilo.org),1994,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+1995-01-01,,1374,,employment_thousands_tur,20586.0,thousands of persons,ILOSTAT (rplumber.ilo.org),1995,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+1996-01-01,,1375,,employment_thousands_tur,21194.0,thousands of persons,ILOSTAT (rplumber.ilo.org),1996,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+1997-01-01,,1376,,employment_thousands_tur,21204.0,thousands of persons,ILOSTAT (rplumber.ilo.org),1997,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+1998-01-01,,1377,,employment_thousands_tur,21778.5,thousands of persons,ILOSTAT (rplumber.ilo.org),1998,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+1999-01-01,,1378,,employment_thousands_tur,22048.0,thousands of persons,ILOSTAT (rplumber.ilo.org),1999,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2000-01-01,,1379,,employment_thousands_tur,21580.824,thousands of persons,ILOSTAT (rplumber.ilo.org),2000,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2001-01-01,,1380,,employment_thousands_tur,21524.355,thousands of persons,ILOSTAT (rplumber.ilo.org),2001,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2002-01-01,,1381,,employment_thousands_tur,21353.833,thousands of persons,ILOSTAT (rplumber.ilo.org),2002,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2003-01-01,,1382,,employment_thousands_tur,21147.238,thousands of persons,ILOSTAT (rplumber.ilo.org),2003,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2004-01-01,,1383,,employment_thousands_tur,19631.862,thousands of persons,ILOSTAT (rplumber.ilo.org),2004,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2005-01-01,,1384,,employment_thousands_tur,20066.636,thousands of persons,ILOSTAT (rplumber.ilo.org),2005,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2006-01-01,,1385,,employment_thousands_tur,20423.095,thousands of persons,ILOSTAT (rplumber.ilo.org),2006,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2007-01-01,,1386,,employment_thousands_tur,20737.647,thousands of persons,ILOSTAT (rplumber.ilo.org),2007,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2008-01-01,,1387,,employment_thousands_tur,21193.619,thousands of persons,ILOSTAT (rplumber.ilo.org),2008,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2009-01-01,,1388,,employment_thousands_tur,21277.419,thousands of persons,ILOSTAT (rplumber.ilo.org),2009,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2010-01-01,,1389,,employment_thousands_tur,22594.251,thousands of persons,ILOSTAT (rplumber.ilo.org),2010,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2011-01-01,,1390,,employment_thousands_tur,24110.475,thousands of persons,ILOSTAT (rplumber.ilo.org),2011,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2012-01-01,,1391,,employment_thousands_tur,24820.752,thousands of persons,ILOSTAT (rplumber.ilo.org),2012,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2013-01-01,,1392,,employment_thousands_tur,25523.641,thousands of persons,ILOSTAT (rplumber.ilo.org),2013,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2014-01-01,,1393,,employment_thousands_tur,25932.59,thousands of persons,ILOSTAT (rplumber.ilo.org),2014,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2015-01-01,,1394,,employment_thousands_tur,26620.551,thousands of persons,ILOSTAT (rplumber.ilo.org),2015,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2016-01-01,,1395,,employment_thousands_tur,27205.161,thousands of persons,ILOSTAT (rplumber.ilo.org),2016,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2017-01-01,,1396,,employment_thousands_tur,28188.894,thousands of persons,ILOSTAT (rplumber.ilo.org),2017,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2018-01-01,,1397,,employment_thousands_tur,28737.561,thousands of persons,ILOSTAT (rplumber.ilo.org),2018,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2019-01-01,,1398,,employment_thousands_tur,28079.693,thousands of persons,ILOSTAT (rplumber.ilo.org),2019,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2020-01-01,,1399,,employment_thousands_tur,26812.183,thousands of persons,ILOSTAT (rplumber.ilo.org),2020,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2021-01-01,,1400,,employment_thousands_tur,28796.813,thousands of persons,ILOSTAT (rplumber.ilo.org),2021,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2022-01-01,,1401,,employment_thousands_tur,30752.482,thousands of persons,ILOSTAT (rplumber.ilo.org),2022,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2023-01-01,,1402,,employment_thousands_tur,31632.32,thousands of persons,ILOSTAT (rplumber.ilo.org),2023,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2024-01-01,,1403,,employment_thousands_tur,32620.335,thousands of persons,ILOSTAT (rplumber.ilo.org),2024,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2025-01-01,,1404,,employment_thousands_tur,32566.338,thousands of persons,ILOSTAT (rplumber.ilo.org),2025,EMP_TEMP_SEX_AGE_NB_A,TUR,Employment (LFS),BA:622
+2008-01-01,,1387,,informal_rate_egy,55.727,percent of employment,ILOSTAT (rplumber.ilo.org),2008,SDG_0831_SEX_ECO_RT_A,EGY,Informal employment share (SDG 8.3.1),BA:582
+2009-01-01,,1388,,informal_rate_egy,55.407,percent of employment,ILOSTAT (rplumber.ilo.org),2009,SDG_0831_SEX_ECO_RT_A,EGY,Informal employment share (SDG 8.3.1),BA:582
+2010-01-01,,1389,,informal_rate_egy,57.638,percent of employment,ILOSTAT (rplumber.ilo.org),2010,SDG_0831_SEX_ECO_RT_A,EGY,Informal employment share (SDG 8.3.1),BA:582
+2011-01-01,,1390,,informal_rate_egy,58.727,percent of employment,ILOSTAT (rplumber.ilo.org),2011,SDG_0831_SEX_ECO_RT_A,EGY,Informal employment share (SDG 8.3.1),BA:582
+2012-01-01,,1391,,informal_rate_egy,55.918,percent of employment,ILOSTAT (rplumber.ilo.org),2012,SDG_0831_SEX_ECO_RT_A,EGY,Informal employment share (SDG 8.3.1),BA:582
+2013-01-01,,1392,,informal_rate_egy,57.61,percent of employment,ILOSTAT (rplumber.ilo.org),2013,SDG_0831_SEX_ECO_RT_A,EGY,Informal employment share (SDG 8.3.1),BA:582
+2015-01-01,,1394,,informal_rate_egy,59.826,percent of employment,ILOSTAT (rplumber.ilo.org),2015,SDG_0831_SEX_ECO_RT_A,EGY,Informal employment share (SDG 8.3.1),BA:582
+2016-01-01,,1395,,informal_rate_egy,61.867,percent of employment,ILOSTAT (rplumber.ilo.org),2016,SDG_0831_SEX_ECO_RT_A,EGY,Informal employment share (SDG 8.3.1),BA:582
+2017-01-01,,1396,,informal_rate_egy,63.74,percent of employment,ILOSTAT (rplumber.ilo.org),2017,SDG_0831_SEX_ECO_RT_A,EGY,Informal employment share (SDG 8.3.1),BA:582
+2019-01-01,,1398,,informal_rate_egy,67.002,percent of employment,ILOSTAT (rplumber.ilo.org),2019,SDG_0831_SEX_ECO_RT_A,EGY,Informal employment share (SDG 8.3.1),BA:582
+2023-01-01,,1402,,informal_rate_egy,71.33,percent of employment,ILOSTAT (rplumber.ilo.org),2023,SDG_0831_SEX_ECO_RT_A,EGY,Informal employment share (SDG 8.3.1),BA:582
+2024-01-01,,1403,,informal_rate_egy,68.613,percent of employment,ILOSTAT (rplumber.ilo.org),2024,SDG_0831_SEX_ECO_RT_A,EGY,Informal employment share (SDG 8.3.1),BA:582
+2000-01-01,,1379,,informal_rate_tur,51.984,percent of employment,ILOSTAT (rplumber.ilo.org),2000,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2001-01-01,,1380,,informal_rate_tur,53.398,percent of employment,ILOSTAT (rplumber.ilo.org),2001,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2002-01-01,,1381,,informal_rate_tur,52.51,percent of employment,ILOSTAT (rplumber.ilo.org),2002,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2003-01-01,,1382,,informal_rate_tur,52.128,percent of employment,ILOSTAT (rplumber.ilo.org),2003,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2004-01-01,,1383,,informal_rate_tur,51.018,percent of employment,ILOSTAT (rplumber.ilo.org),2004,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2005-01-01,,1384,,informal_rate_tur,49.046,percent of employment,ILOSTAT (rplumber.ilo.org),2005,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2006-01-01,,1385,,informal_rate_tur,47.746,percent of employment,ILOSTAT (rplumber.ilo.org),2006,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2007-01-01,,1386,,informal_rate_tur,46.032,percent of employment,ILOSTAT (rplumber.ilo.org),2007,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2008-01-01,,1387,,informal_rate_tur,44.133,percent of employment,ILOSTAT (rplumber.ilo.org),2008,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2009-01-01,,1388,,informal_rate_tur,45.061,percent of employment,ILOSTAT (rplumber.ilo.org),2009,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2010-01-01,,1389,,informal_rate_tur,44.398,percent of employment,ILOSTAT (rplumber.ilo.org),2010,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2011-01-01,,1390,,informal_rate_tur,43.2,percent of employment,ILOSTAT (rplumber.ilo.org),2011,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2012-01-01,,1391,,informal_rate_tur,40.158,percent of employment,ILOSTAT (rplumber.ilo.org),2012,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2013-01-01,,1392,,informal_rate_tur,37.808,percent of employment,ILOSTAT (rplumber.ilo.org),2013,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2014-01-01,,1393,,informal_rate_tur,36.299,percent of employment,ILOSTAT (rplumber.ilo.org),2014,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2015-01-01,,1394,,informal_rate_tur,34.783,percent of employment,ILOSTAT (rplumber.ilo.org),2015,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2016-01-01,,1395,,informal_rate_tur,34.541,percent of employment,ILOSTAT (rplumber.ilo.org),2016,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2017-01-01,,1396,,informal_rate_tur,35.002,percent of employment,ILOSTAT (rplumber.ilo.org),2017,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2018-01-01,,1397,,informal_rate_tur,34.751,percent of employment,ILOSTAT (rplumber.ilo.org),2018,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2019-01-01,,1398,,informal_rate_tur,35.242,percent of employment,ILOSTAT (rplumber.ilo.org),2019,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2020-01-01,,1399,,informal_rate_tur,31.419,percent of employment,ILOSTAT (rplumber.ilo.org),2020,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2021-01-01,,1400,,informal_rate_tur,29.887,percent of employment,ILOSTAT (rplumber.ilo.org),2021,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2022-01-01,,1401,,informal_rate_tur,28.099,percent of employment,ILOSTAT (rplumber.ilo.org),2022,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2023-01-01,,1402,,informal_rate_tur,27.307,percent of employment,ILOSTAT (rplumber.ilo.org),2023,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2024-01-01,,1403,,informal_rate_tur,27.71,percent of employment,ILOSTAT (rplumber.ilo.org),2024,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+2025-01-01,,1404,,informal_rate_tur,26.591,percent of employment,ILOSTAT (rplumber.ilo.org),2025,SDG_0831_SEX_ECO_RT_A,TUR,Informal employment share (SDG 8.3.1),BA:622
+1990-01-01,,1369,,participation_rate_egy,50.384,percent of working-age population,ILOSTAT (rplumber.ilo.org),1990,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+1991-01-01,,1370,,participation_rate_egy,46.716,percent of working-age population,ILOSTAT (rplumber.ilo.org),1991,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+1992-01-01,,1371,,participation_rate_egy,47.186,percent of working-age population,ILOSTAT (rplumber.ilo.org),1992,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+1993-01-01,,1372,,participation_rate_egy,47.885,percent of working-age population,ILOSTAT (rplumber.ilo.org),1993,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+1994-01-01,,1373,,participation_rate_egy,48.879,percent of working-age population,ILOSTAT (rplumber.ilo.org),1994,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+1995-01-01,,1374,,participation_rate_egy,47.925,percent of working-age population,ILOSTAT (rplumber.ilo.org),1995,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+1996-01-01,,1375,,participation_rate_egy,46.599,percent of working-age population,ILOSTAT (rplumber.ilo.org),1996,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),AA:1101
+1998-01-01,,1377,,participation_rate_egy,46.003,percent of working-age population,ILOSTAT (rplumber.ilo.org),1998,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+1999-01-01,,1378,,participation_rate_egy,47.518,percent of working-age population,ILOSTAT (rplumber.ilo.org),1999,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2000-01-01,,1379,,participation_rate_egy,29.6,percent of working-age population,ILOSTAT (rplumber.ilo.org),2000,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2001-01-01,,1380,,participation_rate_egy,44.933,percent of working-age population,ILOSTAT (rplumber.ilo.org),2001,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2002-01-01,,1381,,participation_rate_egy,43.192,percent of working-age population,ILOSTAT (rplumber.ilo.org),2002,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2005-01-01,,1384,,participation_rate_egy,49.515,percent of working-age population,ILOSTAT (rplumber.ilo.org),2005,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2006-01-01,,1385,,participation_rate_egy,46.97,percent of working-age population,ILOSTAT (rplumber.ilo.org),2006,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2007-01-01,,1386,,participation_rate_egy,47.926,percent of working-age population,ILOSTAT (rplumber.ilo.org),2007,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2008-01-01,,1387,,participation_rate_egy,47.551,percent of working-age population,ILOSTAT (rplumber.ilo.org),2008,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2009-01-01,,1388,,participation_rate_egy,47.902,percent of working-age population,ILOSTAT (rplumber.ilo.org),2009,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2010-01-01,,1389,,participation_rate_egy,49.368,percent of working-age population,ILOSTAT (rplumber.ilo.org),2010,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2011-01-01,,1390,,participation_rate_egy,48.785,percent of working-age population,ILOSTAT (rplumber.ilo.org),2011,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2012-01-01,,1391,,participation_rate_egy,48.494,percent of working-age population,ILOSTAT (rplumber.ilo.org),2012,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2013-01-01,,1392,,participation_rate_egy,48.436,percent of working-age population,ILOSTAT (rplumber.ilo.org),2013,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2014-01-01,,1393,,participation_rate_egy,48.117,percent of working-age population,ILOSTAT (rplumber.ilo.org),2014,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2015-01-01,,1394,,participation_rate_egy,46.978,percent of working-age population,ILOSTAT (rplumber.ilo.org),2015,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2016-01-01,,1395,,participation_rate_egy,46.63,percent of working-age population,ILOSTAT (rplumber.ilo.org),2016,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2017-01-01,,1396,,participation_rate_egy,44.95,percent of working-age population,ILOSTAT (rplumber.ilo.org),2017,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2018-01-01,,1397,,participation_rate_egy,43.299,percent of working-age population,ILOSTAT (rplumber.ilo.org),2018,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2019-01-01,,1398,,participation_rate_egy,42.199,percent of working-age population,ILOSTAT (rplumber.ilo.org),2019,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2020-01-01,,1399,,participation_rate_egy,41.616,percent of working-age population,ILOSTAT (rplumber.ilo.org),2020,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2021-01-01,,1400,,participation_rate_egy,42.987,percent of working-age population,ILOSTAT (rplumber.ilo.org),2021,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2022-01-01,,1401,,participation_rate_egy,42.837,percent of working-age population,ILOSTAT (rplumber.ilo.org),2022,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2023-01-01,,1402,,participation_rate_egy,44.669,percent of working-age population,ILOSTAT (rplumber.ilo.org),2023,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+2024-01-01,,1403,,participation_rate_egy,47.955,percent of working-age population,ILOSTAT (rplumber.ilo.org),2024,EAP_DWAP_SEX_AGE_RT_A,EGY,Labour force participation rate (LFS),BA:582
+1991-01-01,,1370,,participation_rate_irn,46.111,percent of working-age population,ILOSTAT (rplumber.ilo.org),1991,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),AA:1267
+1996-01-01,,1375,,participation_rate_irn,43.119,percent of working-age population,ILOSTAT (rplumber.ilo.org),1996,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),AA:1267
+2005-01-01,,1384,,participation_rate_irn,45.444,percent of working-age population,ILOSTAT (rplumber.ilo.org),2005,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2006-01-01,,1385,,participation_rate_irn,44.569,percent of working-age population,ILOSTAT (rplumber.ilo.org),2006,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2007-01-01,,1386,,participation_rate_irn,43.659,percent of working-age population,ILOSTAT (rplumber.ilo.org),2007,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2008-01-01,,1387,,participation_rate_irn,41.441,percent of working-age population,ILOSTAT (rplumber.ilo.org),2008,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2009-01-01,,1388,,participation_rate_irn,42.369,percent of working-age population,ILOSTAT (rplumber.ilo.org),2009,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2010-01-01,,1389,,participation_rate_irn,41.595,percent of working-age population,ILOSTAT (rplumber.ilo.org),2010,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2011-01-01,,1390,,participation_rate_irn,39.988,percent of working-age population,ILOSTAT (rplumber.ilo.org),2011,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2012-01-01,,1391,,participation_rate_irn,40.559,percent of working-age population,ILOSTAT (rplumber.ilo.org),2012,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2013-01-01,,1392,,participation_rate_irn,40.538,percent of working-age population,ILOSTAT (rplumber.ilo.org),2013,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2014-01-01,,1393,,participation_rate_irn,40.227,percent of working-age population,ILOSTAT (rplumber.ilo.org),2014,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2015-01-01,,1394,,participation_rate_irn,41.354,percent of working-age population,ILOSTAT (rplumber.ilo.org),2015,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2016-01-01,,1395,,participation_rate_irn,42.586,percent of working-age population,ILOSTAT (rplumber.ilo.org),2016,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2017-01-01,,1396,,participation_rate_irn,43.735,percent of working-age population,ILOSTAT (rplumber.ilo.org),2017,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2018-01-01,,1397,,participation_rate_irn,44.025,percent of working-age population,ILOSTAT (rplumber.ilo.org),2018,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2019-01-01,,1398,,participation_rate_irn,43.693,percent of working-age population,ILOSTAT (rplumber.ilo.org),2019,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2020-01-01,,1399,,participation_rate_irn,40.949,percent of working-age population,ILOSTAT (rplumber.ilo.org),2020,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2021-01-01,,1400,,participation_rate_irn,40.574,percent of working-age population,ILOSTAT (rplumber.ilo.org),2021,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2022-01-01,,1401,,participation_rate_irn,40.534,percent of working-age population,ILOSTAT (rplumber.ilo.org),2022,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2023-01-01,,1402,,participation_rate_irn,40.936,percent of working-age population,ILOSTAT (rplumber.ilo.org),2023,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+2024-01-01,,1403,,participation_rate_irn,40.707,percent of working-age population,ILOSTAT (rplumber.ilo.org),2024,EAP_DWAP_SEX_AGE_RT_A,IRN,Labour force participation rate (LFS),BA:675
+1990-01-01,,1369,,participation_rate_tur,56.614,percent of working-age population,ILOSTAT (rplumber.ilo.org),1990,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2000-01-01,,1379,,participation_rate_tur,49.941,percent of working-age population,ILOSTAT (rplumber.ilo.org),2000,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2001-01-01,,1380,,participation_rate_tur,49.814,percent of working-age population,ILOSTAT (rplumber.ilo.org),2001,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2002-01-01,,1381,,participation_rate_tur,49.578,percent of working-age population,ILOSTAT (rplumber.ilo.org),2002,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2003-01-01,,1382,,participation_rate_tur,48.332,percent of working-age population,ILOSTAT (rplumber.ilo.org),2003,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2004-01-01,,1383,,participation_rate_tur,46.308,percent of working-age population,ILOSTAT (rplumber.ilo.org),2004,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2005-01-01,,1384,,participation_rate_tur,46.433,percent of working-age population,ILOSTAT (rplumber.ilo.org),2005,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2006-01-01,,1385,,participation_rate_tur,46.266,percent of working-age population,ILOSTAT (rplumber.ilo.org),2006,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2007-01-01,,1386,,participation_rate_tur,46.234,percent of working-age population,ILOSTAT (rplumber.ilo.org),2007,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2008-01-01,,1387,,participation_rate_tur,46.886,percent of working-age population,ILOSTAT (rplumber.ilo.org),2008,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2009-01-01,,1388,,participation_rate_tur,47.882,percent of working-age population,ILOSTAT (rplumber.ilo.org),2009,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2010-01-01,,1389,,participation_rate_tur,48.801,percent of working-age population,ILOSTAT (rplumber.ilo.org),2010,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2011-01-01,,1390,,participation_rate_tur,49.868,percent of working-age population,ILOSTAT (rplumber.ilo.org),2011,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2012-01-01,,1391,,participation_rate_tur,49.957,percent of working-age population,ILOSTAT (rplumber.ilo.org),2012,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2013-01-01,,1392,,participation_rate_tur,50.839,percent of working-age population,ILOSTAT (rplumber.ilo.org),2013,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2014-01-01,,1393,,participation_rate_tur,50.514,percent of working-age population,ILOSTAT (rplumber.ilo.org),2014,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2015-01-01,,1394,,participation_rate_tur,51.298,percent of working-age population,ILOSTAT (rplumber.ilo.org),2015,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2016-01-01,,1395,,participation_rate_tur,52.001,percent of working-age population,ILOSTAT (rplumber.ilo.org),2016,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2017-01-01,,1396,,participation_rate_tur,52.832,percent of working-age population,ILOSTAT (rplumber.ilo.org),2017,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2018-01-01,,1397,,participation_rate_tur,53.21,percent of working-age population,ILOSTAT (rplumber.ilo.org),2018,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2019-01-01,,1398,,participation_rate_tur,52.952,percent of working-age population,ILOSTAT (rplumber.ilo.org),2019,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2020-01-01,,1399,,participation_rate_tur,49.335,percent of working-age population,ILOSTAT (rplumber.ilo.org),2020,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2021-01-01,,1400,,participation_rate_tur,51.356,percent of working-age population,ILOSTAT (rplumber.ilo.org),2021,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2022-01-01,,1401,,participation_rate_tur,53.084,percent of working-age population,ILOSTAT (rplumber.ilo.org),2022,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2023-01-01,,1402,,participation_rate_tur,53.338,percent of working-age population,ILOSTAT (rplumber.ilo.org),2023,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2024-01-01,,1403,,participation_rate_tur,54.202,percent of working-age population,ILOSTAT (rplumber.ilo.org),2024,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2025-01-01,,1404,,participation_rate_tur,53.517,percent of working-age population,ILOSTAT (rplumber.ilo.org),2025,EAP_DWAP_SEX_AGE_RT_A,TUR,Labour force participation rate (LFS),BA:622
+2011-01-01,,1390,,underemployment_rate_egy,9.35,percent of employment,ILOSTAT (rplumber.ilo.org),2011,EMP_XTRU_SEX_AGE_RT_A,EGY,Time-related underemployment rate,BA:582
+2012-01-01,,1391,,underemployment_rate_egy,7.98,percent of employment,ILOSTAT (rplumber.ilo.org),2012,EMP_XTRU_SEX_AGE_RT_A,EGY,Time-related underemployment rate,BA:582
+2013-01-01,,1392,,underemployment_rate_egy,7.32,percent of employment,ILOSTAT (rplumber.ilo.org),2013,EMP_XTRU_SEX_AGE_RT_A,EGY,Time-related underemployment rate,BA:582
+2016-01-01,,1395,,underemployment_rate_egy,1.16,percent of employment,ILOSTAT (rplumber.ilo.org),2016,EMP_XTRU_SEX_AGE_RT_A,EGY,Time-related underemployment rate,BA:582
+2017-01-01,,1396,,underemployment_rate_egy,0.959,percent of employment,ILOSTAT (rplumber.ilo.org),2017,EMP_XTRU_SEX_AGE_RT_A,EGY,Time-related underemployment rate,BA:582
+2018-01-01,,1397,,underemployment_rate_egy,0.559,percent of employment,ILOSTAT (rplumber.ilo.org),2018,EMP_XTRU_SEX_AGE_RT_A,EGY,Time-related underemployment rate,BA:582
+2019-01-01,,1398,,underemployment_rate_egy,0.167,percent of employment,ILOSTAT (rplumber.ilo.org),2019,EMP_XTRU_SEX_AGE_RT_A,EGY,Time-related underemployment rate,BA:582
+2024-01-01,,1403,,underemployment_rate_egy,0.687,percent of employment,ILOSTAT (rplumber.ilo.org),2024,EMP_XTRU_SEX_AGE_RT_A,EGY,Time-related underemployment rate,BA:582
+2005-01-01,,1384,,underemployment_rate_irn,6.955,percent of employment,ILOSTAT (rplumber.ilo.org),2005,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2006-01-01,,1385,,underemployment_rate_irn,6.511,percent of employment,ILOSTAT (rplumber.ilo.org),2006,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2007-01-01,,1386,,underemployment_rate_irn,5.825,percent of employment,ILOSTAT (rplumber.ilo.org),2007,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2008-01-01,,1387,,underemployment_rate_irn,6.908,percent of employment,ILOSTAT (rplumber.ilo.org),2008,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2009-01-01,,1388,,underemployment_rate_irn,9.104,percent of employment,ILOSTAT (rplumber.ilo.org),2009,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2010-01-01,,1389,,underemployment_rate_irn,9.804,percent of employment,ILOSTAT (rplumber.ilo.org),2010,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2011-01-01,,1390,,underemployment_rate_irn,7.944,percent of employment,ILOSTAT (rplumber.ilo.org),2011,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2012-01-01,,1391,,underemployment_rate_irn,7.65,percent of employment,ILOSTAT (rplumber.ilo.org),2012,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2013-01-01,,1392,,underemployment_rate_irn,7.48,percent of employment,ILOSTAT (rplumber.ilo.org),2013,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2014-01-01,,1393,,underemployment_rate_irn,7.973,percent of employment,ILOSTAT (rplumber.ilo.org),2014,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2015-01-01,,1394,,underemployment_rate_irn,8.199,percent of employment,ILOSTAT (rplumber.ilo.org),2015,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2016-01-01,,1395,,underemployment_rate_irn,8.731,percent of employment,ILOSTAT (rplumber.ilo.org),2016,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2017-01-01,,1396,,underemployment_rate_irn,16.692,percent of employment,ILOSTAT (rplumber.ilo.org),2017,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2018-01-01,,1397,,underemployment_rate_irn,9.239,percent of employment,ILOSTAT (rplumber.ilo.org),2018,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2019-01-01,,1398,,underemployment_rate_irn,8.557,percent of employment,ILOSTAT (rplumber.ilo.org),2019,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2020-01-01,,1399,,underemployment_rate_irn,9.246,percent of employment,ILOSTAT (rplumber.ilo.org),2020,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2021-01-01,,1400,,underemployment_rate_irn,8.543,percent of employment,ILOSTAT (rplumber.ilo.org),2021,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2022-01-01,,1401,,underemployment_rate_irn,7.449,percent of employment,ILOSTAT (rplumber.ilo.org),2022,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2023-01-01,,1402,,underemployment_rate_irn,6.611,percent of employment,ILOSTAT (rplumber.ilo.org),2023,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2024-01-01,,1403,,underemployment_rate_irn,6.276,percent of employment,ILOSTAT (rplumber.ilo.org),2024,EMP_XTRU_SEX_AGE_RT_A,IRN,Time-related underemployment rate,BA:675
+2004-01-01,,1383,,underemployment_rate_tur,1.019,percent of employment,ILOSTAT (rplumber.ilo.org),2004,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2005-01-01,,1384,,underemployment_rate_tur,0.958,percent of employment,ILOSTAT (rplumber.ilo.org),2005,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2006-01-01,,1385,,underemployment_rate_tur,1.291,percent of employment,ILOSTAT (rplumber.ilo.org),2006,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2007-01-01,,1386,,underemployment_rate_tur,1.287,percent of employment,ILOSTAT (rplumber.ilo.org),2007,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2008-01-01,,1387,,underemployment_rate_tur,1.483,percent of employment,ILOSTAT (rplumber.ilo.org),2008,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2009-01-01,,1388,,underemployment_rate_tur,2.362,percent of employment,ILOSTAT (rplumber.ilo.org),2009,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2010-01-01,,1389,,underemployment_rate_tur,2.561,percent of employment,ILOSTAT (rplumber.ilo.org),2010,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2011-01-01,,1390,,underemployment_rate_tur,2.01,percent of employment,ILOSTAT (rplumber.ilo.org),2011,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2012-01-01,,1391,,underemployment_rate_tur,1.603,percent of employment,ILOSTAT (rplumber.ilo.org),2012,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2013-01-01,,1392,,underemployment_rate_tur,1.698,percent of employment,ILOSTAT (rplumber.ilo.org),2013,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2014-01-01,,1393,,underemployment_rate_tur,2.073,percent of employment,ILOSTAT (rplumber.ilo.org),2014,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2015-01-01,,1394,,underemployment_rate_tur,1.622,percent of employment,ILOSTAT (rplumber.ilo.org),2015,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2016-01-01,,1395,,underemployment_rate_tur,1.534,percent of employment,ILOSTAT (rplumber.ilo.org),2016,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2017-01-01,,1396,,underemployment_rate_tur,1.285,percent of employment,ILOSTAT (rplumber.ilo.org),2017,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2018-01-01,,1397,,underemployment_rate_tur,1.163,percent of employment,ILOSTAT (rplumber.ilo.org),2018,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2019-01-01,,1398,,underemployment_rate_tur,1.106,percent of employment,ILOSTAT (rplumber.ilo.org),2019,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2020-01-01,,1399,,underemployment_rate_tur,3.194,percent of employment,ILOSTAT (rplumber.ilo.org),2020,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2021-01-01,,1400,,underemployment_rate_tur,3.966,percent of employment,ILOSTAT (rplumber.ilo.org),2021,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2022-01-01,,1401,,underemployment_rate_tur,3.342,percent of employment,ILOSTAT (rplumber.ilo.org),2022,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2023-01-01,,1402,,underemployment_rate_tur,4.536,percent of employment,ILOSTAT (rplumber.ilo.org),2023,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2024-01-01,,1403,,underemployment_rate_tur,7.027,percent of employment,ILOSTAT (rplumber.ilo.org),2024,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+2025-01-01,,1404,,underemployment_rate_tur,8.753,percent of employment,ILOSTAT (rplumber.ilo.org),2025,EMP_XTRU_SEX_AGE_RT_A,TUR,Time-related underemployment rate,BA:622
+1990-01-01,,1369,,unemployment_rate_egy,8.434,percent of labor force,ILOSTAT (rplumber.ilo.org),1990,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+1991-01-01,,1370,,unemployment_rate_egy,9.382,percent of labor force,ILOSTAT (rplumber.ilo.org),1991,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+1992-01-01,,1371,,unemployment_rate_egy,8.925,percent of labor force,ILOSTAT (rplumber.ilo.org),1992,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+1993-01-01,,1372,,unemployment_rate_egy,10.917,percent of labor force,ILOSTAT (rplumber.ilo.org),1993,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+1994-01-01,,1373,,unemployment_rate_egy,10.932,percent of labor force,ILOSTAT (rplumber.ilo.org),1994,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+1995-01-01,,1374,,unemployment_rate_egy,11.039,percent of labor force,ILOSTAT (rplumber.ilo.org),1995,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+1996-01-01,,1375,,unemployment_rate_egy,9.0,percent of labor force,ILOSTAT (rplumber.ilo.org),1996,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),AA:1101
+1997-01-01,,1376,,unemployment_rate_egy,8.372,percent of labor force,ILOSTAT (rplumber.ilo.org),1997,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+1998-01-01,,1377,,unemployment_rate_egy,8.029,percent of labor force,ILOSTAT (rplumber.ilo.org),1998,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+1999-01-01,,1378,,unemployment_rate_egy,7.953,percent of labor force,ILOSTAT (rplumber.ilo.org),1999,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2000-01-01,,1379,,unemployment_rate_egy,8.984,percent of labor force,ILOSTAT (rplumber.ilo.org),2000,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2001-01-01,,1380,,unemployment_rate_egy,9.2,percent of labor force,ILOSTAT (rplumber.ilo.org),2001,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2002-01-01,,1381,,unemployment_rate_egy,10.015,percent of labor force,ILOSTAT (rplumber.ilo.org),2002,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2003-01-01,,1382,,unemployment_rate_egy,10.416,percent of labor force,ILOSTAT (rplumber.ilo.org),2003,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2004-01-01,,1383,,unemployment_rate_egy,10.745,percent of labor force,ILOSTAT (rplumber.ilo.org),2004,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2005-01-01,,1384,,unemployment_rate_egy,11.243,percent of labor force,ILOSTAT (rplumber.ilo.org),2005,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2006-01-01,,1385,,unemployment_rate_egy,10.491,percent of labor force,ILOSTAT (rplumber.ilo.org),2006,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2007-01-01,,1386,,unemployment_rate_egy,8.805,percent of labor force,ILOSTAT (rplumber.ilo.org),2007,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2008-01-01,,1387,,unemployment_rate_egy,8.517,percent of labor force,ILOSTAT (rplumber.ilo.org),2008,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2009-01-01,,1388,,unemployment_rate_egy,9.087,percent of labor force,ILOSTAT (rplumber.ilo.org),2009,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2010-01-01,,1389,,unemployment_rate_egy,8.757,percent of labor force,ILOSTAT (rplumber.ilo.org),2010,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2011-01-01,,1390,,unemployment_rate_egy,11.849,percent of labor force,ILOSTAT (rplumber.ilo.org),2011,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2012-01-01,,1391,,unemployment_rate_egy,12.597,percent of labor force,ILOSTAT (rplumber.ilo.org),2012,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2013-01-01,,1392,,unemployment_rate_egy,13.154,percent of labor force,ILOSTAT (rplumber.ilo.org),2013,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2014-01-01,,1393,,unemployment_rate_egy,13.105,percent of labor force,ILOSTAT (rplumber.ilo.org),2014,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2015-01-01,,1394,,unemployment_rate_egy,13.052,percent of labor force,ILOSTAT (rplumber.ilo.org),2015,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2016-01-01,,1395,,unemployment_rate_egy,12.45,percent of labor force,ILOSTAT (rplumber.ilo.org),2016,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2017-01-01,,1396,,unemployment_rate_egy,11.767,percent of labor force,ILOSTAT (rplumber.ilo.org),2017,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2018-01-01,,1397,,unemployment_rate_egy,9.855,percent of labor force,ILOSTAT (rplumber.ilo.org),2018,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2019-01-01,,1398,,unemployment_rate_egy,7.851,percent of labor force,ILOSTAT (rplumber.ilo.org),2019,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2020-01-01,,1399,,unemployment_rate_egy,7.974,percent of labor force,ILOSTAT (rplumber.ilo.org),2020,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2021-01-01,,1400,,unemployment_rate_egy,7.441,percent of labor force,ILOSTAT (rplumber.ilo.org),2021,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2022-01-01,,1401,,unemployment_rate_egy,7.344,percent of labor force,ILOSTAT (rplumber.ilo.org),2022,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2023-01-01,,1402,,unemployment_rate_egy,6.753,percent of labor force,ILOSTAT (rplumber.ilo.org),2023,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+2024-01-01,,1403,,unemployment_rate_egy,5.945,percent of labor force,ILOSTAT (rplumber.ilo.org),2024,UNE_DEAP_SEX_AGE_RT_A,EGY,Unemployment rate (LFS),BA:582
+1991-01-01,,1370,,unemployment_rate_irn,11.1,percent of labor force,ILOSTAT (rplumber.ilo.org),1991,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),AA:1267
+1996-01-01,,1375,,unemployment_rate_irn,9.1,percent of labor force,ILOSTAT (rplumber.ilo.org),1996,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),AA:1267
+2002-01-01,,1381,,unemployment_rate_irn,12.8,percent of labor force,ILOSTAT (rplumber.ilo.org),2002,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2004-01-01,,1383,,unemployment_rate_irn,10.3,percent of labor force,ILOSTAT (rplumber.ilo.org),2004,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2005-01-01,,1384,,unemployment_rate_irn,11.813,percent of labor force,ILOSTAT (rplumber.ilo.org),2005,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2006-01-01,,1385,,unemployment_rate_irn,11.519,percent of labor force,ILOSTAT (rplumber.ilo.org),2006,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2007-01-01,,1386,,unemployment_rate_irn,10.772,percent of labor force,ILOSTAT (rplumber.ilo.org),2007,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2008-01-01,,1387,,unemployment_rate_irn,10.63,percent of labor force,ILOSTAT (rplumber.ilo.org),2008,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2009-01-01,,1388,,unemployment_rate_irn,12.113,percent of labor force,ILOSTAT (rplumber.ilo.org),2009,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2010-01-01,,1389,,unemployment_rate_irn,13.679,percent of labor force,ILOSTAT (rplumber.ilo.org),2010,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2011-01-01,,1390,,unemployment_rate_irn,12.491,percent of labor force,ILOSTAT (rplumber.ilo.org),2011,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2012-01-01,,1391,,unemployment_rate_irn,12.275,percent of labor force,ILOSTAT (rplumber.ilo.org),2012,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2013-01-01,,1392,,unemployment_rate_irn,10.595,percent of labor force,ILOSTAT (rplumber.ilo.org),2013,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2014-01-01,,1393,,unemployment_rate_irn,10.68,percent of labor force,ILOSTAT (rplumber.ilo.org),2014,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2015-01-01,,1394,,unemployment_rate_irn,11.166,percent of labor force,ILOSTAT (rplumber.ilo.org),2015,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2016-01-01,,1395,,unemployment_rate_irn,12.618,percent of labor force,ILOSTAT (rplumber.ilo.org),2016,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2017-01-01,,1396,,unemployment_rate_irn,12.232,percent of labor force,ILOSTAT (rplumber.ilo.org),2017,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2018-01-01,,1397,,unemployment_rate_irn,12.195,percent of labor force,ILOSTAT (rplumber.ilo.org),2018,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2019-01-01,,1398,,unemployment_rate_irn,10.74,percent of labor force,ILOSTAT (rplumber.ilo.org),2019,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2020-01-01,,1399,,unemployment_rate_irn,9.687,percent of labor force,ILOSTAT (rplumber.ilo.org),2020,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2021-01-01,,1400,,unemployment_rate_irn,9.282,percent of labor force,ILOSTAT (rplumber.ilo.org),2021,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2022-01-01,,1401,,unemployment_rate_irn,9.085,percent of labor force,ILOSTAT (rplumber.ilo.org),2022,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2023-01-01,,1402,,unemployment_rate_irn,8.129,percent of labor force,ILOSTAT (rplumber.ilo.org),2023,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+2024-01-01,,1403,,unemployment_rate_irn,7.631,percent of labor force,ILOSTAT (rplumber.ilo.org),2024,UNE_DEAP_SEX_AGE_RT_A,IRN,Unemployment rate (LFS),BA:675
+1990-01-01,,1369,,unemployment_rate_tur,8.015,percent of labor force,ILOSTAT (rplumber.ilo.org),1990,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+1991-01-01,,1370,,unemployment_rate_tur,8.113,percent of labor force,ILOSTAT (rplumber.ilo.org),1991,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+1992-01-01,,1371,,unemployment_rate_tur,8.184,percent of labor force,ILOSTAT (rplumber.ilo.org),1992,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+1993-01-01,,1372,,unemployment_rate_tur,8.255,percent of labor force,ILOSTAT (rplumber.ilo.org),1993,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+1994-01-01,,1373,,unemployment_rate_tur,8.149,percent of labor force,ILOSTAT (rplumber.ilo.org),1994,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+1995-01-01,,1374,,unemployment_rate_tur,7.241,percent of labor force,ILOSTAT (rplumber.ilo.org),1995,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+1996-01-01,,1375,,unemployment_rate_tur,6.265,percent of labor force,ILOSTAT (rplumber.ilo.org),1996,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+1997-01-01,,1376,,unemployment_rate_tur,6.452,percent of labor force,ILOSTAT (rplumber.ilo.org),1997,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+1998-01-01,,1377,,unemployment_rate_tur,6.552,percent of labor force,ILOSTAT (rplumber.ilo.org),1998,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+1999-01-01,,1378,,unemployment_rate_tur,7.445,percent of labor force,ILOSTAT (rplumber.ilo.org),1999,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2000-01-01,,1379,,unemployment_rate_tur,6.488,percent of labor force,ILOSTAT (rplumber.ilo.org),2000,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2001-01-01,,1380,,unemployment_rate_tur,8.373,percent of labor force,ILOSTAT (rplumber.ilo.org),2001,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2002-01-01,,1381,,unemployment_rate_tur,10.345,percent of labor force,ILOSTAT (rplumber.ilo.org),2002,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2003-01-01,,1382,,unemployment_rate_tur,10.546,percent of labor force,ILOSTAT (rplumber.ilo.org),2003,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2004-01-01,,1383,,unemployment_rate_tur,10.831,percent of labor force,ILOSTAT (rplumber.ilo.org),2004,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2005-01-01,,1384,,unemployment_rate_tur,10.634,percent of labor force,ILOSTAT (rplumber.ilo.org),2005,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2006-01-01,,1385,,unemployment_rate_tur,10.233,percent of labor force,ILOSTAT (rplumber.ilo.org),2006,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2007-01-01,,1386,,unemployment_rate_tur,10.281,percent of labor force,ILOSTAT (rplumber.ilo.org),2007,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2008-01-01,,1387,,unemployment_rate_tur,10.97,percent of labor force,ILOSTAT (rplumber.ilo.org),2008,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2009-01-01,,1388,,unemployment_rate_tur,14.024,percent of labor force,ILOSTAT (rplumber.ilo.org),2009,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2010-01-01,,1389,,unemployment_rate_tur,11.881,percent of labor force,ILOSTAT (rplumber.ilo.org),2010,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2011-01-01,,1390,,unemployment_rate_tur,9.784,percent of labor force,ILOSTAT (rplumber.ilo.org),2011,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2012-01-01,,1391,,unemployment_rate_tur,9.21,percent of labor force,ILOSTAT (rplumber.ilo.org),2012,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2013-01-01,,1392,,unemployment_rate_tur,9.717,percent of labor force,ILOSTAT (rplumber.ilo.org),2013,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2014-01-01,,1393,,unemployment_rate_tur,9.912,percent of labor force,ILOSTAT (rplumber.ilo.org),2014,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2015-01-01,,1394,,unemployment_rate_tur,10.302,percent of labor force,ILOSTAT (rplumber.ilo.org),2015,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2016-01-01,,1395,,unemployment_rate_tur,10.905,percent of labor force,ILOSTAT (rplumber.ilo.org),2016,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2017-01-01,,1396,,unemployment_rate_tur,10.916,percent of labor force,ILOSTAT (rplumber.ilo.org),2017,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2018-01-01,,1397,,unemployment_rate_tur,10.958,percent of labor force,ILOSTAT (rplumber.ilo.org),2018,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2019-01-01,,1398,,unemployment_rate_tur,13.731,percent of labor force,ILOSTAT (rplumber.ilo.org),2019,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2020-01-01,,1399,,unemployment_rate_tur,13.155,percent of labor force,ILOSTAT (rplumber.ilo.org),2020,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2021-01-01,,1400,,unemployment_rate_tur,11.979,percent of labor force,ILOSTAT (rplumber.ilo.org),2021,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2022-01-01,,1401,,unemployment_rate_tur,10.432,percent of labor force,ILOSTAT (rplumber.ilo.org),2022,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2023-01-01,,1402,,unemployment_rate_tur,9.354,percent of labor force,ILOSTAT (rplumber.ilo.org),2023,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2024-01-01,,1403,,unemployment_rate_tur,8.711,percent of labor force,ILOSTAT (rplumber.ilo.org),2024,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
+2025-01-01,,1404,,unemployment_rate_tur,8.348,percent of labor force,ILOSTAT (rplumber.ilo.org),2025,UNE_DEAP_SEX_AGE_RT_A,TUR,Unemployment rate (LFS),BA:622
